@@ -1,0 +1,16 @@
+case	sd	pelican	accessory	insert	micro	reader	slot	microsd	protection	
+mode	setting	shot	high	shooting	zoom	exr	auto	low	light	
+size	feature	space	device	small	large	storage	smaller	larger	type	
+review	digital	canon	point	nikon	book	slr	dslr	positive	research	
+file	image	format	raw	software	chip	film	fuji	system	deal	
+phone	music	computer	cell	player	samsung	laptop	blackberry	picture	android	
+sd	adapter	microsd	reader	micro	slot	usb	standard	storage	sdhc	
+sandisk	read	gb	random	class	iop	sequential	sdhc	microsdhc	speed	
+photo	pic	scanner	editing	scanning	plastic	line	white	box	sleeve	
+speed	fast	datum	star	transfer	slow	super	big	reason	mbp	
+price	cost	shipping	seller	buck	performance	deal	delivery	free	purchase	
+sandisk	class	microsdhc	sdhc	gb	transcend	flash	extreme	capacity	reader	
+video	movie	hd	full	hour	minute	seconds	canon	camcorder	recording	
+extra	money	battery	package	works	cheaper	worth	model	dollar	packaging	
+picture	clear	easy	sharp	quick	simple	description	fujifilm	envelope	order	
+average coherence	-1346.7883452473056

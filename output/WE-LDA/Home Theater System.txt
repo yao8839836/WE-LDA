@@ -1,0 +1,16 @@
+small	compact	price	sound	sleek	tiny	con	large	medium	weight	
+theater	room	den	bedroom	apartment	ceiling	theatre	home	condo	thx	
+guide	setup	quick	simple	straightforward	breeze	instruction	straight	interface	installation	
+change	option	auto	mode	minute	album	ability	multiple	sony	music	
+front	splice	wire	elbow	back	cabinet	rear	wall	outlet	wiring	
+control	universal	mute	button	menu	intuitive	command	press	harmony	code	
+speaker	sound	radio	light	station	reception	tuner	preset	red	volume	
+coaxial	optic	decoding	hdmus	analog	hdmi	av	dts	output	decoder	
+wireless	game	stream	ethernet	movie	xbox	connection	youtube	pandora	streaming	
+dvd	player	disc	cable	cd	changer	tv	audio	svcd	disk	
+panasonic	rating	cheaper	review	newer	model	negative	comment	chance	previous	
+mid	distortion	high	bass	frequency	level	rich	clear	lower	picture	
+subwoofer	boomy	crossover	speaker	tinny	cinemate	passive	quiet	loud	bose	
+directv	denon	soundbar	hdtv	tv	lcd	samsung	goal	bravia	yamaha	
+nerve	authorized	rep	repair	question	support	defective	customer	replacement	service	
+average coherence	-136.20631506615433

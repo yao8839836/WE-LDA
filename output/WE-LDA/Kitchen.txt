@@ -1,0 +1,16 @@
+fan	tank	water	price	hoover	machine	heavy	setting	light	sharper	
+hepa	efficiency	filter	charcoal	filtration	permanent	allergen	coffee	tea	pot	
+topper	feather	pillow	firm	foam	twin	malouf	bed	comfort	fluffy	
+winter	summer	minute	middle	cool	cold	morning	sleep	warm	battery	
+small	space	large	plenty	smaller	bigger	big	larger	narrow	wide	
+outdoor	room	alarm	weather	temp	humidity	clock	degree	sensor	temperature	
+volume	loud	oscillation	speed	noisy	tolerable	silent	annoying	ionizer	noise	
+dark	convenient	durable	bright	portable	lamp	color	lightweight	job	compact	
+assembly	clean	quick	easier	instruction	important	simple	easy	ability	feature	
+steam	soleplate	iron	chamber	garment	rowenta	reservoir	sink	hose	pants	
+front	bottom	opposite	wall	side	line	flat	place	box	litter	
+circulation	air	purifier	humidifier	bag	rabbit	size	dust	house	ionic	
+hardwood	cleaning	tile	hoover	cleaner	bissell	floor	carpet	steamvac	bissel	
+cleaner	bagless	vacuum	eureka	dyson	vac	bissel	suction	tile	hoover	
+online	customer	positive	negative	review	rating	call	previous	cheaper	service	
+average coherence	-125.61390126782602

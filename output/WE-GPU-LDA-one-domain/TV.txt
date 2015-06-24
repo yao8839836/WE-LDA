@@ -1,0 +1,16 @@
+system	analog	feature	tuner	price	easy	sound	speaker	pc	file	
+system	analog	tuner	feature	easy	speaker	pc	sound	price	software	
+system	analog	tuner	feature	price	easy	speaker	sound	pc	volume	
+system	analog	feature	tuner	easy	pc	speaker	software	file	sound	
+system	analog	price	tuner	feature	easy	sound	speaker	pc	volume	
+system	analog	tuner	price	easy	feature	sound	speaker	pc	local	
+system	analog	feature	tuner	price	easy	speaker	sound	pc	software	
+system	analog	tuner	feature	price	easy	speaker	sound	file	audio	
+system	analog	feature	tuner	easy	speaker	pc	price	sound	software	
+system	analog	tuner	easy	price	feature	speaker	sound	pc	volume	
+system	analog	tuner	feature	price	easy	pc	speaker	sound	volume	
+system	analog	tuner	feature	price	easy	pc	sound	speaker	hard	
+system	analog	price	feature	tuner	easy	software	speaker	pc	sound	
+system	analog	price	feature	easy	tuner	speaker	sound	pc	volume	
+system	analog	tuner	feature	easy	speaker	price	pc	sound	software	
+average coherence	-1657.0877391085405

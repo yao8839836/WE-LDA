@@ -1,0 +1,16 @@
+finger	touch	screen	hand	large	fingerprint	small	pen	fire	comfortable	
+note	app	hand	finger	pen	large	comfortable	clip	screen	touch	
+case	tablet	book	cover	page	works	pocket	holder	angle	place	
+finger	touch	screen	capacitive	fire	iphone	hand	fingerprint	black	apple	
+finger	review	hand	screen	touch	star	pen	large	comfortable	clip	
+finger	hand	pen	large	touch	screen	clip	comfortable	fire	fingerprint	
+pen	hand	comfortable	large	clip	light	size	weight	finger	small	
+finger	hand	large	pen	screen	touch	clip	comfortable	money	small	
+finger	touch	hand	screen	large	pen	fire	small	fingerprint	comfortable	
+price	phone	cable	device	cloth	usb	charger	cord	car	job	
+finger	touch	screen	hand	large	small	fingerprint	fire	pen	comfortable	
+finger	screen	touch	hand	large	fire	small	fingerprint	pen	easier	
+finger	touch	screen	hand	large	pen	protector	clip	comfortable	fingerprint	
+end	pen	hand	clip	large	comfortable	jack	headphone	plastic	string	
+tip	rubber	boxwave	soft	pogo	pressure	smaller	accurate	point	sketch	
+average coherence	-1550.6882053938102

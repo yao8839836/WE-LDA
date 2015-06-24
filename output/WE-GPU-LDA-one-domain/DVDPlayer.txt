@@ -1,0 +1,16 @@
+battery	car	power	hour	price	video	audio	long	trip	movie	
+price	audio	video	movie	picture	system	screen	tv	disk	output	
+panasonic	sony	model	money	toshiba	warranty	company	big	part	support	
+price	audio	video	movie	screen	disk	picture	feature	disc	system	
+price	audio	video	movie	screen	button	picture	disk	tv	feature	
+price	audio	video	movie	picture	screen	disk	system	disc	feature	
+button	control	remote	small	service	menu	easy	customer	machine	feature	
+audio	price	video	movie	region	picture	system	screen	disk	disc	
+button	price	audio	video	movie	small	disk	screen	control	feature	
+price	audio	video	movie	screen	picture	disk	system	disc	tv	
+price	audio	video	movie	screen	picture	disk	system	tv	disc	
+price	audio	video	movie	screen	disk	tv	feature	system	disc	
+audio	video	price	movie	picture	screen	tv	system	disk	output	
+audio	video	price	tv	movie	screen	cable	output	system	picture	
+audio	price	video	movie	screen	disk	disc	picture	tv	feature	
+average coherence	-1646.8655392108544

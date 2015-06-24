@@ -1,0 +1,16 @@
+china	broken	unhappy	durability	walmart	sale	investment	needless	garbage	stay	
+purchase	research	warranty	glad	today	chance	disappointed	manufacturer	replacement	company	
+purchase	today	research	chance	glad	cheaper	past	disappointed	opinion	warranty	
+purchase	today	past	choice	chance	cheaper	research	expensive	company	fact	
+choice	past	idea	fact	today	purchase	company	trouble	online	experience	
+choice	trouble	idea	addition	multiple	fact	order	program	ability	cd	
+addition	ability	separate	regular	multiple	source	single	tv	choice	program	
+separate	addition	ability	source	regular	multiple	single	option	output	stereo	
+separate	addition	multiple	regular	ability	single	source	matter	close	individual	
+ability	addition	separate	multiple	option	source	record	program	playback	device	
+ability	record	playback	program	option	vcr	source	multiple	selection	recorder	
+ability	option	record	playback	multiple	addition	program	separate	source	selection	
+record	playback	vcr	selection	program	dt	chapter	option	method	xbox	
+playback	record	selection	vcr	dt	program	chapter	ability	xbox	conversion	
+picture	display	dolby	playback	dts	dt	image	effect	ability	selection	
+average coherence	-1224.324526403455

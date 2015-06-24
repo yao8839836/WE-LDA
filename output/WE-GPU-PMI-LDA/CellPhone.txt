@@ -1,0 +1,16 @@
+ear	headset	piece	comfortable	head	earbud	design	fit	headphone	bud	
+price	service	free	shipping	money	company	customer	expensive	seller	buck	
+card	review	star	sd	slot	reason	samsung	memory	rating	micro	
+case	cover	plastic	accessory	protective	cheap	part	hard	clip	top	
+htc	blackberry	droid	cell	user	evo	sprint	smartphone	motorola	verizon	
+iphone	device	ipad	dock	app	software	nokia	android	version	model	
+screen	protector	display	touch	touchscreen	color	black	ipod	fingerprint	white	
+small	keyboard	pocket	key	stylus	big	large	hand	deal	size	
+text	email	internet	message	difficult	home	purchase	web	game	wifus	
+button	easy	side	volume	simple	menu	front	feature	back	press	
+charger	car	usb	cable	outlet	cord	power	adapter	plug	cradle	
+camera	feature	video	light	picture	function	option	flash	clear	blue	
+call	number	voice	contact	person	fm	signal	radio	reception	antenna	
+battery	charge	life	hour	minute	full	long	half	worth	couple	
+headset	sound	headphone	speaker	music	mic	noise	jack	earbud	loud	
+average coherence	-1382.8636535163093

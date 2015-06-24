@@ -1,0 +1,16 @@
+feather	topper	hour	ready	sofa	restful	comfort	supportive	temperpedic	matress	
+night	bed	guest	window	bedroom	sleep	low	house	floor	open	
+money	price	buck	purchase	total	glad	dollar	choice	expensive	tempurpedic	
+pain	hip	discomfort	stiffness	topper	matrest	sleeping	foam	sore	density	
+comfortable	supportive	cushion	comfy	feel	thick	soft	softer	layer	plush	
+smell	fabric	material	thick	sheet	thin	layer	seam	thicker	unpleasant	
+prime	cost	delivery	seller	bargain	shipping	fast	vendor	fair	buy	
+foam	memory	topper	lb	pound	firm	body	longer	period	short	
+length	width	valve	inch	elasticized	rock	air	hard	minute	fitting	
+bed	queen	king	twin	shape	regular	adult	beautyrest	addition	older	
+pad	point	kind	sort	waterproof	simple	type	original	due	experience	
+positive	review	online	chance	negative	rating	website	star	previous	future	
+king	queen	twin	larger	narrow	width	smaller	fit	wide	size	
+winter	mint	heat	chocolate	cream	odor	smell	warm	faint	cool	
+side	bottom	corner	flat	line	cover	plastic	place	center	top	
+average coherence	-138.68286818991777

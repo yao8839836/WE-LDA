@@ -1,0 +1,16 @@
+sound	price	bass	speaker	decent	mic	inexpensive	headset	expensive	friend	
+cord	cable	small	plug	short	long	size	clip	large	smaller	
+sound	bass	high	low	range	end	speaker	higher	mid	treble	
+noise	sound	clear	loud	background	music	picture	conversation	bass	speaker	
+headphone	review	sound	jack	service	dollar	model	mouth	research	wrong	
+price	money	expensive	star	worth	feature	reason	deal	due	option	
+phone	volume	call	button	control	level	cell	app	distortion	android	
+headphone	pair	jack	earbud	mouth	music	earphone	shure	skullcandy	ear	
+cheap	wire	plastic	part	side	mic	earpiece	flimsy	headset	headphone	
+ear	bud	earbud	head	piece	pair	uncomfortable	comfortable	skullcandy	fit	
+camera	video	light	skype	webcam	picture	cam	clear	night	web	
+camera	device	setting	ip	wireless	setup	connection	address	home	mac	
+audio	voice	recording	hour	battery	recorder	playback	online	couple	room	
+computer	laptop	usb	easy	pc	software	driver	webcam	vista	windows	
+mic	headset	mouth	sony	stereo	logitech	complaint	headphone	radio	boom	
+average coherence	-1435.8438910566506

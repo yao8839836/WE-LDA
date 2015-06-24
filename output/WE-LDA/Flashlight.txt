@@ -1,0 +1,16 @@
+size	smaller	larger	simple	quick	bigger	regular	purse	easier	portable	
+maglite	led	officer	emt	maglight	cell	law	baton	bat	magcharger	
+bulb	aa	spare	lithium	rechargeable	sears	battery	alkaline	drill	ryobi	
+buck	positive	version	latest	expensive	purchase	customer	review	replacement	rating	
+maglite	brighter	luxeon	lumen	maglights	incandescent	nite	streamlight	fenix	halogen	
+car	emergency	truck	tool	door	wall	trunk	kitchen	space	office	
+hour	minute	longer	life	night	short	period	rain	feature	technology	
+metal	material	heavy	construction	tough	rubber	sturdy	cheap	durable	high	
+head	small	front	place	bottom	top	hole	side	inch	line	
+battery	output	outage	voltage	strobe	power	switch	luman	headboard	neighbor	
+light	christmas	dad	mode	brother	hand	gift	big	flash	spot	
+spotlight	beam	reflector	concentrated	focusable	dim	candle	luxeon	lamp	blackout	
+cap	tail	lanyard	rear	screw	pocket	base	tiny	pack	barrel	
+mag	belt	holster	lifeline	sheath	leatherman	intensity	weapon	waterproof	mini	
+bright	blue	light	dark	color	yellow	white	price	silver	red	
+average coherence	-142.99441933388337

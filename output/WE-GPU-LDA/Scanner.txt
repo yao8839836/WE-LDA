@@ -1,0 +1,16 @@
+particle	mask	papers	strip	sleeve	paint	roller	inside	legal	portion	
+crooked	lab	neg	searchable	kodachrome	scan	scanning	faxing	draft	duplex	
+searchable	crooked	genealogical	adf	faxing	lab	scanning	duplex	flatbed	brochure	
+searchable	scanning	genealogical	photocopier	scanwizard	adf	ocr	evernote	duplex	crooked	
+searchable	genealogical	adf	photocopier	scanning	ocr	crooked	scanjet	duplex	faxing	
+searchable	ecopy	ocr	genealogical	scanjet	paperport	photostudio	photocopier	adf	scanwizard	
+searchable	ecopy	ocr	genealogical	photostudio	scanwizard	paperport	photocopier	scanjet	adf	
+ecopy	searchable	photocopier	ocr	photostudio	paperport	genealogical	scanjet	microtek	scanwizard	
+ecopy	searchable	paperport	ocr	photostudio	photocopier	scanjet	genealogical	microtek	scanwizard	
+searchable	ecopy	ocr	photocopier	scanwizard	photostudio	paperport	genealogical	scanjet	scanning	
+searchable	ecopy	photocopier	genealogical	scanjet	ocr	paperport	photostudio	microtek	adf	
+searchable	ecopy	ocr	photocopier	scanwizard	photostudio	genealogical	paperport	scanjet	scanning	
+searchable	ecopy	ocr	scanwizard	photocopier	photostudio	genealogical	paperport	scanjet	evernote	
+searchable	ecopy	ocr	photostudio	photocopier	paperport	genealogical	scanwizard	scanjet	microtek	
+ecopy	paperport	twain	arcsoft	enclosed	scanwizard	archive	workaround	photostudio	searchable	
+average coherence	-1089.6521405654755

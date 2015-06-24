@@ -1,0 +1,16 @@
+port	cord	signal	toslink	tivo	direct	hdtv	analog	hook	internal	
+toslink	port	analog	game	signal	hdtv	composite	cord	tivo	direct	
+cd	disk	dvd	player	disc	playback	toslink	changer	point	tuner	
+toslink	port	analog	tivo	hdtv	signal	game	composite	cord	direct	
+port	hdtv	toslink	signal	cord	direct	composite	tivo	analog	game	
+port	game	signal	toslink	hdtv	cord	tivo	direct	composite	analog	
+tivo	internal	cord	signal	hook	hdtv	port	direct	hd	desk	
+tivo	signal	port	cord	hdtv	direct	hook	internal	hd	toslink	
+toslink	port	game	signal	hdtv	analog	panasonic	direct	composite	cord	
+toslink	port	analog	tivo	game	signal	hdtv	cord	direct	hdmi	
+toslink	signal	tivo	port	cord	hdtv	direct	analog	game	hook	
+toslink	port	signal	hdtv	cord	direct	tivo	composite	analog	game	
+toslink	analog	port	game	tuner	composite	point	stereo	signal	hdtv	
+tivo	signal	port	cord	internal	hdtv	direct	toslink	hook	analog	
+speaker	hook	proprietary	back	internal	tivo	long	cord	signal	wiring	
+average coherence	-1364.4424542903498

@@ -1,0 +1,16 @@
+lasko	review	model	honeywell	cyclone	reviewer	hunter	previous	service	quieter	
+remote	control	top	feature	bed	bottom	quiet	height	position	adjustable	
+room	bedroom	living	space	small	apartment	basement	area	purchase	larger	
+price	box	small	big	expensive	shipping	worth	money	return	difference	
+easy	light	simple	design	sturdy	blue	quick	lightweight	weight	dark	
+case	front	cooler	cpu	side	back	intel	ram	cooling	motherboard	
+desk	screw	room	breeze	size	small	inch	large	bedroom	hole	
+plastic	blade	metal	motor	flimsy	cheap	part	grill	cover	piece	
+quiet	powerful	silent	job	air	noisy	airflow	temp	cost	amount	
+air	hot	flow	heat	noctua	amount	warm	blow	conditioner	circulation	
+power	foot	star	computer	cord	adapter	long	plug	reason	rating	
+night	battery	hour	base	charge	couple	morning	strong	heavy	breeze	
+air	cool	summer	house	hot	floor	window	ac	degree	temperature	
+speed	low	high	setting	higher	level	lowest	fast	highest	medium	
+noise	loud	white	sound	background	quiet	silent	tv	powerful	airflow	
+average coherence	-1406.5856679134788

@@ -1,0 +1,16 @@
+extra	adapter	price	dont	outlet	buck	extension	deck	due	sale	
+album	playlist	itunes	library	artist	song	music	wav	folder	wma	
+generation	ipod	classic	screen	ipad	protector	oled	sensitive	readable	lcd	
+ear	pair	koss	headset	earphone	short	earbud	repair	head	uncomfortable	
+radio	station	tuner	tunecast	preset	voice	transmitter	review	reception	recorder	
+windows	wmp	question	support	request	technical	xp	vista	winamp	software	
+microsdhc	slot	expansion	card	gb	microsd	storage	internal	cf	memory	
+input	format	neck	recording	audio	aux	road	lanyard	video	cable	
+computer	rich	speaker	breeze	distortion	sound	bass	equalizer	crisp	jack	
+user	intuitive	confusing	straightforward	flimsy	plastic	friendly	step	construction	sturdy	
+clip	small	compact	hand	tiny	crossfeed	lightweight	smaller	bigger	holder	
+cd	disk	charger	hard	kit	wma	driver	feature	control	knob	
+aaa	rechargeable	life	hour	aa	replaceable	rechargable	pack	charge	select	
+christmas	mine	winamp	noise	tv	present	important	birthday	list	playlist	
+firmware	update	latest	website	forum	future	fix	site	driver	version	
+average coherence	-1268.3413598087461

@@ -1,0 +1,16 @@
+screen	keyboard	light	size	weight	key	full	blue	reviewer	typing	
+video	easy	program	desktop	sony	web	music	game	word	picture	
+dell	power	charger	cord	adapter	original	replacement	inspiron	ac	supply	
+case	review	design	service	easy	buy	price	customer	package	acer	
+usb	port	cable	device	plastic	plug	connection	part	cheap	outlet	
+speaker	sound	high	volume	end	tv	low	loud	works	setting	
+drive	hard	mouse	dvd	cd	box	wireless	external	system	file	
+big	inch	toshiba	netbook	sleeve	cheap	hp	deal	back	material	
+memory	intel	ram	card	cpu	amd	speed	gb	processor	older	
+battery	hour	life	charge	minute	replacement	full	fast	fit	cell	
+macbook	model	air	apple	pro	version	warranty	con	number	previous	
+price	machine	money	notebook	hp	shipping	worth	solid	fast	due	
+fan	cooler	bottom	pad	lap	hot	speed	cool	top	cooling	
+mac	windows	software	pc	system	window	xp	vista	home	user	
+bag	side	pocket	small	strap	room	extra	front	book	zipper	
+average coherence	-1430.4688072109345

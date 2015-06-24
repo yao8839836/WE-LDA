@@ -1,0 +1,16 @@
+positive	previous	rating	online	star	negative	experience	poor	review	today	
+car	camping	airline	weekend	plane	travel	tent	flight	backpacking	backpack	
+medium	king	queen	larger	size	smaller	large	fit	bigger	bed	
+case	feeding	space	living	storage	room	small	design	plenty	floor	
+head	uncomfortable	rest	ache	hull	fluffing	hard	ready	due	lumbar	
+firm	comfortable	supportive	comfy	squishy	compressible	bouncy	smell	soft	thick	
+flatter	front	side	flat	back	seat	place	line	floor	bottom	
+collar	breast	samsonite	cover	air	softer	stomach	seam	belly	springy	
+support	night	neck	sleep	trip	soft	length	comfortable	long	short	
+dollar	expensive	cost	money	sale	local	fair	buy	extra	purchase	
+latex	simmons	feather	density	foam	bouncy	serta	tempurpedic	memory	beautyrest	
+lactation	friend	gift	mother	mom	present	christmas	glad	mbf	brest	
+queen	small	smaller	king	bed	shape	regular	bigger	true	pillowcase	
+slipcover	baby	nursing	breastfeeding	mbf	boppy	nurse	middle	alignment	bedroom	
+pain	neck	sore	sleeping	ache	position	lumbar	strain	muscle	arm	
+average coherence	-130.72729053517904

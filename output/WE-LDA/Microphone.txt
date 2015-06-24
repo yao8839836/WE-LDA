@@ -1,0 +1,16 @@
+isolating	fitting	canal	uncomfortable	ear	shure	skullcandy	cushion	hesh	bud	
+small	large	smaller	compact	pro	sound	portable	convenient	cute	lightweight	
+high	mid	level	frequency	gain	distortion	midrange	low	range	max	
+mute	control	button	pause	side	volume	sound	function	end	switch	
+background	noise	cancellation	isolation	hiss	audible	muddy	loud	subwoofer	bass	
+camera	easyn	clear	foscam	zoom	sharp	lens	bright	acceptable	blurry	
+cord	extension	wire	ear	loose	short	attachment	wiring	plug	back	
+mic	voice	recording	recorder	vox	playback	input	audio	stereo	italk	
+light	dark	bright	lighting	green	blue	webcam	led	video	white	
+usb	ethernet	wireless	cable	wifus	computer	input	connection	connector	network	
+sound	headphone	process	music	minute	price	manual	setup	instruction	simple	
+review	positive	rating	chance	previous	service	research	star	due	satisfied	
+metal	flimsy	material	plastic	thin	durable	construction	thick	cheap	affordable	
+headset	bluetooth	cell	phone	generation	android	market	ipod	hour	smartphone	
+ip	xp	os	driver	linux	pc	mac	windows	software	admin	
+average coherence	-125.05601149003107

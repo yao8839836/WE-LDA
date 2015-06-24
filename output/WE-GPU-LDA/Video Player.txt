@@ -1,0 +1,16 @@
+shiny	dirty	thickness	thinner	silicone	thin	thick	finish	harder	pressure	
+chance	opinion	purchase	choice	research	cheaper	today	glad	past	alternative	
+zvm	zen	mediasource	ipod	creative	labs	centrale	popularity	itunes	iaudio	
+zvm	itunes	centrale	mediasource	zen	bookmark	ipod	itune	rss	playlist	
+zvm	itunes	centrale	bookmark	itune	mediasource	zen	library	rss	wmp	
+itunes	zvm	centrale	itune	bookmark	library	mediasource	wav	mediamonkey	rss	
+zvm	itunes	centrale	itune	bookmark	mediasource	library	wmp	rss	mediamonkey	
+zvm	itunes	centrale	itune	bookmark	mediasource	library	wmp	rss	wav	
+itunes	centrale	zvm	itune	bookmark	library	wmp	wav	mediamonkey	mediasource	
+itunes	centrale	zvm	itune	bookmark	library	wav	wmp	mediamonkey	pictures	
+itunes	zvm	centrale	bookmark	itune	mediasource	mediamonkey	wav	library	wmp	
+itunes	zvm	centrale	itune	bookmark	library	wav	wmp	mediasource	mediamonkey	
+itunes	zvm	centrale	itune	bookmark	library	wav	wmp	mediamonkey	monkey	
+itunes	centrale	zvm	itune	bookmark	wmp	wav	mediamonkey	library	monkey	
+itunes	centrale	itune	wmp	zvm	library	bookmark	mediamonkey	wav	monkey	
+average coherence	-1188.8713076415886

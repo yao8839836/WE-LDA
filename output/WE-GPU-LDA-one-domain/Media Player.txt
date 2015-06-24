@@ -1,0 +1,16 @@
+tuner	reception	cover	info	display	bluetooth	track	fm	superior	voice	
+cover	info	tuner	track	reception	fm	genre	fast	display	shot	
+cover	reception	info	fast	track	display	synopsis	christmas	potential	length	
+track	reception	tuner	fast	christmas	cover	info	genre	shot	art	
+tuner	cover	fm	info	download	superior	display	album	track	fast	
+tuner	cover	reception	fm	info	track	fast	display	superior	shot	
+track	tuner	reception	fast	info	cover	genre	christmas	fm	shot	
+external	passport	hard	tb	network	usb	local	flash	real	image	
+reception	info	track	tuner	fast	cover	christmas	voice	bluetooth	display	
+cover	reception	info	display	fm	superior	bluetooth	fast	tuner	art	
+server	xbox	player	dvd	wh	info	display	cover	reception	setting	
+reception	info	cover	potential	resolution	fast	synopsis	track	recording	christmas	
+ipod	tuner	track	reception	info	display	cover	christmas	superior	bluetooth	
+info	reception	cover	tuner	fast	christmas	track	genre	bluetooth	display	
+tuner	cover	fm	christmas	info	reception	superior	track	size	display	
+average coherence	-1390.300363765416

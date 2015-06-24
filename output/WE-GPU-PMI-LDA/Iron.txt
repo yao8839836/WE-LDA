@@ -1,0 +1,16 @@
+plate	sole	bottom	soleplate	surface	fabric	top	teflon	smooth	wrinkle	
+small	big	size	smaller	mall	large	board	compact	rack	quilt	
+steam	clothes	wrinkle	steamer	spray	clothing	feature	soleplate	burst	fabric	
+feature	minute	function	side	seconds	option	ready	auto	safety	favorite	
+heavy	weight	light	job	hand	lightweight	blue	sturdy	design	green	
+black	decker	steam	model	panasonic	white	previous	clothes	steamer	hole	
+shirt	hot	pants	dress	cotton	heat	linen	oil	warm	silk	
+steam	clothes	steamer	button	press	garment	fabric	soleplate	wrinkle	clothing	
+instruction	review	star	box	reason	replacement	manual	rating	company	service	
+water	reservoir	leak	brown	tank	distilled	hard	fill	salt	tap	
+price	rowenta	expensive	review	money	purchase	point	extra	wrong	job	
+tortilla	dough	press	flour	corn	plastic	button	thin	cast	ball	
+setting	temperature	heat	dial	hot	high	low	temp	level	fabric	
+easy	simple	quick	couple	intuitive	clean	piece	control	job	feature	
+cord	short	extension	retractable	base	board	long	reel	place	con	
+average coherence	-1453.774580406356

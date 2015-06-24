@@ -1,0 +1,16 @@
+service	customer	support	replaytv	tech	technical	review	fact	defective	upgrade	
+program	channel	guide	screen	free	tv	listing	datum	stuff	easier	
+dvr	review	money	sony	company	directv	experience	friend	star	piece	
+card	camera	audio	input	sound	digital	picture	small	output	battery	
+fee	monthly	service	price	subscription	worth	machine	warranty	lifetime	device	
+feature	commercial	easy	season	user	manual	pass	interface	reason	menu	
+setup	system	network	home	replaytv	connection	simple	internet	wireless	house	
+show	vcr	tape	favorite	movie	record	episode	television	list	schedule	
+remote	phone	button	minute	line	number	control	call	power	modem	
+hour	recording	high	picture	record	setting	basic	case	programming	full	
+cable	box	digital	channel	signal	component	analog	ir	receiver	satellite	
+hd	device	pc	pvr	hauppauge	capture	game	computer	option	mac	
+tv	replay	live	direct	dvr	point	ability	showstopper	kind	instant	
+software	file	windows	media	version	vista	xp	center	driver	hardware	
+hard	dvd	drive	computer	model	tuner	series	player	recorder	space	
+average coherence	-1592.3759165793356

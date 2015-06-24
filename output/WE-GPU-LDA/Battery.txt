@@ -1,0 +1,16 @@
+wildlife	rayovac	rapid	bird	refreshing	charged	discharge	bino	nicd	ma	
+aaa	aa	rechargeable	rechargable	overnight	lithium	pack	charge	compartment	juice	
+aaa	aa	rechargeable	overnight	pack	rechargable	lithium	charge	spare	compartment	
+aa	rechargeable	aaa	pack	charge	overnight	compartment	rechargable	spare	lithium	
+rechargeable	pack	charge	aaa	aa	overnight	compartment	spare	longer	life	
+charge	pack	rechargeable	aaa	longer	aa	compartment	overnight	spare	life	
+charge	pack	rechargeable	aaa	aa	longer	compartment	life	overnight	long	
+longer	pack	charge	long	compartment	life	rechargeable	aaa	aa	overnight	
+longer	long	charge	pack	convenient	short	compartment	handy	regular	fact	
+convenient	handy	pocket	bulky	job	compact	lightweight	bag	heavy	hand	
+longer	fact	convenient	regular	handy	job	long	separate	entire	normal	
+job	regular	fact	longer	close	convenient	real	normal	kind	crazy	
+fact	job	real	regular	longer	kind	couple	complaint	amount	individual	
+real	regular	job	capability	fact	result	ability	choice	multiple	reliable	
+choice	cheaper	purchase	expensive	past	technology	today	opinion	experience	sony	
+average coherence	-1300.8283862259045

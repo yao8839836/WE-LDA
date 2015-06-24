@@ -1,0 +1,16 @@
+ear	bud	sound	comfortable	pair	earbud	speaker	music	clear	price	
+bud	ear	sound	pair	earbud	comfortable	speaker	music	price	high	
+bud	ear	sound	pair	comfortable	earbud	speaker	music	price	clear	
+base	battery	handset	ipod	iphone	cable	feature	device	case	ear	
+bud	sound	ear	pair	earbud	comfortable	speaker	price	music	high	
+bud	ear	sound	pair	earbud	comfortable	speaker	price	high	music	
+bud	sound	ear	pair	earbud	comfortable	speaker	high	music	price	
+ear	bud	sound	pair	earbud	comfortable	speaker	price	music	clear	
+bud	ear	sound	pair	earbud	comfortable	speaker	high	music	price	
+bud	sound	ear	pair	comfortable	earbud	speaker	price	music	high	
+bud	ear	sound	pair	comfortable	earbud	speaker	music	price	clear	
+ear	bud	pair	sound	earbud	comfortable	speaker	high	price	music	
+bud	ear	sound	comfortable	earbud	pair	speaker	music	price	clear	
+bud	ear	sound	pair	comfortable	earbud	speaker	high	price	music	
+bud	ear	sound	pair	comfortable	earbud	speaker	music	clear	price	
+average coherence	-1664.712290621373

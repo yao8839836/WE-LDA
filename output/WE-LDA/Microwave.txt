@@ -1,0 +1,16 @@
+steel	cuft	feet	interior	stainless	coating	exterior	splatter	rack	inside	
+consumer	positive	rating	review	report	research	chance	star	fact	purchase	
+door	opener	corner	front	floor	line	left	back	side	impossible	
+minute	hour	ready	process	popcorn	instruction	simple	step	direction	installation	
+bright	light	easy	dark	color	white	readable	lighting	green	red	
+authorized	ge	repair	dealer	extended	rep	service	spacesaver	claim	magnetron	
+level	power	oven	loud	size	high	volume	beeper	spacemaker	noise	
+button	push	menu	layout	start	control	dial	knob	keypad	selection	
+return	shipping	ups	label	price	delivery	refund	policy	lemon	seller	
+heat	heating	feature	cold	food	noisy	tea	fan	powerful	warm	
+vegetable	meat	chicken	pizza	soup	baked	potato	cook	cooking	meal	
+counter	countertop	small	kitchen	footprint	large	space	larger	cavity	fit	
+prestige	genius	panasonic	model	cheaper	older	similar	predecessor	expensive	version	
+oven	error	site	big	interface	sharp	top	friendly	plastic	part	
+cooking	cook	reheat	auto	timer	increment	beverage	seconds	defrost	defrosting	
+average coherence	-134.59609392027846

@@ -1,0 +1,16 @@
+pitch	speed	high	control	highest	loud	sound	low	volume	frequency	
+av	plasma	furman	apc	panamax	tripp	audio	speaker	electronic	samsung	
+room	small	larger	guest	plenty	space	large	bed	open	floor	
+shampoo	manageable	wavy	silky	frizzy	curly	shine	frizz	scalp	leave	
+aloe	vera	hair	coat	silky	ingredient	supple	allergy	scalp	healthy	
+machine	fan	marpac	noise	white	sound	soothing	tinnitus	busy	earplug	
+window	bottom	back	side	box	metal	hole	piece	part	inch	
+positive	online	customer	rating	star	review	comment	seller	order	purchase	
+noise	mask	loud	constant	neighbor	furnace	cpap	frequency	apt	bass	
+avr	regulation	surge	brownout	transformer	connected	spike	volt	output	draw	
+noisy	neighbor	apartment	upstairs	bedroom	silence	ambient	condo	sleeper	city	
+tank	fish	filter	air	tap	oz	flow	aquarium	water	stress	
+sleep	restful	night	winter	middle	bed	warm	weather	morning	summer	
+power	computer	device	home	instruction	dvd	simple	clean	equipment	tv	
+local	dollar	expensive	shipping	money	cost	cheaper	extra	decent	buy	
+average coherence	-123.08069413145208

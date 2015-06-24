@@ -1,0 +1,16 @@
+job	close	fact	real	place	inexpensive	addition	difficult	separate	regular	
+multiple	specific	program	ability	programming	option	trouble	real	order	sync	
+specific	programming	program	multiple	information	info	guide	search	route	direction	
+notice	route	information	specific	map	info	traffic	programming	datum	partner	
+route	map	notice	traffic	information	specific	partner	info	database	history	
+route	map	traffic	notice	mapping	partner	mileage	forerunner	history	training	
+route	map	traffic	notice	mapping	mileage	partner	destination	toll	nearby	
+traffic	route	map	mapping	mileage	notice	toll	destination	partner	nearby	
+traffic	mapping	notice	route	mileage	map	destination	toll	nearby	partner	
+traffic	toll	destination	mapping	route	mileage	nearby	interstate	sw	driving	
+mapping	destination	toll	traffic	route	mileage	nearby	map	notice	partner	
+mapping	toll	destination	sw	nearby	nearest	mileage	traffic	interstate	county	
+mapping	destination	toll	sw	nearby	nearest	county	interstate	mileage	inaccurate	
+mapping	destination	sw	toll	county	nearest	interstate	inaccurate	rural	nearby	
+county	nearest	mapping	venice	maestro	inaccurate	southern	mapquest	italy	updates	
+average coherence	-1263.8130593856015

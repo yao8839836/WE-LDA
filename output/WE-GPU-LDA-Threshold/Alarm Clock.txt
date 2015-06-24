@@ -1,0 +1,16 @@
+easy	shaker	nightstand	groggy	sunrise	moonbeam	brookstone	simulator	chime	relaxing	
+button	shaker	hard	groggy	sunrise	moonbeam	nightstand	brookstone	simulator	sleeper	
+loud	setting	volume	control	annoying	backlight	low	brightness	groggy	sunrise	
+light	night	bright	button	number	display	room	dark	large	face	
+shaker	groggy	sunrise	moonbeam	nightstand	brookstone	simulator	sleeper	chime	vibrator	
+battery	radio	feature	button	power	cheap	digital	light	display	accurate	
+sound	noise	shaker	nightstand	brookstone	groggy	moonbeam	sunrise	simulator	sleeper	
+price	shaker	groggy	nightstand	sunrise	moonbeam	brookstone	sleeper	simulator	chime	
+sunrise	groggy	nightstand	moonbeam	brookstone	shaker	simulator	sleeper	chime	vibrator	
+shaker	sunrise	groggy	nightstand	moonbeam	brookstone	simulator	chime	relaxing	sleeper	
+morning	big	bed	light	display	cd	shaker	groggy	sunrise	nightstand	
+star	design	money	sunrise	groggy	nightstand	moonbeam	brookstone	shaker	simulator	
+minute	hour	hand	feature	sunrise	groggy	nightstand	moonbeam	brookstone	shaker	
+small	travel	size	review	shaker	sunrise	groggy	nightstand	moonbeam	brookstone	
+groggy	sunrise	nightstand	moonbeam	shaker	brookstone	simulator	chime	relaxing	sleeper	
+average coherence	-1250.9269099310663

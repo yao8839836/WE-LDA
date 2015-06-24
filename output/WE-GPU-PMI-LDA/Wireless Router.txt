@@ -1,0 +1,16 @@
+support	tech	service	phone	customer	hour	minute	person	call	number	
+device	band	ghz	dual	apple	channel	network	range	airport	radio	
+usb	port	drive	server	external	hub	hard	network	access	printer	
+speed	range	fast	mbp	performance	connection	high	point	limit	low	
+setting	feature	user	interface	web	option	default	mode	function	site	
+netgear	linksys	linksy	cisco	broadband	belkin	experience	dlink	lan	easier	
+network	security	address	password	ip	wifus	guest	reboot	mac	access	
+signal	house	strength	antenna	bar	foot	floor	room	home	wall	
+power	software	box	minute	replacement	hour	light	warranty	part	blue	
+review	price	star	money	research	reason	expensive	positive	reviewer	cost	
+computer	laptop	pc	desktop	windows	printer	xp	vista	mac	card	
+firmware	version	latest	upgrade	update	model	older	previous	buffalo	newer	
+setup	easy	installation	simple	wizard	configuration	quick	instruction	manual	step	
+connection	internet	modem	ethernet	cable	wifi	lan	gigabit	connectivity	comcast	
+video	home	streaming	computer	movie	laptop	stream	netflix	couple	xbox	
+average coherence	-1532.9629037858133

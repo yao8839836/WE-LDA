@@ -1,0 +1,16 @@
+system	computer	small	operating	pocket	theater	compact	entertainment	player	onkyo	
+cube	bose	normal	sturdy	older	height	sharp	newer	series	end	
+sound	rich	output	stereo	clarity	input	superb	hdmus	distortion	vga	
+price	monitor	sale	cost	dell	lcd	expensive	consumer	buy	cheaper	
+room	basement	cell	conference	phone	simple	intercom	dorm	handset	ceiling	
+bright	red	light	clear	color	sharp	green	dark	half	logitech	
+network	theater	positive	negative	comment	wireless	review	sonos	sono	basement	
+midrange	bass	frequency	high	distortion	mid	vocal	station	clock	boomy	
+ipad	generation	ipod	blackberry	classic	carpet	iphone	wood	ceiling	concrete	
+genre	music	library	podcast	playing	song	playlist	album	hop	hip	
+bic	klipsch	denon	desktop	subwoofer	amp	polk	acoustic	channel	netbook	
+mini	hub	plug	outlet	usb	male	jack	female	sd	ac	
+front	bigger	smaller	located	large	rear	loose	small	larger	size	
+game	movie	level	xbox	max	defective	lower	today	change	strong	
+mute	puck	distortion	loud	audible	level	control	aaa	life	rechargeable	
+average coherence	-1240.5385700984232

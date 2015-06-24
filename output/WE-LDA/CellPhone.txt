@@ -1,0 +1,16 @@
+construction	ease	super	simple	con	quick	durable	price	lightweight	easy	
+dbm	signal	network	wifi	wifus	antenna	internet	connection	cable	house	
+screen	color	bright	blue	lcd	crystal	crisp	green	gray	white	
+life	hour	charge	battery	longer	overnight	half	minute	charger	seconds	
+button	command	menu	push	keyboard	device	select	option	function	basic	
+headset	earpiece	bud	jack	head	ear	uncomfortable	conversation	pair	fit	
+station	call	radio	transmitter	camera	jabra	voice	feature	caller	reception	
+card	storage	microsd	slot	gb	internal	micro	memory	chip	stick	
+droid	xoom	ipad	iphone	evo	carrier	blackberry	htc	innocase	moto	
+email	tech	telephone	support	service	texting	account	delivery	customer	warranty	
+review	positive	rating	chance	star	previous	purchase	experience	research	minor	
+small	compact	finger	touch	hand	protector	secure	smaller	pocket	space	
+usb	charger	plug	mini	computer	outlet	port	cradle	kit	adapter	
+loud	audiobook	song	crisp	audiophile	speaker	frequency	background	level	music	
+case	protective	clip	leather	metal	side	rubber	thin	front	corner	
+average coherence	-124.03002786561888

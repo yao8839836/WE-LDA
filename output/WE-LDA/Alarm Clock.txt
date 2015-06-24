@@ -1,0 +1,16 @@
+minute	half	aaa	longer	snooze	hour	cell	aa	feature	short	
+bright	color	number	visible	readable	lcd	eye	display	clear	large	
+model	negative	review	older	positive	experience	report	chance	similar	replacement	
+located	back	front	side	switch	table	desk	position	loose	kid	
+rating	star	due	minor	complaint	lack	main	fact	reviewer	drawback	
+sound	lowest	auto	mode	brightness	level	option	setting	annoying	change	
+flimsy	plastic	night	construction	piece	cheap	material	durable	sturdy	light	
+battery	simple	intuitive	programming	instruction	interface	user	direction	operation	power	
+easy	travel	sleek	design	appearance	attractive	con	lightweight	stylish	feel	
+radio	station	tuner	preset	analog	living	antenna	reception	weak	kitchen	
+christmas	cost	buy	price	present	mom	gift	birthday	purchase	cheaper	
+loud	hearing	audible	background	noise	static	fan	stereo	high	range	
+small	smaller	hand	pocket	face	tiny	compact	big	bigger	size	
+button	push	menu	control	knob	display	dial	tuning	basic	timer	
+light	dark	glow	dim	bright	sun	lighting	indicator	backlight	green	
+average coherence	-128.22665340283737

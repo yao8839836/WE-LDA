@@ -1,0 +1,16 @@
+slide	negative	film	scanning	image	large	digital	format	holder	camera	
+card	home	small	office	computer	business	light	memory	receipt	desk	
+document	scanning	page	file	adf	pdf	feeder	book	text	multiple	
+easy	setup	instruction	manual	simple	button	quick	screen	installation	function	
+usb	computer	wireless	cable	network	power	device	laptop	port	trouble	
+review	star	model	error	part	case	reason	user	cheap	brother	
+driver	software	windows	mac	xp	vista	system	pc	canon	version	
+photo	paper	tray	jam	side	sheet	top	piece	feed	plastic	
+feature	machine	print	fax	copy	printing	job	speed	fast	button	
+epson	hp	artisan	workforce	canon	type	option	complaint	officejet	deskjet	
+color	ink	cartridge	print	black	printing	white	replacement	message	page	
+software	photoshop	silverfast	vuescan	hardware	program	scan	result	box	ocr	
+image	picture	scan	setting	dpus	resolution	minute	mode	default	line	
+price	money	purchase	big	point	slow	high	worth	window	expensive	
+support	tech	hp	technical	hour	customer	number	email	service	phone	
+average coherence	-1555.4853074671541

@@ -1,0 +1,16 @@
+price	buck	big	buy	company	point	design	place	performance	wrong	
+speaker	box	sound	woofer	black	line	bottom	satellite	extra	higher	
+volume	control	level	power	light	remote	crossover	blue	knob	feature	
+receiver	yamaha	soundbar	output	input	sony	player	onkyo	denon	setting	
+watt	mtx	watts	rm	kicker	rms	lanzar	pyle	rockford	power	
+bass	low	high	range	frequency	end	clean	midrange	deep	noise	
+cable	difference	rca	monster	mediabridge	connection	connector	solid	tight	series	
+system	home	sound	theater	stereo	budget	decent	rest	inch	strong	
+room	bass	small	floor	foot	size	house	wall	large	space	
+amp	car	cheap	small	power	rms	ohm	pyle	trunk	kicker	
+polk	audio	speaker	front	center	klipsch	jbl	cost	service	channel	
+price	review	money	easy	purchase	shipping	star	worth	order	klh	
+music	bass	movie	loud	heavy	distortion	rap	rock	boom	sound	
+sound	tv	full	bar	hook	clear	hdmus	hdmi	card	true	
+speaker	computer	wire	pair	bose	main	desk	logitech	bookshelf	desktop	
+average coherence	-1424.4587266635854

@@ -1,0 +1,16 @@
+screen	hd	easy	zune	car	video	device	computer	adapter	sony	
+hd	zune	easy	device	screen	video	computer	car	sony	large	
+car	screen	adapter	hd	creative	zune	easy	sound	device	video	
+car	hd	screen	zune	easy	adapter	device	video	computer	creative	
+car	hd	zune	easy	screen	video	adapter	computer	device	creative	
+hd	zune	easy	device	car	video	screen	computer	sony	adapter	
+hd	zune	easy	video	device	computer	sony	car	screen	large	
+car	screen	hd	easy	zune	adapter	video	device	computer	sound	
+hd	easy	zune	car	video	device	computer	screen	sony	sound	
+car	hd	screen	zune	easy	adapter	device	video	computer	creative	
+hd	car	zune	screen	easy	video	adapter	computer	device	creative	
+car	screen	hd	zune	easy	adapter	device	video	computer	creative	
+hd	device	zune	easy	video	computer	car	sony	screen	adapter	
+hd	car	screen	easy	zune	video	device	adapter	computer	sony	
+car	hd	easy	zune	screen	video	device	adapter	computer	sony	
+average coherence	-1684.549641310926

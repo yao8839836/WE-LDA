@@ -1,0 +1,16 @@
+purchase	chance	glad	decision	disappointed	research	sale	cheaper	replacement	expensive	
+job	close	heavy	hand	comfortable	head	pick	adequate	tiny	small	
+accidental	professor	lecture	loud	pick	vcva	rustling	adequate	dictation	decent	
+recording	professor	dictation	accidental	voice	lecture	vcva	xhq	interview	ability	
+recording	ability	xhq	lecture	professor	dictation	accidental	recorded	pcm	playback	
+recording	accidental	ability	recorded	professor	dictation	xhq	lecture	pcm	voice	
+recording	recorded	wav	ability	wma	file	xhq	accidental	voc	itunes	
+recorded	recording	wav	file	ability	voc	wma	folder	option	itunes	
+recording	wav	recorded	wma	file	voc	ability	itunes	folder	itune	
+recording	recorded	wav	ability	wma	file	voc	folder	itunes	device	
+recording	wav	wma	recorded	file	voc	device	itunes	ability	folder	
+recording	recorded	wav	ability	file	voc	device	wma	itunes	option	
+recorded	wav	recording	file	voc	wma	folder	itunes	ability	option	
+recorded	wav	recording	file	voc	ability	wma	folder	itunes	device	
+recording	wav	wma	recorded	xhq	record	file	pcm	playback	voc	
+average coherence	-1328.347233400788

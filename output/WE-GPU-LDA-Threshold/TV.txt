@@ -1,0 +1,16 @@
+picture	color	image	black	setting	clear	light	bright	brightness	level	
+remote	easy	button	setup	menu	control	battery	cheap	mode	full	
+cable	box	hdmus	hdmi	input	power	connection	component	rca	adapter	
+file	video	device	wd	hard	network	drive	avi	option	avus	
+sony	hdtv	lcd	model	inch	plasma	panasonic	television	deal	extra	
+sound	picture	system	speaker	audio	output	volume	stereo	feature	hook	
+price	feature	money	camera	worth	design	point	case	low	buy	
+wall	box	instruction	house	simple	screw	back	small	installation	hole	
+antenna	signal	channel	station	area	reception	radio	uhf	vhf	local	
+video	pc	computer	device	internet	netflix	software	television	game	monitor	
+channel	hd	digital	card	tuner	receiver	high	standard	analog	regular	
+screen	room	big	side	size	small	bedroom	flat	line	foot	
+review	hour	lamp	purchase	star	bulb	minute	reason	original	firmware	
+dvd	player	movie	home	media	vcr	toshiba	part	tape	center	
+service	samsung	customer	company	support	shipping	warranty	free	delivery	tivo	
+average coherence	-1491.5585331061834

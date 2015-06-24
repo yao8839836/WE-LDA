@@ -1,0 +1,16 @@
+expensive	job	strong	due	fact	close	purchase	chance	past	cheaper	
+downstairs	upstairs	wap	repeater	router	connection	powerline	extender	ap	wifus	
+ssid	voilum	downstairs	alfa	wifus	repeater	ap	wpa	schedule	router	
+voilum	ssid	ver	wpa	alfa	schedule	gige	plugable	winxp	ap	
+voilum	ssid	wpa	ver	gige	alfa	winxp	plugable	schedule	wifus	
+ssid	voilum	alfa	wpa	wifus	gige	ap	plugable	repeater	ver	
+voilum	ssid	wpa	ver	alfa	plugable	winxp	gige	ap	encryption	
+voilum	ssid	wpa	gige	ver	alfa	plugable	winxp	encryption	nic	
+voilum	ssid	plugable	wpa	ver	winxp	encryption	gige	nic	alfa	
+voilum	ssid	wpa	ver	gige	winxp	plugable	encryption	alfa	nic	
+voilum	ssid	wpa	ver	gige	plugable	winxp	encryption	alfa	nic	
+ssid	voilum	wpa	plugable	gige	encryption	winxp	alfa	ver	ap	
+voilum	ssid	ver	wpa	plugable	winxp	gige	encryption	alfa	nic	
+voilum	ssid	ver	wpa	plugable	winxp	gige	schedule	encryption	alfa	
+ssid	voilum	wpa	alfa	plugable	gige	ver	wifus	encryption	ap	
+average coherence	-1125.5365593363108

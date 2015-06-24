@@ -1,0 +1,16 @@
+slot	card	internal	meg	stick	chip	show	return	piece	equipment	
+usb	hub	dongle	adaptor	ethernet	belkin	cd	extension	connector	stick	
+phone	line	bottom	cell	sight	land	telephone	landline	instruction	end	
+tivo	comcast	schedule	landline	powernet	cable	av	component	tv	operating	
+pc	desktop	computer	gige	dell	wifus	wifi	device	gigabit	winxp	
+downstairs	wireless	repeater	upstairs	router	connection	broadband	ssid	netgear	modem	
+purchase	firmware	online	website	upgrade	ver	email	update	latest	future	
+support	technical	roth	answer	question	alfa	trendnet	hd	injection	defective	
+room	bedroom	house	theater	floor	ceiling	kitchen	home	office	extra	
+driver	xp	os	lion	ralink	ubuntu	linux	realtek	windows	zonet	
+straightforward	simple	wizard	quick	guide	setup	breeze	complicated	security	super	
+minute	distance	wall	garage	folder	directory	ceiling	range	older	model	
+transfer	speed	mbp	throughput	datum	stream	faster	streaming	mb	content	
+motherboard	amd	download	intel	ghz	definition	backtrack	ndiswrapper	works	ram	
+signal	antenna	weak	stronger	omnidirectional	dbm	wap	directional	strength	reception	
+average coherence	-1228.3952354101318

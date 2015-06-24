@@ -1,0 +1,16 @@
+volume	remote	loud	setting	speaker	range	bass	black	woofer	seat	
+remote	volume	speaker	woofer	music	loud	range	setting	wall	black	
+remote	volume	loud	range	speaker	setting	woofer	bass	music	black	
+volume	remote	loud	setting	seat	range	music	black	woofer	bass	
+remote	volume	loud	seat	woofer	range	setting	speaker	music	black	
+remote	volume	speaker	loud	woofer	range	wall	hard	cheap	black	
+remote	volume	loud	speaker	range	woofer	bass	cheap	black	music	
+remote	volume	loud	speaker	woofer	setting	black	range	music	bass	
+remote	volume	speaker	loud	setting	seat	woofer	range	music	bass	
+remote	volume	loud	range	setting	seat	woofer	music	cheap	speaker	
+remote	volume	loud	setting	seat	music	range	speaker	woofer	bass	
+volume	remote	loud	music	woofer	setting	range	black	seat	speaker	
+remote	volume	loud	setting	woofer	speaker	range	music	seat	hard	
+remote	volume	loud	speaker	woofer	setting	seat	black	cheap	range	
+volume	remote	loud	seat	woofer	range	bass	speaker	setting	black	
+average coherence	-1580.043874075988

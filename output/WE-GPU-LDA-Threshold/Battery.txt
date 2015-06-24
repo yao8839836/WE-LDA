@@ -1,0 +1,16 @@
+charged	nicd	eneloops	maha	rayovac	duracell	eneloop	discharge	mah	remote	
+sony	cell	mah	maha	nicd	rayovac	duracell	charged	eneloop	discharge	
+binoculars	image	bino	wildlife	lenmar	stabilizer	canon	pair	birding	stabilization	
+aa	rechargeable	aaa	higher	electronic	user	slot	single	rating	warranty	
+maha	rayovac	nicd	duracell	mah	eneloop	charged	eneloops	discharge	nimh	
+power	light	easy	small	compact	cord	case	plug	voltage	wall	
+camera	digital	canon	picture	flash	kodak	shot	couple	coolpix	olympus	
+mah	nicd	maha	duracell	rayovac	eneloop	charged	alkaline	discharge	nimh	
+charged	rayovac	eneloops	nicd	maha	eneloop	duracell	discharge	alkaline	mah	
+price	sony	deal	big	original	expensive	cheaper	lcd	order	box	
+money	review	mah	rayovac	model	maha	charged	nicd	alkaline	batt	
+charge	hour	minute	full	super	quick	fast	indicator	rayovac	charged	
+mah	rayovac	nicd	maha	eneloop	duracell	charged	alkaline	discharge	eneloops	
+long	life	nicd	maha	mah	duracell	eneloop	rayovac	charged	discharge	
+hour	mah	rayovac	maha	nicd	duracell	nimh	charged	eneloop	eneloops	
+average coherence	-1270.6152638539852

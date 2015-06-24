@@ -1,0 +1,16 @@
+strong	area	stair	house	hard	tool	rug	head	beater	hardwood	
+strong	area	hard	tool	stair	easy	attachment	beater	head	rug	
+area	strong	hard	rug	tool	stair	house	attachment	setting	small	
+strong	area	tool	hard	stair	house	beater	easy	attachment	rug	
+house	small	strong	devil	hard	area	stair	tool	beater	rug	
+strong	house	area	hard	stair	tool	easy	beater	attachment	small	
+house	area	strong	hard	small	stair	tool	beater	devil	easy	
+area	strong	house	hard	tool	rug	hardwood	head	stair	easy	
+strong	area	hard	tool	house	stair	easy	beater	rug	attachment	
+strong	hard	area	tool	stair	beater	attachment	rug	setting	hardwood	
+strong	area	house	tool	hard	stair	beater	rug	setting	easy	
+area	strong	tool	hard	stair	house	easy	beater	attachment	rug	
+strong	area	stair	house	tool	hard	beater	easy	rug	hardwood	
+house	area	hard	strong	tool	rug	stair	hardwood	head	switch	
+area	house	strong	hard	tool	stair	small	beater	setting	attachment	
+average coherence	-1590.9618787370214

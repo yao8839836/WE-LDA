@@ -1,0 +1,16 @@
+black	feature	easy	slide	remote	point	line	mac	software	decent	
+feature	slide	easy	remote	software	black	cheap	mac	line	point	
+feature	easy	black	remote	software	mac	line	slide	point	installation	
+bulb	life	feature	black	easy	point	slide	decent	lamp	remote	
+easy	slide	feature	point	black	mac	remote	line	source	software	
+feature	easy	black	software	remote	point	line	slide	mac	screw	
+slide	easy	feature	port	black	mac	remote	input	connection	point	
+feature	easy	remote	black	slide	software	point	line	mac	connection	
+color	image	small	ceiling	white	ambient	black	easy	feature	line	
+black	feature	easy	slide	point	line	decent	software	remote	mac	
+feature	easy	slide	point	black	remote	line	software	mac	decent	
+feature	easy	remote	black	software	point	slide	line	decent	mac	
+slide	black	feature	easy	point	remote	mac	connection	software	port	
+feature	easy	black	remote	software	point	slide	line	mac	button	
+port	connection	slide	input	easy	laptop	feature	remote	point	black	
+average coherence	-1603.4781368171584

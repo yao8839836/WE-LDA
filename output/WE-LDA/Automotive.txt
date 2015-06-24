@@ -1,0 +1,16 @@
+hex	nut	socket	wrench	thread	pliers	driver	screw	backing	decal	
+fraction	dealership	stabilizer	oem	rpm	lucas	sticker	mpg	mileage	ford	
+fuel	vehicle	intake	hitch	cargo	hose	trailer	gasket	compressor	gas	
+brake	truck	bike	tire	bearing	wheel	road	rear	motorcycle	trailer	
+plug	connection	adapter	strip	tube	cord	connector	wire	socket	computer	
+cost	local	shipping	cheaper	manufacturer	dollar	order	replacement	delivery	gift	
+charger	power	battery	price	voltage	hour	inverter	shock	cable	part	
+tool	easier	handy	job	repair	easy	result	smaller	fact	key	
+instruction	clear	setup	minute	stand	simple	system	installation	ready	price	
+front	side	door	rear	frame	seat	part	back	bracket	open	
+installation	easy	minute	accurate	clean	simple	direction	quick	process	delivery	
+filter	tank	pump	oil	fluid	air	engine	gauge	mile	sensor	
+wet	hot	wash	warm	window	rain	winter	dry	cool	leak	
+original	flimsy	plastic	solid	metal	rubber	piece	thin	duty	top	
+bulb	bright	color	lamp	yellow	brighter	eye	choice	dark	led	
+average coherence	-123.63184294577604

@@ -1,0 +1,16 @@
+street	direction	turn	rural	highway	wrong	road	lane	exit	interstate	
+satellite	signal	minute	couple	reason	seconds	antenna	poor	line	fast	
+map	traffic	update	free	lifetime	version	feature	latest	google	extra	
+car	power	computer	cable	windshield	usb	adapter	box	original	charger	
+price	model	device	review	money	job	purchase	deal	worth	older	
+software	manual	device	simple	pc	map	information	instruction	tom	website	
+gps	nuvi	magellan	case	feature	navigation	system	vehicle	maestro	updates	
+trip	road	mile	area	speed	rural	limit	nearest	severe	phoenix	
+screen	easy	voice	big	size	display	clear	large	hard	touch	
+route	address	feature	destination	option	accurate	direction	accuracy	ability	type	
+tomtom	phone	support	service	customer	home	device	hour	number	tech	
+watch	calorie	pace	elevation	distance	rate	runner	run	heart	forerunner	
+datum	point	card	place	location	map	restaurant	sd	pous	gas	
+battery	user	long	side	small	life	hour	feature	button	mode	
+city	map	updates	north	canada	european	europe	preloaded	topo	camera	
+average coherence	-1469.1902484333655

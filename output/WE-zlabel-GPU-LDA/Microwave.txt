@@ -1,0 +1,16 @@
+steel	cuft	minute	feet	interior	stainless	coating	exterior	hour	trim	
+model	consumer	positive	similar	rating	cheaper	review	older	expensive	predecessor	
+cold	dollar	hot	extra	bag	warm	buck	clean	mind	couple	
+authorized	repair	dealer	rep	extended	service	increment	claim	warranty	seconds	
+button	push	start	menu	function	knob	layout	favorite	selection	control	
+sens	food	steam	cook	leftovers	cooking	meat	thin	flimsy	heating	
+beeper	keypad	loud	dial	numeric	timer	counter	noise	noisy	annoying	
+luxury	oven	convection	prestige	cuft	turntable	kitchen	feet	counter	turkey	
+small	smaller	compact	space	fit	size	medium	hand	footprint	larger	
+ge	bowl	splatter	inside	rice	spacesaver	plate	high	magnetron	water	
+bright	light	control	dark	readable	display	intuitive	error	minor	color	
+door	opener	corner	power	left	side	hole	floor	back	bottom	
+defrosting	cooking	baked	vegetable	pizza	cook	chicken	soup	reheating	potato	
+job	sharp	powerful	real	watt	important	useless	hard	fact	due	
+interface	intuitive	breeze	easy	super	easier	simple	complicated	junk	strong	
+average coherence	-1284.70535664875

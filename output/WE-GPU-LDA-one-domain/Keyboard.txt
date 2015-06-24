@@ -1,0 +1,16 @@
+driver	bluetooth	pda	system	pc	software	xp	desktop	wireless	hour	
+driver	pc	software	bluetooth	system	pda	xp	desktop	hour	wheel	
+driver	bluetooth	pda	pc	system	software	xp	hour	desktop	wheel	
+driver	bluetooth	pda	pc	system	software	xp	desktop	wireless	hour	
+key	letter	function	special	layout	arrow	position	bluetooth	pda	driver	
+driver	bluetooth	system	software	pc	pda	xp	desktop	wireless	range	
+driver	system	pc	software	xp	bluetooth	desktop	wireless	plug	range	
+driver	bluetooth	pda	pc	software	xp	system	hour	screen	tiny	
+bluetooth	driver	pda	pc	system	software	hour	tiny	xp	desktop	
+bluetooth	driver	pda	software	system	desktop	xp	pc	hour	tiny	
+driver	bluetooth	pc	system	software	xp	desktop	wireless	pda	wheel	
+driver	bluetooth	system	pc	software	pda	xp	desktop	hour	wireless	
+bluetooth	driver	pda	hour	software	desktop	system	pc	xp	wireless	
+driver	bluetooth	pda	system	pc	software	desktop	hour	xp	tiny	
+driver	bluetooth	system	pc	software	xp	desktop	pda	wheel	hour	
+average coherence	-1499.5980240756746

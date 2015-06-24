@@ -1,0 +1,16 @@
+manufacturer	warranty	purchase	dealer	defective	company	consumer	question	advice	seller	
+purchase	oven	chance	today	past	expensive	cuisinart	consumer	cheaper	ge	
+closing	fridge	oven	vegetable	appliance	convection	rice	cuisinart	leftovers	casserole	
+oz	closing	leftovers	fridge	soup	vegetable	sens	casserole	pizza	frozen	
+oz	fridge	leftovers	soup	closing	sens	vegetable	heated	pan	bowl	
+oz	closing	casserole	leftovers	fridge	pizza	soup	sens	heated	vegetable	
+oz	fridge	closing	leftovers	soup	casserole	pizza	sens	oatmeal	heated	
+oz	leftovers	soup	casserole	fridge	pizza	closing	sens	oatmeal	meal	
+oz	soup	leftovers	pizza	sens	oatmeal	beverage	frozen	casserole	fridge	
+oz	fridge	closing	casserole	leftovers	soup	pan	inside	pizza	sens	
+oz	leftovers	soup	closing	sens	pizza	fridge	casserole	oatmeal	heated	
+oz	leftovers	pizza	soup	sens	casserole	closing	fridge	heated	burnt	
+oz	casserole	leftovers	closing	soup	fridge	pizza	sens	oatmeal	meal	
+oz	leftovers	soup	casserole	pizza	fridge	oatmeal	sens	frozen	beverage	
+difficult	timer	start	individual	easier	oatmeal	function	meal	baked	handy	
+average coherence	-1074.5686446779475

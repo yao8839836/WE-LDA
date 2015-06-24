@@ -1,0 +1,16 @@
+xm	touch	aux	iphone	case	sound	control	speaker	audio	hand	
+xm	sound	iphone	aux	control	case	touch	speaker	audio	high	
+hand	control	audio	device	iphone	xm	sound	case	aux	speaker	
+xm	aux	iphone	touch	sound	case	control	audio	speaker	hand	
+iphone	xm	sound	case	aux	control	audio	speaker	hand	touch	
+xm	iphone	sound	aux	case	touch	control	speaker	audio	hand	
+xm	iphone	aux	touch	case	sound	control	speaker	audio	hand	
+xm	aux	iphone	touch	sound	case	audio	control	speaker	hand	
+xm	aux	touch	iphone	case	sound	control	speaker	audio	hand	
+xm	aux	touch	iphone	sound	case	control	speaker	audio	hand	
+sound	iphone	control	aux	case	xm	audio	speaker	touch	hand	
+xm	touch	aux	sound	iphone	case	control	speaker	audio	system	
+xm	touch	iphone	aux	sound	case	control	speaker	audio	high	
+xm	aux	touch	sound	iphone	case	control	speaker	audio	system	
+xm	sound	iphone	aux	touch	control	case	speaker	audio	hand	
+average coherence	-1583.1341600887151

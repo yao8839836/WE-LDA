@@ -1,0 +1,16 @@
+dim	green	glow	led	blue	light	dark	bright	sun	backlight	
+star	rating	due	minor	model	lack	older	reviewer	warranty	similar	
+bright	readable	eye	brightness	display	lcd	color	number	screen	adjustment	
+small	tiny	travel	larger	smaller	hand	size	face	pocket	space	
+back	located	light	left	front	switch	position	loose	side	middle	
+radio	reception	tuner	preset	analog	antenna	station	weak	digital	atomic	
+sleek	durable	plastic	flaw	attractive	flimsy	design	appearance	lightweight	sturdy	
+minute	cycle	couple	half	process	min	morning	hr	phone	hour	
+snooze	groggy	vibrator	shaker	moonbeam	feature	sleeper	elgin	cricket	simulator	
+easy	intuitive	interface	setup	manual	convenient	programming	simple	instruction	direction	
+loud	noise	audible	hearing	level	tone	static	huge	lowest	high	
+living	room	night	bed	kid	kitchen	ceiling	desk	floor	school	
+aaa	battery	aa	solar	flight	ac	longer	short	power	long	
+button	push	menu	setting	lowest	auto	mode	knob	adjustment	basic	
+sound	christmas	buy	friend	present	junk	mom	money	birthday	father	
+average coherence	-125.2909830983372

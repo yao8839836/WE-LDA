@@ -1,0 +1,16 @@
+aaa	life	rechargeable	aa	pack	battery	hour	phillip	philips	hiker	
+room	apartment	house	floor	ceiling	bedroom	place	area	energy	spot	
+petzl	beam	tikka	tilt	flood	hand	brighter	height	focused	pattern	
+genuine	replacement	incandescent	bulb	fluorescent	halogen	manufacturer	oem	today	warranty	
+tactikka	tikka	fishing	petzl	camping	tikkina	headlight	headlamp	red	blind	
+policy	refund	vendor	shipping	chair	return	lightweight	sleek	solid	durable	
+back	frosted	side	shade	arm	wood	front	tactical	dog	base	
+expensive	extra	buy	buck	price	money	cost	dollar	tv	waste	
+bright	blind	brightness	dim	dark	lowest	glow	color	lighting	glare	
+metal	plastic	star	rating	thin	rubber	material	due	mcnab	housing	
+review	model	negative	older	positive	previous	cheaper	chance	cover	elastic	
+christmas	separate	father	located	nephew	half	hour	present	gift	push	
+high	quick	easy	level	super	low	dark	sun	breeze	adequate	
+uncomfortable	headband	comfortable	fit	larger	hat	compact	bigger	smaller	large	
+clamp	pipe	joint	glue	outlet	jig	kreg	pole	cord	length	
+average coherence	-1186.4315857717133

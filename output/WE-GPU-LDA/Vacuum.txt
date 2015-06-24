@@ -1,0 +1,16 @@
+purchase	chance	research	past	consumer	today	glad	cheaper	disappointed	comment	
+debris	sofa	brush	carpeting	canister	rug	upholstery	vaccum	stair	hose	
+debris	brush	sofa	carpeting	canister	vaccum	stair	upholstery	rug	hose	
+sofa	debris	brush	carpeting	canister	vaccum	rug	stair	upholstery	hose	
+sofa	brush	carpeting	debris	stair	canister	rug	vaccum	upholstery	hose	
+sofa	brush	debris	carpeting	canister	upholstery	vaccum	stair	rug	hose	
+sofa	carpeting	brush	debris	stair	canister	upholstery	vaccum	rug	hose	
+sofa	brush	debris	carpeting	canister	stair	upholstery	rug	vaccum	hose	
+sofa	brush	debris	carpeting	canister	vaccum	upholstery	stair	hose	rug	
+sofa	brush	debris	carpeting	stair	canister	vaccum	upholstery	rug	hose	
+sofa	brush	carpeting	debris	stair	canister	vaccum	rug	upholstery	hose	
+sofa	debris	brush	carpeting	upholstery	rug	canister	stair	vaccum	hose	
+sofa	debris	brush	carpeting	canister	stair	vaccum	upholstery	rug	hose	
+sofa	brush	carpeting	debris	stair	canister	vaccum	upholstery	rug	vacuuming	
+sofa	debris	brush	carpeting	canister	vaccum	stair	upholstery	rug	hose	
+average coherence	-1437.917049329297

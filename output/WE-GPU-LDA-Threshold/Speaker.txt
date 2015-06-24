@@ -1,0 +1,16 @@
+monitor	easy	box	setup	star	screen	black	big	color	kind	
+cable	power	usb	jack	audio	input	headphone	stereo	back	port	
+volume	loud	low	control	bass	level	base	higher	noise	knob	
+system	computer	home	theater	stereo	wireless	car	experience	sonos	expensive	
+bass	high	clear	midrange	mid	subwoofer	end	vocal	crisp	solid	
+battery	wire	life	long	hour	rechargeable	aaa	aa	gauge	ac	
+price	sound	full	big	range	point	deal	model	loud	cheaper	
+wall	desk	side	stand	bottom	top	space	inch	plastic	screw	
+music	player	sound	movie	rap	cd	rock	game	portable	song	
+bose	review	logitech	system	house	money	purchase	shipping	friend	office	
+sound	small	room	size	decent	portable	compact	large	living	bedroom	
+pair	front	center	receiver	channel	rear	tv	woofer	ear	amp	
+phone	feature	button	light	remote	call	line	number	service	blue	
+sound	laptop	device	audio	bluetooth	card	pc	setting	creative	desktop	
+ipod	radio	iphone	dock	case	clock	station	docking	internet	buy	
+average coherence	-1476.022516452339

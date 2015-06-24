@@ -1,0 +1,16 @@
+dont	cheaper	buck	sale	shipping	opinion	price	retail	expensive	buy	
+vocal	rich	bass	treble	muddy	overwhelming	distortion	guitar	musical	freq	
+control	volume	front	dial	harmony	change	button	knob	adjustment	corner	
+ohm	amp	mono	ssl	alpine	rms	lanzar	passive	kicker	xplod	
+coaxial	receiver	av	yamaha	output	rca	component	onkyo	pioneer	lfe	
+music	movie	game	bass	song	audio	main	job	longer	short	
+small	compact	tiny	large	smaller	larger	power	watt	box	bigger	
+speaker	line	end	cost	polk	mine	replacement	similar	harman	performer	
+room	ceiling	kitchen	dorm	basement	bedroom	house	apartment	underpowered	foundation	
+review	negative	positive	rating	purchase	flaw	online	research	previous	decision	
+sound	speaker	simple	straight	setup	breeze	quick	configuration	easy	pro	
+high	low	level	max	light	bright	red	dark	lowest	gain	
+carpet	floor	front	wood	wall	foot	ceiling	rear	cabinet	tsi	
+cable	price	thin	material	heavy	plastic	weight	strong	construction	cheap	
+system	theater	entertainment	compliment	computer	onkyo	basement	stereo	cerwin	denon	
+average coherence	-137.42715681899975

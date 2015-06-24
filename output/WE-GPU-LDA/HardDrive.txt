@@ -1,0 +1,16 @@
+heavy	padding	thin	bulky	inside	pouch	tiny	tight	lightweight	weight	
+purchase	chance	cheaper	expensive	dollar	research	opinion	glad	cost	past	
+purchase	manufacturer	warranty	company	replacement	request	defective	fault	today	luck	
+online	website	request	manufacturer	fault	future	solution	luck	company	numerous	
+unable	utility	management	download	solution	website	compatible	compatibility	explorer	program	
+pc	computer	nas	management	contents	explorer	manager	utility	encryption	ntfs	
+pc	nas	computer	explorer	management	contents	manager	encryption	sync	folder	
+nas	pc	computer	management	explorer	contents	manager	encryption	utility	ntfs	
+nas	contents	encryption	pc	computer	management	manager	ntfs	explorer	win	
+nas	pc	encryption	contents	computer	management	win	ntfs	explorer	manager	
+encryption	nas	contents	win	management	ntfs	se	compatibility	manager	explorer	
+nas	contents	encryption	win	management	ntfs	se	compatibility	explorer	manager	
+nas	encryption	win	se	ntfs	compatibility	contents	management	virus	permission	
+nas	contents	win	encryption	se	ntfs	management	compatibility	permission	partition	
+se	win	encryption	nas	permission	contents	compatibility	ntfs	vantec	partition	
+average coherence	-1102.7144799625103

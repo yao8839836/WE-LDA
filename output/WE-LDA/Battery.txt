@@ -1,0 +1,16 @@
+plug	socket	wall	outlet	adaptor	cord	adapter	back	ac	spare	
+super	function	control	quick	simple	timer	ease	feature	instruction	refresh	
+eneloop	alkaline	mah	eneloops	discharge	maha	batt	mahacell	rayovac	nicd	
+extra	dollar	additional	cost	satisfied	glad	hassle	fact	retail	cheaper	
+green	red	indicator	led	lcd	dark	bright	light	object	case	
+charge	hour	overnight	longer	life	period	short	full	smart	rechargeable	
+rechargeable	aaa	energizer	lithium	duracell	rechargable	mah	compartment	batery	nimh	
+camera	digital	canon	top	bottom	end	kodak	number	flash	email	
+minute	longer	morning	warm	option	couple	regular	card	start	real	
+sharp	image	crisp	picture	binoculars	clarity	clear	bright	superb	pair	
+price	bino	astronomy	leica	lenmar	field	nikon	optics	stabilizer	birding	
+rating	company	star	expectation	defective	manufacturer	warranty	comment	negative	replacement	
+sony	cap	long	older	cover	temperature	series	brother	cheaper	expensive	
+lightweight	compact	weight	ideal	design	small	heavy	player	hand	larger	
+aa	high	low	level	cell	lower	power	device	higher	standard	
+average coherence	-128.6533406361413

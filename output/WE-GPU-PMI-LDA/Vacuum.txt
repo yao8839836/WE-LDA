@@ -1,0 +1,16 @@
+price	machine	money	expensive	big	cost	low	high	extra	feature	
+easy	light	suction	simple	heavy	quick	weight	breeze	con	stair	
+power	suction	hose	attachment	brush	paw	wand	stair	tool	crevice	
+review	model	star	purchase	research	consumer	positive	due	reason	head	
+carpet	floor	rug	tile	hard	hardwood	house	brush	bare	wood	
+bag	dust	canister	dirt	miele	hoover	vac	dyson	bagless	debris	
+minute	battery	charge	life	hour	design	couple	box	service	replacement	
+cord	long	short	hose	attachment	brush	paw	wand	longer	stair	
+floor	carpet	brush	rug	attachment	tile	hose	house	hardwood	room	
+vac	canister	dyson	bagless	hoover	eureka	hand	miele	flex	bissell	
+floor	carpet	rug	tile	hardwood	house	brush	bare	wood	attachment	
+cleaner	small	car	cleaning	job	clean	powerful	large	hair	pet	
+hair	pet	dog	cat	job	litter	fur	roomba	upholstery	powerful	
+filter	dust	dirt	hepa	allergy	washable	debris	motor	suction	bin	
+plastic	upright	part	cheap	belt	position	piece	metal	flimsy	brush	
+average coherence	-1543.1693087584194

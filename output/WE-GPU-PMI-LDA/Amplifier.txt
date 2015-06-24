@@ -1,0 +1,16 @@
+signal	antenna	booster	strength	splitter	reception	tv	station	uhf	weak	
+headphone	jack	ipod	fiio	computer	headset	usb	laptop	sound	audiophile	
+bass	sound	light	mode	speaker	blue	setting	led	red	music	
+sound	speaker	bass	stereo	pair	bose	sony	klipsch	receiver	equalizer	
+price	money	cheap	buck	worth	dollar	equipment	plastic	extra	real	
+channel	digital	tv	clear	picture	satellite	analog	hd	box	improvement	
+device	review	line	difference	star	main	ear	phone	reason	bottom	
+system	speaker	sound	home	small	stereo	theater	room	bass	bose	
+power	outlet	supply	wall	switch	adapter	plenty	spec	cost	cord	
+wire	kit	gauge	fuse	wiring	ground	ft	copper	decent	black	
+cable	comcast	coaxial	house	modem	box	service	internet	connection	company	
+output	audio	input	rca	source	player	component	db	preamp	phono	
+easy	music	simple	battery	hour	setup	loud	noise	installation	hot	
+watt	subwoofer	ohm	car	rms	inch	kenwood	rm	kicker	true	
+volume	level	high	low	control	distortion	end	remote	higher	range	
+average coherence	-1415.6355305977852

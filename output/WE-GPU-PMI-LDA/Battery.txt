@@ -1,0 +1,16 @@
+charge	life	full	indicator	rechargeable	lcd	cycle	feature	number	capacity	
+cell	device	high	low	higher	smart	remote	mouse	control	temperature	
+camera	digital	shot	tripod	flash	kodak	player	bag	portable	video	
+aa	rechargeable	aaa	lithium	spare	rechargable	energizer	pack	life	pair	
+sony	star	deal	purchase	rating	long	hot	package	reason	big	
+aa	alkaline	nimh	rechargeable	aaa	lithium	mah	eneloop	energizer	rechargable	
+hour	minute	half	ready	seconds	service	rechargeable	aa	regular	customer	
+power	plug	small	cord	compact	outlet	wall	voltage	adapter	camcorder	
+price	money	expensive	extra	cost	worth	dollar	couple	cheaper	wrong	
+image	binoculars	picture	stabilization	detail	button	hand	clear	pair	bino	
+sony	feature	review	original	dead	function	price	refresh	replacement	reviewer	
+light	quick	easy	super	simple	led	fast	green	weight	dark	
+charge	long	longer	life	short	regular	rechargeable	kind	type	aa	
+canon	case	model	panasonic	lens	lenmar	older	job	cap	cover	
+nimh	kodak	alkaline	mah	aa	eneloop	rechargeable	nikon	lithium	aaa	
+average coherence	-1383.5403838796194

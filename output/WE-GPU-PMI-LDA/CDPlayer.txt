@@ -1,0 +1,16 @@
+file	disk	disc	seconds	minute	single	cool	drive	coby	home	
+feature	display	function	easy	option	color	bright	preset	simple	ability	
+song	track	artist	playlist	play	album	shuffle	title	feature	number	
+warranty	service	shipping	support	return	customer	replacement	company	cheap	purchase	
+dvd	audio	output	tv	playback	changer	input	rca	disc	progressive	
+radio	station	fm	clock	tuner	reception	alarm	digital	antenna	shower	
+battery	hour	aa	life	couple	long	half	rechargeable	cord	short	
+price	money	worth	cost	extra	dollar	buy	high	buck	low	
+model	review	star	reason	previous	reviewer	older	panasonic	positive	machine	
+music	room	box	usb	cheap	sound	big	kitchen	plastic	radio	
+car	adapter	tape	cassette	power	deck	trip	kit	plug	ipod	
+headphone	volume	earphone	jack	ear	phone	loud	noise	head	level	
+small	portable	sound	size	piece	boombox	compact	walkman	large	junk	
+sound	speaker	bass	equalizer	system	poor	stereo	home	clear	treble	
+button	remote	control	easy	simple	menu	press	knob	side	hard	
+average coherence	-1382.3713332498244

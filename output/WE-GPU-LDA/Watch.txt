@@ -1,0 +1,16 @@
+purchase	today	company	warranty	fault	manufacturer	online	seller	sale	replacement	
+rolex	purchase	job	expensive	quartz	invicta	past	diver	real	cheaper	
+rolex	job	quartz	diver	real	seamaster	swiss	crown	omega	kind	
+crown	quartz	diver	job	sweep	rolex	timepiece	inside	buckle	dive	
+job	quartz	crown	timepiece	rolex	sweep	diver	inside	hand	national	
+job	quartz	national	sweep	crown	timepiece	face	inside	hair	diver	
+crown	sweep	inside	dirty	face	timepiece	pressure	shiny	buckle	quartz	
+crown	sweep	inside	dirty	buckle	shiny	dive	timepiece	rough	face	
+sweep	crown	inside	dirty	buckle	face	shiny	timepiece	pressure	body	
+sweep	inside	buckle	crown	dirty	spring	clasp	pressure	rough	shiny	
+sweep	crown	inside	dirty	buckle	face	shiny	dive	body	rough	
+inside	sweep	dirty	crown	buckle	shiny	spring	rough	face	clasp	
+sweep	inside	dirty	crown	buckle	shiny	face	body	pressure	rough	
+dirty	sweep	rough	inside	shiny	pressure	crown	buckle	illumination	classy	
+rough	illumination	dirty	stiff	sweep	inside	shiny	crown	buckle	pressure	
+average coherence	-1162.899656649588

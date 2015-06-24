@@ -1,0 +1,16 @@
+tv	box	cable	bottom	usb	line	service	digital	channel	ac	
+minute	show	half	hour	tv	commercial	feature	morning	seconds	matter	
+button	push	command	pause	menu	navigation	select	selection	control	intuitive	
+previous	positive	rating	reviewer	comment	research	negative	review	chance	newer	
+definition	high	lowest	level	small	highest	image	large	house	weight	
+broadcast	pvr	atsc	channel	directv	satellite	hd	comcast	sagetv	dish	
+program	guide	user	straight	simple	quick	friendly	setup	process	breeze	
+rep	representative	support	phone	question	technical	customer	defective	monthly	tech	
+wishlist	survivor	favorite	keyword	friends	rerun	drama	season	weekly	tivos	
+software	equipment	easy	piece	dvd	company	system	hardware	feature	home	
+output	vcr	hdmus	analog	tape	component	vga	input	dolby	dt	
+card	internal	hard	slot	storage	contents	flash	disk	brainer	memory	
+wireless	linksys	ethernet	network	broadband	cable	connection	networking	pc	modem	
+mce	windows	xp	driver	showbiz	latest	wintv	firmware	arcsoft	totalmedia	
+tripod	bright	picture	shot	display	lcd	green	beautiful	camera	blue	
+average coherence	-134.42212278504604

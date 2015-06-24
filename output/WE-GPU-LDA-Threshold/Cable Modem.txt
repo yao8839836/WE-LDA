@@ -1,0 +1,16 @@
+company	roadrunner	warner	rcn	works	isp	charter	csr	disconnection	provision	
+router	netgear	wireless	linksys	computer	cisco	linksy	gigabit	lan	laptop	
+signal	tv	line	channel	splitter	house	booster	dta	picture	amp	
+rental	monthly	fee	rent	disconnection	roadrunner	rcn	doci	lease	ambit	
+avg	preferred	sustained	mbp	ping	speedtest	latency	mbps	mpb	tier	
+mac	address	number	tech	technical	phone	support	customer	minute	account	
+device	system	star	list	improvement	netflix	purchase	reason	small	datum	
+power	upstream	light	snr	downstream	connection	bonding	computer	ethernet	level	
+service	roadrunner	rcn	disconnection	charter	isp	preferred	warner	doci	arris	
+motorola	docsis	surfboard	model	roadrunner	rcn	charter	warner	isp	communications	
+easy	setup	minute	installation	call	page	online	activation	simple	screen	
+avg	speed	mbp	download	upload	preferred	sustained	speedtest	mpb	scientific	
+box	internet	network	provider	fast	home	money	rcn	price	end	
+speed	internet	connection	service	stable	reliable	high	performance	slow	faster	
+review	device	rcn	roadrunner	firmware	setting	isp	charter	warner	disconnection	
+average coherence	-1334.8127323771978

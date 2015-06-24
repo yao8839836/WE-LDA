@@ -1,0 +1,16 @@
+zune	hour	video	music	life	charger	mm	jack	charge	speaker	
+hard	internal	usb	external	contents	bay	sdhc	dongle	flash	storage	
+album	artist	playlist	shuffle	poster	itunes	song	track	library	txt	
+rep	support	staff	email	technical	question	rating	reply	request	service	
+player	radio	tuner	reception	station	compact	small	recorder	transmitter	smaller	
+yprpb	hdmus	tv	hdmi	output	satellite	analog	input	composite	component	
+firmware	windows	media	wh	dlna	wmp	lockup	patriot	tversity	xp	
+command	menu	control	press	button	intuitive	layout	universal	arrow	select	
+ipod	creative	rival	generation	archo	labs	marketplace	fanboy	iriver	zune	
+screen	picture	bright	protector	sharp	viewer	text	color	detail	white	
+user	simple	intuitive	interface	quick	setup	straight	straightforward	friendly	guide	
+spotify	xd	hulu	streamer	youtube	stream	streaming	live	cbs	playon	
+wireless	security	ethernet	ssid	password	wifus	network	share	wifi	connection	
+file	box	device	bedroom	movie	boxee	basement	room	video	theater	
+mpg	avus	wav	flv	avi	wma	mov	mkv	conversion	codec	
+average coherence	-135.9770122871683

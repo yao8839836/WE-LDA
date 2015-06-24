@@ -1,0 +1,16 @@
+opinion	chance	pricey	mind	fair	purchase	warrenty	alot	ridiculous	disappointed	
+company	manufacturer	online	purchase	fault	advice	warranty	reply	claim	technical	
+replaytv	schedule	online	sonicblue	replay	nightly	hauppage	website	trouble	info	
+schedule	replaytv	recorded	replay	program	pvr	beyondtv	dhg	hauppage	sagetv	
+schedule	recorded	pvr	replay	replaytv	program	beyondtv	dhg	scheduling	sagetv	
+schedule	recorded	pvr	replay	replaytv	program	beyondtv	sagetv	dhg	scheduling	
+recorded	schedule	pvr	program	replay	beyondtv	replaytv	scheduling	dhg	sagetv	
+recorded	schedule	pvr	replay	program	beyondtv	replaytv	sagetv	scheduling	dhg	
+recorded	schedule	pvr	program	beyondtv	replay	scheduling	sagetv	dhg	wintv	
+recorded	schedule	pvr	program	replay	beyondtv	wintv	sagetv	scheduling	dvarchive	
+recorded	schedule	pvr	replay	beyondtv	program	sagetv	replaytv	wintv	scheduling	
+recorded	schedule	pvr	replay	program	beyondtv	dhg	scheduling	replaytv	sagetv	
+recorded	pvr	schedule	replay	program	beyondtv	scheduling	wintv	sagetv	scheduler	
+recorded	schedule	pvr	replay	beyondtv	program	wintv	scheduling	sagetv	scheduler	
+pvr	recorded	schedule	replay	beyondtv	wintv	sagetv	dvr	hauppauge	program	
+average coherence	-1370.1357923560643

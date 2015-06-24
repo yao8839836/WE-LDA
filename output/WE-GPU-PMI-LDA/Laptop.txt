@@ -1,0 +1,16 @@
+price	expensive	money	extra	cost	buck	worth	shipping	buy	dollar	
+usb	easy	port	device	cable	hub	simple	firewire	quick	connection	
+speaker	sound	review	high	low	bass	volume	reviewer	stereo	level	
+cheap	plastic	strap	big	design	part	shoulder	place	flimsy	material	
+hp	notebook	dell	netbook	toshiba	sony	acer	replacement	experience	desktop	
+system	windows	software	window	mac	xp	home	program	vista	driver	
+ram	machine	cpu	core	processor	ghz	intel	amd	speed	performance	
+macbook	model	pro	apple	con	previous	older	version	company	imac	
+battery	charge	hour	life	minute	half	seconds	full	real	signal	
+size	small	large	inch	smaller	space	larger	side	front	stand	
+screen	keyboard	mouse	light	display	key	blue	feature	touchscreen	touchpad	
+fan	air	cooler	quiet	loud	hot	top	bottom	cooling	cool	
+case	bag	ipad	pocket	accessory	room	protective	zipper	side	tablet	
+power	cord	charger	dell	adapter	plug	outlet	short	ac	inspiron	
+memory	drive	hard	external	slot	card	disk	dvd	reader	cd	
+average coherence	-1376.3440498677735

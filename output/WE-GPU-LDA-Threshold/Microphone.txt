@@ -1,0 +1,16 @@
+noise	sound	end	background	headphone	extra	webcam	mike	line	isolation	
+price	review	money	range	purchase	worth	model	full	company	cheaper	
+mic	volume	control	low	speaker	sound	loud	headset	option	price	
+video	audio	friend	skype	online	system	service	computer	radio	box	
+ear	bud	comfortable	piece	size	tip	cushion	earbud	fit	fitting	
+usb	computer	laptop	plug	webcam	jack	windows	xp	vista	logitech	
+headphone	pair	earphone	earbud	music	skullcandy	decent	cheap	normal	term	
+sound	easy	small	battery	room	couple	comfort	device	clarity	top	
+headset	head	price	cheap	star	skype	case	expensive	part	complaint	
+mic	voice	recording	sony	stereo	recorder	foot	difference	boom	tape	
+camera	light	picture	cam	night	webcam	image	web	led	vision	
+cord	cable	wire	long	side	hour	earpiece	clip	plastic	short	
+camera	wireless	software	setting	mac	ip	device	pc	setup	network	
+phone	music	iphone	button	ipod	call	app	feature	mouth	reason	
+sound	bass	clear	high	midrange	job	heavy	music	level	response	
+average coherence	-1448.823412848573

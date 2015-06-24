@@ -1,0 +1,16 @@
+filter	cap	cover	line	lens	body	plastic	flimsy	bottom	cleaning	
+slot	sdhc	internal	card	storage	memory	reader	firewire	gb	chip	
+intuitive	menu	control	option	press	navigation	user	button	specific	custom	
+light	mode	video	default	low	minute	hd	lowest	auto	normal	
+object	optura	exposure	viewfinder	zr	steady	shutter	elura	stabilization	subject	
+labor	repair	birthday	expensive	chance	sale	present	purchase	extended	comparable	
+noise	loud	audible	conversation	background	headphone	microphone	shotgun	mic	definition	
+hour	charger	rechargeable	charge	life	pack	battery	hr	outlet	adapter	
+hand	small	lightweight	compact	convenient	portable	weight	cute	bigger	tiny	
+sharp	lcd	screen	image	angle	vivid	sharpness	color	contrast	saturation	
+grainy	dim	daylight	darker	picture	white	dark	bright	indoor	green	
+video	digital	feature	price	sony	zoom	picture	motion	speed	photo	
+sony	rating	reviewer	positive	canon	previous	negative	online	star	main	
+tape	vcr	av	dv	hdmus	vh	recording	analog	component	pinnacle	
+conversion	format	windows	driver	os	pc	xp	desktop	compatible	adobe	
+average coherence	-135.89488701614272

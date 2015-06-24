@@ -1,0 +1,16 @@
+fact	choice	real	idea	trouble	solution	reliable	purchase	past	couple	
+quiet	job	normal	loud	plenty	hair	area	crazy	house	strong	
+quiet	job	furniture	loud	carpet	hair	kitchen	dog	medium	noisy	
+furniture	quiet	carpet	hair	job	oil	kitchen	dog	table	exhaust	
+furniture	quiet	carpet	oil	table	wood	exhaust	hair	dog	kitchen	
+furniture	carpet	exhaust	quiet	oil	wood	table	hair	kitchen	apartment	
+furniture	oil	carpet	wood	exhaust	table	hair	quiet	stove	cat	
+furniture	exhaust	oil	carpet	wood	quiet	stove	table	ceiling	apartment	
+furniture	exhaust	oil	wood	carpet	stove	ceiling	fireplace	air	blanket	
+furniture	exhaust	oil	wood	carpet	stove	table	ceiling	fireplace	smell	
+furniture	exhaust	oil	wood	tent	tilted	doorway	fireplace	bunk	airflow	
+exhaust	furniture	oil	wood	tent	noctua	doorway	bunk	airflow	tilted	
+exhaust	furniture	oil	doorway	tent	bunk	airflow	noctua	fireplace	wood	
+exhaust	bunk	doorway	noctua	airflow	tent	oil	circulator	moving	flow	
+airflow	noctua	flow	circulator	noisier	vent	circulation	conditioning	whisper	thermostat	
+average coherence	-1142.519944558236

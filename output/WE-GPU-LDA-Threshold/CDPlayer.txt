@@ -1,0 +1,16 @@
+purchase	box	service	customer	onkyo	denon	support	warranty	shipping	cost	
+radio	station	reception	tuner	digital	fm	reason	preset	difficult	antenna	
+song	display	file	number	big	order	title	album	memory	tag	
+disc	track	disk	seconds	random	mode	single	shuffle	changer	discman	
+portable	audio	tape	star	walkman	cheap	device	kind	case	book	
+price	money	worth	noise	feature	low	friend	long	dollar	high	
+button	remote	control	function	easy	hard	play	complaint	small	feature	
+feature	model	usb	manual	wrong	panasonic	boombox	expensive	option	card	
+music	room	small	size	piece	space	inexpensive	junk	kitchen	cord	
+dvd	tv	power	picture	screen	jack	rca	movie	output	hook	
+sound	speaker	stereo	system	clear	side	radio	decent	design	compact	
+headphone	volume	bass	loud	sound	phone	ear	high	level	head	
+battery	car	adapter	hour	life	cassette	kit	ac	aa	rechargeable	
+easy	clock	alarm	minute	machine	light	night	lcd	top	setting	
+review	buy	playback	reviewer	line	christmas	price	esp	end	previous	
+average coherence	-1396.583372546554

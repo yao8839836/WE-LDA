@@ -1,0 +1,16 @@
+optimal	line	phono	kohm	circuitry	characteristic	watts	boostaroo	harmonic	carver	
+price	high	low	end	point	audiophile	real	rm	characteristic	watts	
+sound	feature	big	characteristic	harmonic	circuitry	adcom	amplification	small	phono	
+control	volume	circuitry	characteristic	harmonic	legacy	phono	adcom	tripath	db	
+cable	signal	tv	booster	digital	box	house	splitter	modem	picture	
+sound	money	audio	price	cheap	size	worth	main	cost	extra	
+car	rca	characteristic	circuitry	harmonic	watts	tripath	phono	efficiency	leviton	
+power	supply	watts	characteristic	tripath	kohm	phono	harmonic	circuitry	optimal	
+speaker	audio	receiver	home	stereo	sound	pair	room	sony	system	
+review	system	easy	device	service	star	phone	hook	long	cheap	
+watt	rm	watts	rms	lanzar	kicker	mtx	pyle	ohm	characteristic	
+wire	gauge	fuse	kit	copper	terminal	pyramid	watts	ground	insulation	
+input	headphone	output	player	jack	phono	circuitry	optimal	harmonic	characteristic	
+bass	sound	music	volume	battery	level	loud	full	headphone	light	
+channel	antenna	device	station	clear	hd	conjunction	pbs	phono	vhf	
+average coherence	-1251.6220281513959

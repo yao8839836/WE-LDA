@@ -1,0 +1,16 @@
+computer	pc	house	system	belkin	desktop	range	ethernet	end	internet	
+computer	pc	house	netgear	system	belkin	internet	adaptor	speed	range	
+computer	pc	system	house	belkin	desktop	internet	adaptor	speed	ethernet	
+computer	pc	system	belkin	house	desktop	ethernet	range	device	internet	
+computer	pc	house	system	belkin	desktop	range	ethernet	internet	adaptor	
+computer	pc	house	desktop	range	ethernet	system	belkin	end	internet	
+computer	pc	house	desktop	system	ethernet	range	belkin	end	device	
+computer	pc	house	system	desktop	belkin	ethernet	netgear	range	internet	
+computer	pc	house	netgear	system	belkin	internet	desktop	speed	device	
+computer	pc	house	system	desktop	belkin	ethernet	internet	adaptor	range	
+computer	pc	house	system	desktop	version	belkin	range	ethernet	internet	
+computer	pc	house	system	belkin	desktop	ethernet	range	version	internet	
+computer	pc	house	system	desktop	ethernet	range	belkin	end	version	
+computer	pc	netgear	house	system	belkin	internet	adaptor	speed	range	
+computer	pc	house	system	internet	belkin	adaptor	netgear	speed	range	
+average coherence	-1547.5836810934734

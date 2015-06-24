@@ -1,0 +1,16 @@
+review	star	rating	negative	positive	due	previous	online	ott	chance	
+model	older	price	expensive	cheaper	similar	dlp	switch	base	easy	
+clamp	pipe	joint	glue	shade	jig	thin	metal	kreg	rubber	
+petzl	tikka	hunting	tent	camping	brighter	flood	fishing	incandescent	pattern	
+christmas	father	nephew	extra	money	present	gift	buy	waste	sale	
+aaa	life	rechargeable	hour	pack	aa	battery	half	daily	hiker	
+bulb	high	lowest	level	tv	low	setting	adequate	sony	original	
+replacement	policy	refund	return	manufacturer	genuine	shipping	vendor	today	repair	
+dark	bright	tilt	height	angle	glare	dim	beam	brightness	blind	
+headlamp	night	battery	reading	trip	office	power	kit	road	box	
+press	super	quick	push	mode	easier	easy	place	manual	simple	
+white	orange	yellow	red	blue	blind	tactikka	bright	glow	color	
+lightweight	small	larger	compact	bigger	sleek	design	heavy	sturdy	cute	
+uncomfortable	headband	comfortable	elastic	hat	fit	neck	forehead	secure	cord	
+room	apartment	table	floor	house	ceiling	back	bedroom	side	front	
+average coherence	-127.23876595330263

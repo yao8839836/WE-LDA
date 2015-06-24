@@ -1,0 +1,16 @@
+representative	answer	support	reply	question	technical	tech	service	customer	helpful	
+searchable	pdf	genealogical	adf	feeder	document	copying	doc	page	copy	
+os	leopard	linux	enclosed	xp	compatible	osx	mac	pc	indexing	
+photo	resolution	high	scanning	speed	dpus	lowest	printing	level	scan	
+dollar	expensive	epson	cheaper	hp	similar	purchase	buy	older	extra	
+software	card	slot	micro	internal	stick	memory	storage	hard	easy	
+paper	sheet	feeding	feeder	plain	staple	papers	print	tray	carriage	
+slide	positive	rating	comment	review	chance	strip	star	hour	holder	
+latest	scangear	error	ai	driver	site	website	info	firmware	vuescan	
+button	instruction	simple	breeze	straightforward	select	user	start	minute	process	
+footprint	bigger	small	smaller	lightweight	compact	larger	briefcase	large	easy	
+sharpness	bright	color	sharp	film	contrast	text	beautiful	mask	picture	
+line	plastic	edge	side	bottom	front	flimsy	feature	metal	back	
+ink	empty	cyan	standalone	inkjet	magenta	lexmark	machine	jet	copier	
+ethernet	computer	wireless	hub	firewire	security	network	usb	wifi	connection	
+average coherence	-128.22684280847955

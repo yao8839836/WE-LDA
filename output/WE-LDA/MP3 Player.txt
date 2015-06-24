@@ -1,0 +1,16 @@
+life	aaa	hour	rechargeable	replaceable	aa	rechargable	pack	charge	hr	
+radio	station	tuner	tunecast	preset	voice	transmitter	reception	recorder	gogear	
+usb	computer	jack	extension	dongle	charger	adapter	kit	input	plug	
+select	button	intuitive	menu	user	control	knob	specific	option	arrow	
+album	playlist	ipod	generation	labs	xtra	sansa	artist	creative	winamp	
+windows	wmp	xp	vista	driver	software	os	winamp	compatible	device	
+microsdhc	slot	expansion	card	internal	storage	cf	microsd	memory	gig	
+wma	wav	music	file	podcast	collection	cd	directory	format	folder	
+support	request	technical	question	call	repair	customer	replacement	helpful	defective	
+sony	extra	alternative	price	dollar	dont	buck	sale	purchase	christmas	
+screen	oled	protector	small	compact	hand	tiny	picture	readable	lcd	
+firmware	update	sound	song	easy	latest	website	forum	future	fix	
+review	rating	positive	comment	star	february	minor	complaint	due	zune	
+ear	pair	earbud	koss	headset	earphone	distortion	uncomfortable	head	crossfeed	
+clip	holder	plastic	case	flimsy	crossfeed	accessory	small	construction	sturdy	
+average coherence	-131.45434387229474

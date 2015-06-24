@@ -1,0 +1,16 @@
+volume	control	speaker	high	sound	loud	low	noise	ipod	complaint	
+sound	easy	clear	static	speaker	small	cd	aux	auxiliary	device	
+price	money	star	purchase	reason	video	player	worth	buy	device	
+usb	power	wire	adapter	port	plug	vehicle	lighter	device	installation	
+iphone	cable	case	jack	headphone	end	connection	hard	connector	thick	
+phone	app	head	android	iphone	device	internet	bluetooth	appradio	option	
+radio	station	signal	frequency	xm	interference	area	channel	local	factory	
+button	screen	feature	line	voice	light	display	blue	song	seconds	
+cable	length	cord	long	short	battery	durable	hour	life	trip	
+ipod	aux	auxiliary	input	iphone	touch	player	cable	hook	previous	
+music	phone	call	bluetooth	pandora	free	hand	streaming	cell	stream	
+audio	device	system	speaker	receiver	home	music	computer	sony	ipad	
+service	customer	review	satechi	company	parrot	sound	seller	shipping	support	
+cable	cheap	sturdy	foot	mm	connection	incarcables	review	connector	cheaper	
+fm	transmitter	bluetooth	satechi	iphone	card	past	samsung	sd	mic	
+average coherence	-1480.9961614856693

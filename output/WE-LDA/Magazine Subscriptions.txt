@@ -1,0 +1,16 @@
+text	beautiful	letter	picture	glossy	photo	information	column	book	original	
+political	news	reader	harper	writer	literature	viewpoint	interested	genre	sexy	
+catholics	publication	slant	conservative	environmental	periodical	hawaiian	digest	factual	liberal	
+fantasy	asimov	science	sf	story	intelligent	award	writer	literary	essay	
+review	money	star	positive	negative	rating	today	chance	online	website	
+vogue	designer	socialite	march	photographer	celebrity	february	fashion	interview	artistic	
+customer	service	call	email	address	shipping	response	date	october	mail	
+geographic	society	reporting	timeless	lapse	kids	educational	explorer	geography	excellence	
+article	interesting	photography	subject	thoughtful	depth	interest	topic	educational	artistic	
+celebrity	history	exploration	culture	perspective	quiz	paris	war	gossip	lover	
+acoustic	world	greatest	sound	modern	real	americans	entertaining	american	writer	
+gift	birthday	christmas	brother	man	young	age	holiday	home	sister	
+informative	page	dwell	topic	geography	editorial	ad	tourist	diverse	article	
+place	plastic	life	larger	length	cover	inside	front	space	hour	
+fiction	rare	concept	author	creative	writer	artist	movie	factual	editor	
+average coherence	-127.23577440007756

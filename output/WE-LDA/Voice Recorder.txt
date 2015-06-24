@@ -1,0 +1,16 @@
+computer	hub	usb	adapter	input	jack	connector	cable	extension	adaptor	
+sound	level	lowest	recording	frequency	high	low	vcva	playback	setting	
+positive	rating	comment	review	price	star	negative	device	main	minor	
+small	lightweight	weight	bigger	clip	pocket	convenient	hand	belt	pouch	
+wma	wav	format	directory	file	folder	conversion	itune	playlist	track	
+voice	speaker	microphone	vcva	tinny	headphone	mic	ear	radio	stereo	
+os	windows	pc	mac	software	linux	driver	program	osx	xp	
+mode	sleep	dictation	normal	minute	option	note	xhq	half	study	
+instruction	intuitive	user	manual	simple	step	owner	documentation	navigation	breeze	
+microsd	slot	storage	memory	internal	card	aa	hour	rechargeable	gb	
+clear	background	loud	audible	static	conversation	crisp	noise	environment	rustling	
+olympus	cell	digital	sony	telephone	support	phone	email	return	smart	
+button	menu	pause	control	layout	select	function	front	vcva	record	
+battery	easy	recording	file	player	screen	music	feature	lcd	device	
+older	expensive	model	cheaper	newer	similar	buck	dollar	panasonic	comparison	
+average coherence	-132.50879933898298

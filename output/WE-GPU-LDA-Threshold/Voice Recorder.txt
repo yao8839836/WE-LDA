@@ -1,0 +1,16 @@
+class	note	lecture	college	student	professional	point	ipod	large	quick	
+sound	microphone	mic	speaker	noise	recording	stereo	low	headphone	external	
+device	manual	instruction	user	ability	box	friendly	matter	main	function	
+price	feature	player	money	star	radio	expensive	order	purchase	fm	
+easy	small	pocket	light	size	compact	weight	convenient	hand	shirt	
+memory	case	screen	option	menu	hard	function	card	tiny	display	
+file	folder	computer	recording	pc	easier	date	storage	fast	number	
+battery	hour	life	aaa	rechargeable	aa	long	capacity	alkaline	nimh	
+button	music	record	simple	mode	control	side	intuitive	switch	feature	
+voice	digital	olympus	sony	comment	list	replacement	process	care	past	
+sony	model	olympus	review	device	money	tech	technical	message	support	
+usb	computer	port	pc	cable	drive	connection	flash	plug	laptop	
+recording	meeting	phone	minute	room	purpose	interview	cd	conversation	conference	
+recording	sound	playback	clear	setting	volume	high	loud	speed	highest	
+software	audio	file	format	wma	wav	mac	player	compatible	vista	
+average coherence	-1464.3930061954272

@@ -1,0 +1,16 @@
+book	cable	charger	page	usb	car	holder	stand	angle	place	
+phone	light	weight	works	blue	tablet	cell	heavy	size	longer	
+price	expensive	money	buck	free	gift	shipping	worth	extra	packaging	
+clip	case	pocket	cover	plastic	protective	accessory	cheap	metal	hard	
+small	finger	large	size	hand	smaller	big	compact	long	tiny	
+review	star	easy	reason	fire	positive	feature	feel	boxwave	tool	
+device	tip	fire	boxwave	pogo	capacitive	comfortable	pen	hard	firm	
+pen	capacitive	precise	wacom	point	ball	wrong	boxwave	shorter	ink	
+finger	screen	hand	touch	precise	responsive	accurate	touchscreen	smooth	device	
+end	jack	headphone	high	cord	string	plug	top	cap	short	
+note	app	easier	easy	typing	keyboard	penultimate	convenient	difficult	precision	
+screen	protector	fingerprint	smudge	display	cloth	surface	glass	greasy	clean	
+pen	capacitive	pressure	fire	purchase	boxwave	customer	company	glad	service	
+tablet	iphone	xoom	galaxy	touch	black	color	ipod	samsung	motorola	
+tip	rubber	boxwave	pogo	firm	soft	squishy	metal	foam	harder	
+average coherence	-1370.404527144075

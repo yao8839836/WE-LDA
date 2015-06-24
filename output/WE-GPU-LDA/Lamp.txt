@@ -1,0 +1,16 @@
+purchase	today	choice	fact	idea	company	replacement	solution	past	real	
+job	close	dog	rest	normal	heavy	kind	economical	head	convenient	
+inside	shades	spot	flood	dog	job	headband	position	heavy	table	
+shades	inside	flood	pattern	headband	spot	blind	dog	oil	intensity	
+shades	flood	pattern	inside	headband	classy	lightbulb	elastic	intensity	hat	
+shades	flood	headband	elastic	pattern	classy	lightbulb	inside	hat	tikkina	
+shades	flood	pattern	inside	headband	elastic	lightbulb	classy	bessey	shade	
+shades	flood	lightbulb	pattern	elastic	headband	illumination	beam	intensity	classy	
+shades	elastic	flood	pattern	headband	lightbulb	bessey	classy	inside	tikkina	
+shades	flood	pattern	lightbulb	elastic	headband	illumination	classy	intensity	inside	
+shades	flood	elastic	lightbulb	headband	pattern	illumination	classy	bessey	inside	
+flood	shades	elastic	lightbulb	illumination	tikkina	pattern	focused	spotlight	headband	
+shades	flood	lightbulb	pattern	elastic	illumination	headband	bessey	classy	spotlight	
+shades	flood	lightbulb	illumination	beam	pattern	focused	spotlight	elastic	intensity	
+lightbulb	focused	elastic	illumination	flood	tikkina	shades	spotlight	flashlight	beam	
+average coherence	-1049.0794171407083

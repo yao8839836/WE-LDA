@@ -1,0 +1,16 @@
+record	voice	model	digital	control	radio	olympus	screen	recording	phone	
+voice	record	radio	model	control	digital	recording	playback	phone	hq	
+voice	record	model	control	digital	radio	phone	screen	playback	instruction	
+record	voice	model	olympus	digital	control	screen	phone	playback	instruction	
+record	voice	model	control	digital	radio	phone	playback	screen	hq	
+voice	record	model	control	digital	radio	olympus	phone	playback	screen	
+record	voice	model	digital	control	playback	screen	phone	olympus	radio	
+voice	record	model	control	digital	radio	playback	olympus	phone	hq	
+computer	folder	file	transfer	windows	mac	port	wma	pc	format	
+record	voice	model	digital	control	radio	phone	screen	playback	instruction	
+record	voice	model	control	radio	phone	digital	playback	screen	recording	
+record	voice	model	control	digital	phone	screen	radio	olympus	playback	
+battery	setting	hour	record	voice	model	digital	olympus	screen	control	
+record	voice	model	control	digital	phone	radio	screen	recording	playback	
+record	voice	model	digital	control	playback	screen	phone	radio	olympus	
+average coherence	-1599.0307096005893

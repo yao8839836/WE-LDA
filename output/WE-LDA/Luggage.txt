@@ -1,0 +1,16 @@
+green	purple	darker	orange	color	yellow	black	choice	price	bright	
+material	metal	thin	piece	sturdy	flimsy	leather	nylon	rubber	grip	
+scale	math	unnecessary	overage	restriction	strict	airlines	frequent	cole	international	
+lb	kilogram	airline	limit	kilo	airlines	suitcase	airport	pound	overseas	
+customer	website	christmas	positive	gift	negative	birthday	review	company	previous	
+lock	tsa	thief	shackle	pistol	collapsible	beep	seconds	mechanism	kilogram	
+simple	instruction	accurate	process	clear	minute	switch	feature	design	installation	
+bag	expensive	trip	weight	extra	money	dollar	cost	satisfied	purchase	
+zippered	pocket	wallet	zipper	holder	pouch	roomy	backpack	compartment	laptop	
+precision	eatsmart	digital	unnecessary	smart	east	traveler	bathroom	strict	camera	
+credit	card	business	passport	charger	id	cash	phone	personal	tag	
+easy	accurate	weight	lightweight	kg	display	compact	plenty	backlit	packed	
+shopping	plane	bag	flight	battery	trip	summer	home	weekend	power	
+fee	stressful	overweight	airlines	limit	restriction	souvenir	mexico	unnecessary	airline	
+strap	buckle	side	front	top	bottom	case	place	line	high	
+average coherence	-127.0795922846013

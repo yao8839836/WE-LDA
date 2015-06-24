@@ -1,0 +1,16 @@
+power	popcorn	beep	minute	small	dinner	reason	easy	space	start	
+power	popcorn	beep	space	small	dinner	easy	ge	reason	oven	
+power	oven	ge	space	popcorn	beep	dinner	small	large	reason	
+power	popcorn	beep	easy	dinner	reason	small	minute	plastic	space	
+power	popcorn	beep	dinner	small	easy	reason	minute	space	counter	
+power	beep	popcorn	space	easy	dinner	reason	minute	oven	small	
+power	beep	popcorn	dinner	small	easy	reason	space	minute	plastic	
+power	beep	popcorn	easy	plastic	minute	reason	dinner	space	start	
+beep	power	popcorn	minute	easy	reason	dinner	start	button	plastic	
+power	beep	popcorn	plastic	minute	easy	dinner	space	reason	small	
+power	beep	popcorn	easy	reason	oven	dinner	space	ge	plastic	
+power	beep	popcorn	dinner	easy	reason	space	oven	ge	minute	
+power	beep	popcorn	easy	dinner	space	ge	reason	oven	small	
+power	beep	popcorn	space	easy	dinner	oven	reason	ge	small	
+power	beep	popcorn	reason	easy	small	minute	dinner	space	plastic	
+average coherence	-1594.9711058614064

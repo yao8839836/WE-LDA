@@ -1,0 +1,16 @@
+iomega	western	hour	minute	se	life	expander	caviar	live	essential	
+review	older	online	comment	model	positive	audio	chance	digital	info	
+loud	playlist	noisy	music	itunes	library	collection	bass	noise	high	
+compact	small	size	brick	switch	convenient	power	ac	bulky	bigger	
+hp	utility	management	partition	contents	machine	function	device	disk	menu	
+software	folder	file	driver	corner	program	front	format	finish	left	
+vcr	burner	dvd	show	pioneer	panasonic	voice	disc	movie	collection	
+iii	ide	sata	rpm	rating	cache	multiplier	sa	esa	star	
+support	technical	accessory	question	case	pocket	sleek	cover	sturdy	ipod	
+cable	hd	tivo	component	input	error	pdf	dish	call	past	
+datum	manufacturer	simple	user	request	period	repair	extended	intuitive	instruction	
+os	ntfs	ubuntu	win	xp	osx	linux	mac	windows	compatible	
+internal	mb	nti	hdd	external	memeo	red	tb	storage	ram	
+usb	hub	firewire	ethernet	computer	mini	esa	pc	multiplier	desktop	
+sale	super	update	firmware	setup	breeze	price	easy	easier	desktop	
+average coherence	-1268.2941174413977

@@ -1,0 +1,16 @@
+panel	port	model	speaker	return	range	hdmi	simple	theater	input	
+port	panel	speaker	hdmi	model	range	return	marantz	theater	hook	
+port	panel	model	range	speaker	hdmi	theater	simple	return	input	
+panel	port	model	speaker	range	theater	hdmi	oppo	hdmus	simple	
+ray	panel	model	port	return	disk	speaker	hdmi	range	auto	
+instant	youtube	vudu	app	movie	title	netflix	blockbuster	music	access	
+port	speaker	panel	model	hdmi	range	theater	hdmus	hook	marantz	
+port	panel	speaker	model	hdmi	range	return	screen	deal	simple	
+port	range	panel	model	hdmi	simple	screen	input	speaker	projector	
+panel	port	model	hdmi	speaker	simple	return	range	input	projector	
+port	range	speaker	hdmi	theater	hdtv	high	hdmus	adapter	hook	
+panel	range	port	speaker	model	theater	hdmi	oppo	return	hook	
+panel	port	model	return	hdmi	simple	range	end	input	deal	
+port	panel	speaker	range	hdmi	theater	model	hook	bedroom	high	
+port	panel	model	range	speaker	hdmi	simple	return	theater	screen	
+average coherence	-1507.0472166052386

@@ -1,0 +1,16 @@
+price	feature	expensive	high	money	low	buck	deal	level	option	
+sound	speaker	system	picture	home	bass	stereo	theater	difference	image	
+service	company	hour	customer	support	minute	shipping	delivery	free	internet	
+wall	power	side	line	top	outlet	back	bottom	hole	screw	
+review	lamp	warranty	purchase	star	bulb	research	reason	replacement	toshiba	
+cable	box	hdmus	comcast	input	output	audio	coaxial	component	rca	
+sony	model	lcd	samsung	plasma	panasonic	hdtv	flat	inch	older	
+antenna	signal	reception	station	uhf	radio	channel	area	strength	fm	
+picture	channel	hd	hdtv	clear	image	satellite	sharp	crisp	television	
+pc	computer	device	card	laptop	software	hauppauge	tuner	monitor	sd	
+video	file	movie	format	wd	hard	network	netflix	drive	device	
+screen	room	big	bedroom	small	size	display	large	living	window	
+dvd	player	vcr	video	movie	progressive	tape	directv	game	show	
+picture	color	black	bright	image	light	clear	setting	beautiful	sharp	
+remote	easy	control	simple	button	intuitive	menu	setup	ir	universal	
+average coherence	-1486.895891891099

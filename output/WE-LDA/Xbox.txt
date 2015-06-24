@@ -1,0 +1,16 @@
+broadcast	pvr	tv	satellite	directv	hd	television	channel	show	dvr	
+game	format	wtv	wmv	hard	content	youtube	netflix	flash	external	
+button	command	push	mute	menu	control	selection	function	arrow	start	
+remote	expensive	cheaper	buy	dont	extra	buck	cost	opinion	dollar	
+controller	email	technical	support	answer	question	information	helpful	minute	service	
+hdmi	vga	coaxial	hdmus	cable	component	toslink	comcast	composite	optic	
+output	analog	toslink	input	coaxial	component	receiver	optic	av	dts	
+rechargeable	life	charger	charge	pack	lightweight	hour	small	comfortable	compact	
+driver	showbiz	arcsoft	windows	software	os	wintv	xp	hauppage	win	
+key	review	comment	minor	rating	star	main	chance	negative	research	
+led	device	video	light	yellow	green	glow	white	color	indicator	
+cable	lg	lcd	hdtv	sharp	sony	box	monitor	dvd	native	
+audio	speaker	microphone	bass	sound	stereo	clarity	pair	high	definition	
+switch	position	flimsy	material	construction	line	plastic	bottom	corner	rear	
+keyboard	computer	transceiver	ethernet	mini	combo	usb	dongle	pc	connection	
+average coherence	-127.05520954141444

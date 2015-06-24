@@ -1,0 +1,16 @@
+monitor	dell	lcd	flat	crt	native	secondary	widescreen	internal	expansion	
+lga	crucial	ssd	corsair	pentium	phenom	core	mobo	vengeance	intel	
+performance	range	cheaper	snap	ease	simple	screen	breeze	instruction	straight	
+vga	hdmi	hdmus	hdcp	input	analog	female	converter	displayport	port	
+ftw	sc	msi	ocz	sli	classified	twin	evga	chipset	kepler	
+idle	heaven	celsius	overclock	furmark	twin	afterburner	beast	unlock	oc	
+negative	positive	offer	invoice	customer	research	comment	consumer	review	promotion	
+gaming	graphic	detail	voucher	acceptable	bio	shader	related	unlock	past	
+rpm	hyper	vengeance	crucial	skill	playback	video	kingston	master	format	
+crysis	starcraft	game	frap	ultra	payne	arkham	diablo	swtor	battlefield	
+rating	star	pc	case	fact	lack	accessory	speed	con	full	
+lowest	default	setting	high	auto	max	frequency	mid	email	low	
+nvidia	radeon	agp	graphics	visiontek	chipset	power	socket	geforce	edition	
+large	larger	small	hard	space	bay	smaller	bigger	end	crisp	
+driver	latest	linux	loud	xp	windows	noisy	silent	computer	ubuntu	
+average coherence	-1207.1919944474

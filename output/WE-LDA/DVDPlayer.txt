@@ -1,0 +1,16 @@
+panasonic	theater	sony	lg	entertainment	system	pioneer	jvc	christmas	zenith	
+command	menu	control	option	function	navigation	select	arrow	layout	button	
+extra	cheaper	money	penny	equipment	dollar	expensive	rating	minor	purpose	
+remote	red	dark	green	light	movie	bottom	bedroom	gray	door	
+rep	department	repair	service	replacement	customer	dealer	extended	warranty	error	
+hour	charge	playtime	life	pack	road	town	short	country	longer	
+sharp	screen	viewer	bright	clear	picture	color	detail	clarity	beautiful	
+coaxial	analog	output	decoder	dts	component	hdmus	av	input	jack	
+channel	cable	xbox	hdmus	tv	show	receiver	hdmi	component	coaxial	
+simple	breeze	complicated	intuitive	price	straight	setup	interface	quick	easy	
+small	canal	loud	ear	fit	smaller	larger	speaker	pair	isolation	
+disc	dvd+r	hack	code	multi	changer	vcd	mpeg	pandora	rw	
+socket	outlet	plug	connector	adapter	adaptor	ac	charger	standard	car	
+review	newer	model	older	comment	positive	firmware	upgrade	previous	future	
+sound	hard	card	external	video	reader	feature	laptop	cd	flash	
+average coherence	-122.39357014761494

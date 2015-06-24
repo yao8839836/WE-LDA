@@ -1,0 +1,16 @@
+side	money	ethernet	directv	modem	wireless	setting	full	due	broadband	
+directv	full	wireless	connection	side	money	modem	choice	dish	xbox	
+side	money	directv	modem	internet	broadband	connection	lifetime	ethernet	wireless	
+money	side	modem	broadband	directv	lifetime	line	ethernet	home	setting	
+money	directv	side	full	modem	wireless	xbox	connection	ethernet	setting	
+money	modem	side	lifetime	directv	broadband	wireless	internet	ethernet	connection	
+directv	money	side	modem	wireless	ethernet	lifetime	connection	full	xbox	
+directv	side	full	connection	xbox	money	modem	wireless	fact	broadband	
+side	money	modem	directv	full	broadband	home	ethernet	connection	due	
+side	money	directv	modem	full	wireless	connection	home	broadband	xbox	
+modem	money	side	directv	lifetime	broadband	wireless	internet	full	fact	
+lifetime	side	modem	money	broadband	line	home	directv	fact	internet	
+optical	output	station	pvr	digital	dvr	component	analog	port	usb	
+money	side	directv	modem	broadband	setting	line	lifetime	home	wireless	
+record	button	programming	simple	fast	feature	ring	easy	beginning	long	
+average coherence	-1593.8377564544248

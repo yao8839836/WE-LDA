@@ -1,0 +1,16 @@
+easy	region	simple	free	code	pal	shipping	manual	setup	version	
+screen	picture	display	color	black	setting	image	bright	clear	top	
+tv	cable	box	hdmus	hd	comcast	hook	hdtv	connection	coaxial	
+service	warranty	customer	company	kind	part	repair	support	toshiba	replacement	
+battery	car	trip	power	hour	long	minute	charge	short	adapter	
+panasonic	sony	model	pioneer	samsung	toshiba	older	previous	jvc	cheaper	
+small	portable	machine	computer	device	case	usb	drive	card	seconds	
+movie	kid	show	vcd	netflix	apex	svcd	streaming	room	internet	
+sound	picture	speaker	system	home	bass	headphone	image	theater	clear	
+review	price	reason	low	star	high	ear	volume	level	positive	
+feature	option	ability	play	capability	favorite	fast	slow	mode	track	
+video	output	audio	input	playback	rca	format	digital	component	receiver	
+price	money	machine	extra	worth	dollar	christmas	piece	gift	cheap	
+remote	control	button	menu	universal	press	function	command	select	easy	
+disc	cd	disk	changer	noise	error	loud	drive	music	message	
+average coherence	-1407.9571015518911

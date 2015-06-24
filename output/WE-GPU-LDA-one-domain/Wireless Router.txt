@@ -1,0 +1,16 @@
+light	performance	model	desktop	radio	ghz	password	adapter	player	storage	
+light	performance	model	radio	storage	desktop	player	ghz	password	adapter	
+light	performance	model	desktop	storage	radio	player	specific	password	home	
+light	performance	model	radio	desktop	player	storage	adapter	password	ghz	
+light	performance	model	desktop	radio	ghz	player	system	adapter	password	
+light	performance	model	radio	ghz	desktop	password	player	adapter	specific	
+light	performance	model	radio	ghz	storage	password	system	adapter	desktop	
+light	performance	model	password	ghz	radio	desktop	storage	adapter	specific	
+password	point	system	linksys	light	reliable	dual	performance	ghz	band	
+model	light	performance	desktop	storage	adapter	password	card	home	connectivity	
+light	performance	model	desktop	system	radio	password	ghz	reliable	adapter	
+light	performance	password	model	ghz	radio	desktop	system	reliable	player	
+light	password	performance	model	ghz	radio	desktop	system	storage	reliable	
+light	performance	model	radio	ghz	desktop	player	password	storage	antenna	
+light	performance	model	desktop	radio	adapter	storage	player	strong	ghz	
+average coherence	-1606.3466945489592

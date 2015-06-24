@@ -1,0 +1,16 @@
+screen	power	car	adapter	cord	device	place	plug	back	switch	
+review	drive	ear	star	hard	usb	recorder	portable	card	wire	
+machine	cd	disk	format	vcd	file	computer	music	reason	expensive	
+battery	hour	size	life	playback	equipment	samsung	night	coby	kind	
+remote	button	control	function	small	front	basic	light	media	windows	
+movie	trip	long	kid	portable	system	room	car	road	choice	
+picture	sound	headphone	speaker	volume	clear	system	pair	bass	level	
+region	free	friend	easy	manual	minute	gift	pal	version	review	
+warranty	customer	service	part	support	company	shipping	buy	repair	minute	
+tv	cable	home	cheap	hdmus	hdmi	box	hd	case	theater	
+disc	error	play	top	seconds	standard	apex	christmas	message	tray	
+feature	easy	menu	setup	option	screen	setting	simple	slow	fast	
+video	audio	output	digital	input	dts	color	component	dolby	rca	
+price	money	worth	extra	purchase	low	deal	progressive	big	market	
+panasonic	sony	toshiba	model	netflix	jvc	pioneer	piece	junk	future	
+average coherence	-1441.0662424136583

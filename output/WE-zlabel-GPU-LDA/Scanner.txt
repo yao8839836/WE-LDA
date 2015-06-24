@@ -1,0 +1,16 @@
+email	question	site	feature	favorite	information	reply	helpful	expensive	flimsy	
+intuitive	straightforward	instruction	simple	super	setup	quick	button	easy	breeze	
+sharpness	sharp	computer	color	hub	beautiful	firewire	contrast	image	ethernet	
+kodachrome	film	transparency	strip	slide	neg	mask	coolscan	positive	holder	
+twain	software	ecopy	scangear	enclosed	indexing	driver	arcsoft	latest	program	
+representative	answer	support	technical	reply	question	service	customer	rating	tech	
+draft	print	duplex	card	slot	page	artisan	bigger	micro	smaller	
+line	default	option	lcd	edge	lowest	bottom	side	front	change	
+searchable	jpg	genealogical	lab	document	pdf	photo	adf	copying	feeder	
+cyan	ink	empty	magenta	jet	toner	inkjet	cartridge	white	lexmark	
+wireless	security	ethernet	network	cable	connection	wifi	password	mfc	server	
+standalone	workforce	artisan	os	leopard	perfection	linux	xp	photosmart	machine	
+officejet	deskjet	scanjet	hp	lexmark	photosmart	laserjet	umax	scansnap	outlet	
+paper	feeder	sheet	feeding	staple	plain	papers	crooked	tray	adf	
+dollar	positive	consumer	user	review	chance	buy	friendly	comment	price	
+average coherence	-1278.2407426198256

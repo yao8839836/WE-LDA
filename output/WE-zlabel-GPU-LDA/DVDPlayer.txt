@@ -1,0 +1,16 @@
+hour	screen	charge	playtime	life	pack	short	widescreen	battery	lcd	
+service	support	rep	email	phone	question	technical	answer	point	number	
+bright	sharp	clear	color	picture	detail	beautiful	clarity	viewer	simple	
+format	error	video	playback	wma	music	hd	unable	avi	entertainment	
+external	usb	plastic	flash	multiple	purpose	cheap	part	hdd	memory	
+department	purchase	extra	dealer	price	repair	dollar	warranty	replacement	extended	
+control	universal	command	button	menu	intuitive	remote	arrow	select	panel	
+speaker	loud	equalizer	stereo	superb	bass	sound	crisp	pair	complicated	
+coaxial	analog	component	hdmus	output	av	hdmi	receiver	input	channel	
+dolby	dts	decoder	output	analog	dt	audio	composite	vcr	christmas	
+review	comment	positive	card	laptop	reader	previous	machine	rating	pc	
+multi	stream	hack	movie	vcd	mpeg	region	dvd+r	asia	rw	
+disc	socket	dvd+r	changer	outlet	track	shuffle	beginning	feature	plug	
+trip	road	ntsc	seat	charger	town	country	back	upgrade	vehicle	
+panasonic	newer	pioneer	sony	model	lg	older	jvc	small	canal	
+average coherence	-1201.16231118044

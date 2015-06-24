@@ -1,0 +1,16 @@
+model	cheaper	expensive	review	older	rating	research	purchase	comment	glad	
+satellite	antenna	gps	device	weak	reception	cable	tomtom	system	price	
+maestro	magellan	lowrance	navigator	map	updates	pous	mapquest	poi	avid	
+cadence	elevation	pace	workout	heart	interval	calorie	polar	mile	partner	
+attachment	windshield	side	dashboard	seat	dash	line	bracket	area	thick	
+press	option	start	menu	ability	minute	ready	command	confusing	push	
+question	support	telephone	service	technical	phone	customer	email	reply	smart	
+user	intuitive	guide	instruction	simple	documentation	owner	friendly	quick	interface	
+slot	card	reader	computer	chip	usb	gb	gig	micro	hard	
+screen	protector	readable	sunlight	bezel	touchscreen	lcd	font	bright	visible	
+map	fm	road	route	feature	station	location	restaurant	direction	trip	
+rechargeable	charger	hour	life	charge	ac	aaa	car	minute	cigarette	
+small	larger	large	compact	tiny	easy	smaller	comfortable	bigger	con	
+entrance	street	lane	driving	exit	freeway	italian	highway	california	intersection	
+firmware	future	update	software	windows	xp	latest	version	driver	website	
+average coherence	-128.7447237222892

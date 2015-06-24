@@ -1,0 +1,16 @@
+business	auto	detail	digital	high	receipt	service	picture	ice	dpus	
+auto	detail	service	business	high	digital	dpus	picture	regular	process	
+business	service	auto	detail	dpus	picture	high	receipt	process	ice	
+detail	service	auto	business	sd	digital	ice	receipt	high	dpus	
+auto	detail	service	business	digital	dpus	receipt	high	picture	regular	
+business	detail	service	receipt	high	dpus	auto	picture	process	ice	
+business	detail	ice	high	auto	service	dpus	receipt	regular	picture	
+business	service	detail	auto	high	dpus	receipt	black	ice	digital	
+business	detail	auto	high	service	picture	dpus	process	digital	regular	
+detail	business	auto	service	process	high	dpus	neg	ice	receipt	
+business	auto	detail	high	process	service	dpus	receipt	digital	neg	
+business	service	high	receipt	dpus	detail	auto	large	ice	digital	
+business	high	auto	detail	dpus	receipt	service	picture	process	regular	
+business	detail	high	auto	ice	side	dpus	receipt	black	neg	
+business	detail	auto	high	dpus	digital	process	service	receipt	picture	
+average coherence	-1558.63327846554

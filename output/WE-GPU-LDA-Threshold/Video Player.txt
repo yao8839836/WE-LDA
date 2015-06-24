@@ -1,0 +1,16 @@
+review	service	customer	support	warranty	part	purchase	company	free	site	
+zen	creative	vision	gb	version	previous	micro	labs	android	functionality	
+video	feature	radio	fm	format	avus	xvid	wmv	divx	avi	
+music	video	movie	picture	tv	show	full	couple	game	podcast	
+screen	color	sound	small	clear	size	display	scratch	bright	black	
+player	software	file	media	computer	itunes	itune	windows	wmp	sync	
+photo	hard	card	drive	device	memory	epson	space	storage	image	
+button	touch	control	option	menu	pad	volume	hand	sensitive	side	
+sound	usb	headphone	cable	computer	charger	car	adapter	ear	power	
+ipod	apple	money	big	worth	price	zune	kind	iriver	point	
+battery	video	hour	life	long	charge	model	larger	dead	mac	
+player	star	dvd	reason	market	portable	research	real	wrong	solid	
+song	music	album	cd	playlist	track	folder	library	itunes	play	
+easy	device	user	interface	book	feature	manual	audio	price	simple	
+ipod	case	accessory	friend	christmas	gift	fact	complaint	mine	generation	
+average coherence	-1544.8743757767336

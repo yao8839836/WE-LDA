@@ -1,0 +1,16 @@
+wheel	scroll	scrolling	click	mode	sensitive	setting	sensitivity	speed	free	
+software	driver	mac	trackball	kensington	apple	windows	vista	mighty	version	
+ball	top	plastic	bottom	cheap	part	pointer	place	design	roller	
+feature	button	option	screen	web	control	ability	window	touch	favorite	
+easy	light	con	color	blue	pro	breeze	case	green	led	
+price	review	star	reason	high	low	expensive	money	extra	cost	
+gaming	game	razer	tablet	graphic	gamer	precision	intellimouse	easier	purpose	
+battery	aa	charge	life	hour	rechargeable	long	couple	minute	power	
+button	side	left	press	command	menu	select	back	front	extra	
+surface	pad	smooth	desk	pen	accurate	movement	glass	table	responsive	
+hand	small	size	large	smaller	comfortable	finger	larger	palm	tiny	
+usb	wireless	laptop	receiver	computer	cord	bluetooth	port	desktop	dell	
+keyboard	computer	key	laptop	desktop	touchpad	device	dell	foot	range	
+hand	finger	thumb	hard	big	palm	wrist	pain	comfortable	rest	
+logitech	microsoft	mx	optical	laser	wireless	cordless	model	revolution	previous	
+average coherence	-1456.3966321915761

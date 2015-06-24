@@ -1,0 +1,16 @@
+button	mode	front	system	power	dvr	favorite	press	battery	aa	
+system	dvr	xbox	front	theater	mode	cd	plasma	panasonic	media	
+front	battery	radio	shutter	mode	system	sensor	press	multiple	dvr	
+system	dvr	front	mode	battery	radio	theater	shutter	cd	xbox	
+front	system	dvr	mode	radio	battery	theater	shutter	xbox	press	
+system	mode	front	dvr	radio	shutter	battery	theater	aa	power	
+front	system	mode	press	battery	radio	dvr	shutter	power	multiple	
+system	dvr	xbox	theater	mode	cd	plasma	panasonic	media	sony	
+system	dvr	theater	xbox	mode	cd	plasma	front	panasonic	media	
+system	dvr	xbox	theater	mode	cd	panasonic	plasma	media	front	
+system	mode	dvr	front	xbox	power	theater	battery	cd	aa	
+system	mode	dvr	front	theater	battery	xbox	power	cd	shutter	
+system	mode	dvr	front	favorite	power	xbox	radio	theater	battery	
+front	shutter	mode	system	radio	battery	press	dvr	multiple	flash	
+system	dvr	mode	front	xbox	theater	cd	panasonic	volume	plasma	
+average coherence	-1548.3352536775435

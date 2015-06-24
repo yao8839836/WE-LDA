@@ -1,0 +1,16 @@
+small	quiet	box	powerful	job	size	big	space	star	large	
+air	moving	circulation	circulator	purifier	airflow	noctua	flow	conditioning	conditioner	
+room	hot	house	summer	cool	bedroom	heat	ceiling	window	floor	
+air	circulator	moving	circulation	conditioning	bedroom	stuffy	reason	conditioner	purifier	
+plastic	blade	motor	base	screw	front	metal	part	cheap	place	
+battery	night	hour	power	long	strong	tent	cord	hot	life	
+remote	price	control	feature	height	oscillation	angle	con	adjustable	simple	
+speed	setting	low	high	lowest	highest	medium	noisy	adapter	higher	
+noise	loud	quiet	sound	white	noisy	level	night	blow	silent	
+breeze	desk	bed	room	top	side	foot	office	home	cool	
+lasko	review	model	tower	air	larger	honeywell	money	customer	quieter	
+case	cooler	degree	cpu	ram	intel	motherboard	system	power	computer	
+air	amount	circulation	circulator	purifier	moving	quietness	whisper	conditioning	flow	
+air	purifier	circulation	circulator	conditioning	moving	conditioner	flow	quietness	whisper	
+easy	light	quiet	design	sturdy	weight	instruction	installation	price	super	
+average coherence	-1392.3693977045696

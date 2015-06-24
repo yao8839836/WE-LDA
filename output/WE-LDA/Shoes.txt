@@ -1,0 +1,16 @@
+larger	bigger	smaller	small	size	large	width	normal	regular	fit	
+seller	money	customer	satisfied	company	order	service	glad	buck	extra	
+hour	period	life	boot	kind	rock	hard	run	longer	short	
+slipper	foot	warm	comfortable	soft	odor	house	chemical	sock	smell	
+boot	negative	rating	positive	online	review	previous	today	reason	due	
+rainbow	sandal	goretex	reef	pair	rainbows	footwear	boot	flop	wear	
+slipper	pair	red	color	price	white	dark	choice	brown	worth	
+sole	size	dry	wet	traction	mud	big	trail	durable	true	
+rubber	side	bottom	inside	floor	line	hardwood	tile	place	flat	
+christmas	present	dad	gift	birthday	boyfriend	friend	favorite	home	slipper	
+man	snug	fit	wide	tight	fitting	fugitive	width	opening	asolo	
+lining	nylon	cushion	strap	insert	arch	seam	comfy	softer	stitching	
+outsole	sole	thick	comfortable	scuff	material	footbed	sheepskin	sturdy	suede	
+comfortable	winter	warm	weather	cold	toasty	comfy	summer	cool	degree	
+toe	wide	toasty	foot	mold	narrow	scuff	ankle	heel	slippers	
+average coherence	-135.0998618952996

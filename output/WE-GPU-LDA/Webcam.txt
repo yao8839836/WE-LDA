@@ -1,0 +1,16 @@
+adjustable	dim	object	lighting	angle	eye	dark	bright	natural	tilt	
+picture	clarity	acceptable	crisp	image	superb	clear	detail	effect	text	
+picture	clarity	superb	acceptable	crisp	image	clear	detail	sound	video	
+picture	ability	video	image	conferencing	acceptable	social	format	detail	capability	
+ability	social	video	capability	picture	format	real	option	choice	conferencing	
+purchase	expensive	cheaper	opinion	choice	research	dollar	technology	buy	glad	
+choice	online	social	capability	labs	ability	real	experience	friend	software	
+messenger	enclosed	software	application	compatible	social	download	pc	lifecam	program	
+enclosed	messenger	software	compatible	application	pc	download	lifecam	utility	social	
+enclosed	messenger	software	utility	conflict	download	application	compatible	pc	driver	
+enclosed	software	conflict	messenger	compatible	pc	utility	application	download	lifecam	
+enclosed	software	compatible	messenger	conflict	lifecam	utility	driver	website	application	
+enclosed	software	conflict	messenger	compatible	utility	compatibility	download	driver	lifecam	
+enclosed	conflict	utility	software	compatible	messenger	download	compatibility	linux	application	
+enclosed	conflict	win	ubuntu	linux	compatibility	utility	compatible	vista	download	
+average coherence	-1265.4367268787573

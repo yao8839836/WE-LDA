@@ -1,0 +1,16 @@
+usb	port	system	receiver	cable	device	adapter	fact	connection	support	
+key	backspace	alt	enter	delete	esc	fn	ctrl	macro	backslash	
+windows	pc	software	mac	media	home	driver	box	user	shortcut	
+battery	bluetooth	power	life	apple	version	couple	hour	switch	price	
+easy	microsoft	design	layout	ergonomic	star	natural	regular	quick	replacement	
+laptop	case	ipad	screen	cover	macbook	pro	place	style	easier	
+review	price	big	money	worth	kind	point	expensive	deal	negative	
+type	feel	hard	fast	tactile	plastic	mechanical	solid	quiet	cheap	
+tv	google	revue	remote	internet	web	logitech	video	box	app	
+button	key	function	side	space	volume	bar	number	left	extra	
+computer	small	size	range	room	full	desktop	board	long	foot	
+typing	hand	comfortable	finger	touch	pad	wrist	rest	palm	pain	
+key	kb	ergo	backslash	backspace	enter	delete	esc	simultaneous	alt	
+key	light	feature	letter	color	dark	option	blue	black	skin	
+mouse	logitech	wireless	touchpad	combo	laser	reason	device	feature	pointer	
+average coherence	-1446.6096522581124

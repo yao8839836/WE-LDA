@@ -1,0 +1,16 @@
+album	shuffle	artist	yprpb	hdmus	playlist	spotify	hdmi	vudu	flickr	
+streamer	live	roku	xd	poster	coverart	repository	synopsis	bookmarklet	movie	
+xp	os	win	linux	windows	level	window	beta	speed	default	
+hard	internal	external	usb	bay	contents	root	flash	dongle	disk	
+bright	sharp	viewer	text	crisp	bass	color	stereo	detail	white	
+intuitive	firmware	user	simple	future	inconsistent	interface	lockup	controls	setup	
+command	control	universal	harmony	button	press	hour	menu	rf	ir	
+player	dlna	media	playon	wh	airplay	tversity	smb	wmp	cbs	
+wav	wma	mpg	flv	avus	format	avi	wmv	mkv	codec	
+tv	vcr	satellite	show	dvr	receiver	feature	sensitive	channel	bluray	
+ipod	wmp	marketplace	rival	itune	zune	itunes	imho	creative	fanboy	
+rep	support	email	screen	technical	staff	request	question	protector	service	
+theater	bedroom	basement	rating	star	room	system	lack	due	main	
+wireless	security	ssid	ethernet	wifi	network	wifus	password	share	nas	
+radio	station	tuner	sdhc	reception	recorder	slot	transmitter	card	reader	
+average coherence	-1300.1432991978372

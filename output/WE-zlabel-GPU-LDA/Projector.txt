@@ -1,0 +1,16 @@
+desktop	computer	ppt	zoom	flimsy	plastic	construction	cover	pc	metal	
+vga	hdmus	dvi	hdmi	av	analog	component	female	cable	composite	
+hour	lifespan	bulb	price	budget	life	replacement	qumus	bothersome	expensive	
+powerlite	native	high	svga	unreadable	ac	xga	resolution	level	definition	
+loud	audible	noisy	noise	usb	hdfuryius	dongle	speaker	air	fan	
+speaker	woofer	powerpoint	bic	stereo	ppt	audience	presentation	medium	slideshow	
+tile	option	ceiling	stud	joist	slot	memory	wood	internal	card	
+room	movie	basement	game	theater	cartoon	xbox	darkened	bedroom	codec	
+directv	satellite	broadcast	channel	tv	xbox	show	hd	vcr	effect	
+vivid	sharp	bright	colorful	sharpness	dark	color	saturation	blind	contrast	
+lamp	simple	quick	guide	alarm	refund	intuitive	straight	technical	setup	
+review	rating	representative	positive	question	negative	due	previous	star	lack	
+small	compact	large	smaller	larger	size	distance	lightweight	pocket	audience	
+control	drywall	button	rf	universal	term	joist	wrench	world	acceptable	
+screen	viewing	lcd	widescreen	projection	hole	front	rear	edge	model	
+average coherence	-1288.845490210077

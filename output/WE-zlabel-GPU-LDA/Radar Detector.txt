@@ -1,0 +1,16 @@
+mute	loud	volume	control	level	noisy	tone	programmable	navigation	chirp	
+escort	encounter	valentine	ix	beltronics	detectors	bel	redline	ipad	whistler	
+limit	trap	speed	crest	range	redlight	revenue	gun	trooper	authorized	
+cheaper	buck	price	sale	buy	dollar	matter	extra	expensive	opinion	
+signal	stronger	weak	opener	voice	antenna	contrary	sound	microwave	ipad	
+option	ability	favorite	simple	feature	minute	super	setting	lowest	setup	
+fewer	ka	patrol	maine	dallas	officer	gun	cop	fals	median	
+squad	thief	danger	charger	plug	car	cord	patrol	coiled	automute	
+model	front	older	located	left	comparison	cheaper	side	version	position	
+ticket	revenue	driveway	sheriff	dallas	speeding	fool	area	house	patrol	
+comment	negative	online	review	chance	experience	decision	positive	consumer	higher	
+half	step	mine	direction	couple	quick	warning	occasion	start	owner	
+dark	light	red	bright	dim	blue	garmin	indicator	sun	visible	
+thief	attachment	windshield	louisiana	bracket	dash	mount	velcro	dashboard	country	
+tech	computer	technical	cup	driver	support	usb	source	hard	box	
+average coherence	-1266.017210007571

@@ -1,0 +1,16 @@
+headphone	hd	xbox	component	optical	input	gaming	tv	logitech	signal	
+fun	mario	kart	age	exercise	move	movement	session	younger	group	
+space	small	larger	living	large	plenty	room	smaller	expansion	person	
+version	edition	multiplayer	previous	mac	slower	latest	rom	nintendo	cd	
+storyline	singing	battle	greatest	title	rpg	oblivion	evil	song	theme	
+vista	computer	mac	wii	microsoft	xp	ea	download	buggy	windows	
+rating	review	negative	reviewer	star	positive	wars	poor	due	previous	
+graphic	character	story	control	system	important	feature	sound	player	original	
+hour	rush	level	ready	simple	setup	minute	instruction	quick	installation	
+play	score	gameplay	mode	replay	forgotten	challenge	challenging	talk	gamer	
+controller	yellow	green	white	color	op	blue	dark	button	bright	
+friend	age	brother	kid	older	nephew	yr	sister	young	gift	
+expensive	money	purchase	extra	cheaper	online	dollar	cost	order	customer	
+pc	charger	usb	battery	xp	wireless	connection	file	credit	power	
+fan	line	point	difficult	part	real	end	kind	easier	videogame	
+average coherence	-145.39196613714918

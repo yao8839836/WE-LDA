@@ -1,0 +1,16 @@
+purchase	manufacturer	sale	consumer	seller	warranty	defective	fault	potential	vendor	
+choice	opinion	expensive	cheaper	purchase	dollar	research	superior	chance	inexpensive	
+promedia	boomy	audiophile	soundlink	decent	sound	bose	compliment	klipsch	stereo	
+boomy	promedia	sound	loud	soundlink	audiophile	decent	bass	distortion	compliment	
+boomy	promedia	sound	distortion	equalizer	loud	tinny	bass	listening	audiophile	
+promedia	sound	boomy	stereo	compliment	soundlink	equalizer	decent	impact	suitable	
+promedia	boomy	sound	compliment	impact	loud	stereo	equalizer	soundlink	suitable	
+promedia	stereo	compliment	sound	boomy	suitable	soundlink	equalizer	acoustimass	addition	
+boomy	promedia	distortion	impact	loud	tinny	balanced	vocal	equalizer	sound	
+boomy	promedia	impact	balanced	loud	suitable	distortion	tinny	vocal	polks	
+boomy	suitable	impact	balanced	promedia	polks	tweeter	deep	tinny	loud	
+suitable	promedia	separate	addition	compliment	stereo	close	puck	ability	impact	
+separate	device	computer	addition	hook	pc	dock	stereo	source	connection	
+suitable	close	back	wire	base	position	couch	rear	shelf	promedia	
+grill	thick	arm	thin	hole	back	leg	wood	loose	bent	
+average coherence	-1198.9066789114129

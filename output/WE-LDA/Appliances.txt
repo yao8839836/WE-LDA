@@ -1,0 +1,16 @@
+metal	flimsy	thin	cheap	piece	stainless	box	aluminum	cardboard	plastic	
+pressure	psi	dial	adjustment	loud	knob	control	quiet	high	compressor	
+review	positive	cost	refund	order	online	today	previous	purchase	company	
+ice	cream	freezer	drink	frozen	maker	basket	bin	vegetable	stove	
+filtered	refrigerator	inlet	frigerator	microwave	icemaker	ge	duct	danby	maytag	
+tank	gas	charcoal	tap	keg	beer	gallon	filter	faucet	shelf	
+valve	wrench	tiny	psus	driver	nut	gasket	tap	thermostat	air	
+cold	degree	winter	temp	heat	hot	temperature	humidity	summer	hour	
+room	small	plenty	space	window	large	storage	full	floor	guest	
+front	door	bottom	side	line	corner	bracket	rest	hole	top	
+customer	call	service	response	record	date	phone	web	email	site	
+instruction	simple	direction	installation	setup	clean	assembly	straightforward	easy	quick	
+part	larger	medium	fit	snug	price	replacement	smaller	model	large	
+kegerator	coors	sanyo	amana	regulator	homebrew	refrigerated	washer	nervous	cornelius	
+newcastle	ale	foamy	regulator	sankey	coors	keg	homebrew	colder	cornelius	
+average coherence	-130.76994204293226

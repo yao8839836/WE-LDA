@@ -1,0 +1,16 @@
+hour	life	charge	battery	hr	saver	master	pack	half	airflow	
+simple	disk	super	flash	storage	hard	speed	external	setup	shipping	
+photo	processing	device	message	color	white	horrible	idea	kid	heavier	
+fan	noisy	loud	noise	silent	heat	light	cooling	air	warm	
+briefcase	strap	padded	bag	pound	velcro	backpack	heavy	shoulder	padding	
+case	zipper	thick	pouch	protective	flimsy	metal	construction	review	pocket	
+bright	small	lightweight	con	led	compact	original	complete	longer	hand	
+ram	core	intel	amd	processor	corsair	ssd	motherboard	crucial	cpu	
+xp	vista	os	windows	linux	ubuntu	program	driver	compatible	burner	
+speaker	corner	bottom	line	stereo	bass	connection	crisp	microphone	wireless	
+usb	firewire	hub	stick	slot	ethernet	memory	card	lcd	screen	
+ipad	imac	model	hard	bootcamp	generation	macbook	older	printer	iphone	
+cord	cost	dollar	price	purchase	connector	buy	expensive	cheaper	budget	
+dell	touchpad	keyboard	hp	pavilion	trackpad	anker	typing	left	holder	
+pc	brick	ac	bootcamp	system	power	operating	socket	osx	plug	
+average coherence	-1215.4478161587333

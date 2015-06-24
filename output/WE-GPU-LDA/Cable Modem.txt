@@ -1,0 +1,16 @@
+close	job	due	fact	regular	real	matter	strong	normal	worse	
+trouble	solution	online	internet	order	multiple	local	patient	information	unable	
+trouble	internet	solution	online	unable	download	patient	telephone	wifus	security	
+trouble	internet	security	wifus	download	network	lan	connected	wifi	netgear	
+netgear	internet	security	lan	net	connected	cisco	download	provider	linksy	
+netgear	security	lan	internet	cisco	linksy	linksys	connected	broadband	provider	
+netgear	linksy	cisco	provider	broadband	lan	linksys	net	security	connected	
+netgear	linksy	provider	broadband	cisco	lan	net	linksys	csr	connected	
+netgear	cisco	linksy	provider	broadband	lan	linksys	csr	net	voip	
+netgear	broadband	linksy	provider	cisco	lan	csr	linksys	connected	net	
+netgear	provider	cisco	linksy	broadband	csr	isp	voip	installer	net	
+netgear	linksy	provider	broadband	cisco	isp	csr	installer	lan	dsl	
+provider	netgear	linksy	isp	cisco	broadband	csr	installer	telephony	rcn	
+provider	isp	netgear	linksy	broadband	cisco	telephony	csr	arris	installer	
+atlanta	arris	telephony	isp	ambit	dsl	disconnection	packet	doci	preferred	
+average coherence	-1286.1966945837544

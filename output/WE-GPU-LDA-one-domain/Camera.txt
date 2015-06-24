@@ -1,0 +1,16 @@
+result	user	raw	equipment	capability	interface	dslr	level	phone	shoot	
+result	user	raw	shoot	bloggie	interface	phone	exposure	connection	equipment	
+result	user	raw	bloggie	shoot	equipment	phone	option	exposure	capability	
+result	interface	equipment	capability	raw	connection	dslr	level	user	real	
+result	user	raw	phone	capability	bloggie	shoot	interface	movie	equipment	
+result	raw	user	interface	capability	connection	bloggie	equipment	phone	shoot	
+result	user	connection	raw	interface	equipment	price	capability	real	dslr	
+result	user	phone	shoot	raw	bloggie	exposure	equipment	interface	option	
+result	user	raw	shoot	interface	phone	bloggie	exposure	dslr	equipment	
+result	user	interface	connection	raw	phone	capability	shoot	bloggie	equipment	
+result	user	raw	shoot	phone	interface	capability	exposure	bloggie	connection	
+result	user	phone	shoot	raw	equipment	capability	exposure	bloggie	connection	
+user	result	shoot	phone	exposure	raw	bloggie	movie	option	interface	
+result	user	shoot	phone	raw	connection	bloggie	equipment	capability	exposure	
+user	result	bloggie	exposure	shoot	phone	raw	interface	shutter	option	
+average coherence	-1572.687124954652

@@ -1,0 +1,16 @@
+setting	speed	air	room	noise	high	breeze	quiet	top	low	
+setting	speed	high	air	noise	room	quiet	top	breeze	cool	
+setting	speed	air	room	high	quiet	noise	breeze	top	low	
+setting	speed	high	room	air	quiet	noise	breeze	top	low	
+speed	setting	high	air	noise	room	quiet	breeze	low	top	
+setting	speed	high	air	noise	room	quiet	breeze	low	top	
+setting	speed	air	high	room	noise	quiet	top	breeze	hot	
+setting	speed	noise	air	high	room	breeze	quiet	top	low	
+speed	setting	room	high	air	noise	quiet	breeze	top	low	
+setting	speed	room	high	air	quiet	noise	breeze	top	low	
+setting	speed	high	air	noise	room	quiet	breeze	low	top	
+speed	setting	high	noise	air	room	quiet	breeze	low	top	
+setting	speed	room	air	high	noise	quiet	breeze	top	low	
+setting	speed	high	room	air	noise	quiet	breeze	top	low	
+setting	speed	high	air	room	noise	quiet	top	breeze	hot	
+average coherence	-1608.2762213504614

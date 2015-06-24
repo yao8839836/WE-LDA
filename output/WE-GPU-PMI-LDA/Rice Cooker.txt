@@ -1,0 +1,16 @@
+warm	timer	warming	machine	breakfast	cycle	function	hot	feature	minute	
+water	bowl	button	dry	pan	nonstick	lid	press	mark	mess	
+minute	instruction	manual	hour	ready	guide	fluffy	direction	light	box	
+review	star	aroma	part	reason	side	replacement	plastic	type	number	
+pot	lid	mess	stove	pan	spoon	nonstick	dishwasher	bowl	hole	
+brown	jasmine	grain	sushi	basmatus	porridge	quinoa	long	white	wild	
+price	model	zojirushi	expensive	review	cheaper	money	worth	high	extra	
+job	kitchen	counter	appliance	cheap	kind	huge	small	cabinet	reviewer	
+small	size	smaller	large	larger	bigger	amount	compact	tiny	person	
+easy	simple	clean	quick	breeze	super	cleanup	cord	fast	fact	
+steamer	steam	vegetable	food	egg	veggy	meal	basket	tray	dinner	
+brown	white	jasmine	basmatus	sushi	porridge	black	quinoa	decker	batch	
+oatmeal	oats	slow	steel	recipe	setting	breakfast	meal	morning	timer	
+bottom	top	line	sticky	water	starchy	pot	bowl	burning	sticking	
+cup	uncooked	measure	full	capacity	measurement	description	normal	note	mine	
+average coherence	-1416.2994831816734

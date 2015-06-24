@@ -1,0 +1,16 @@
+speaker	receiver	subwoofer	power	satellite	watt	woofer	amplifier	separate	amp	
+review	option	radio	star	simple	main	reason	design	fan	point	
+price	feature	money	model	deal	worth	purchase	range	hour	buy	
+input	audio	digital	video	component	output	optical	connection	rca	source	
+sound	room	small	speaker	large	living	size	big	bedroom	apartment	
+sound	picture	clear	full	bar	experience	screen	effect	solid	true	
+easy	setup	yamaha	soundbar	wireless	signal	manual	con	internet	pro	
+remote	button	control	light	manual	complaint	menu	wrong	function	blue	
+volume	bass	level	subwoofer	loud	low	high	end	setting	power	
+home	theater	sony	onkyo	denon	bose	box	panasonic	buck	package	
+movie	dts	sound	music	dolby	mode	decoding	dt	game	minute	
+dvd	player	cd	disc	changer	vcr	disk	tray	playback	multiple	
+tv	cable	hdmus	hdmi	box	hook	hdtv	hd	arc	toslink	
+speaker	wire	rear	front	channel	center	wall	back	wireless	connector	
+panasonic	samsung	service	customer	sony	support	vizio	warranty	part	tech	
+average coherence	-1546.596635164038

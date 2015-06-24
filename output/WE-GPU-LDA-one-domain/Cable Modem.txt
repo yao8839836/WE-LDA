@@ -1,0 +1,16 @@
+service	mb	speed	upload	im	test	cox	ping	live	peak	
+call	line	level	power	room	support	id	db	supply	screen	
+call	power	level	line	supply	support	db	minute	room	screen	
+minute	id	box	ethernet	review	address	online	room	number	call	
+call	level	id	line	support	power	review	minute	supply	room	
+minute	id	ethernet	review	address	box	call	line	room	power	
+call	line	level	support	room	power	supply	id	db	screen	
+minute	ethernet	id	address	call	line	power	review	box	level	
+speed	upload	cox	ping	test	mbps	live	peak	im	speedtest	
+call	line	level	power	support	supply	db	screen	room	status	
+level	call	db	power	line	screen	support	supply	easy	status	
+call	line	level	power	support	supply	room	db	screen	minute	
+call	line	level	power	supply	support	db	room	status	screen	
+speed	upload	live	cox	test	ping	mbps	peak	im	average	
+minute	ethernet	address	box	id	review	netgear	line	level	call	
+average coherence	-1439.2821842291457

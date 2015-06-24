@@ -1,0 +1,16 @@
+purchase	manufacturer	seller	warranty	sale	defective	consumer	buyer	infocus	advice	
+economical	costly	paint	replacement	powerlite	qumus	pj	longer	atdec	projecter	
+anchor	paint	inside	shades	cardboard	tile	joist	curtain	mount	bolt	
+shades	curtain	mount	cardboard	paint	diagonal	tile	lowe	anchor	blind	
+shades	curtain	blind	diagonal	mount	cardboard	beam	overhead	lowe	audience	
+diagonal	blind	shades	reflective	curtain	visible	dark	lumen	luman	eye	
+diagonal	blind	reflective	luman	bright	dark	eye	visible	blackout	shades	
+diagonal	bright	luman	reflective	eye	dark	blind	watchable	ect	colorful	
+diagonal	bright	dark	luman	ect	reflective	eye	blind	effect	projection	
+bright	diagonal	dark	luman	ect	eye	reflective	effect	blind	colorful	
+diagonal	ect	effect	bright	image	luman	picture	eye	dark	acceptable	
+picture	ect	image	effect	bright	diagonal	sharp	crisp	luman	acceptable	
+picture	image	ect	effect	powerpoint	display	grid	presentation	bright	diagonal	
+picture	powerpoint	kinect	image	grid	ect	display	effect	presentation	ordinary	
+xbox	voilum	ppt	directv	kinect	converter	broadcast	source	device	television	
+average coherence	-1190.5502013228581

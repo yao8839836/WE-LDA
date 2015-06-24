@@ -1,0 +1,16 @@
+easy	light	credit	tool	part	computer	weight	gun	heart	box	
+front	doorway	tent	door	wall	post	seat	stable	metal	adjustable	
+large	small	larger	bigger	width	medium	shoe	narrow	smaller	normal	
+bike	trailer	wheel	rider	trunk	brake	mph	bicycle	motorcycle	car	
+blade	edge	thin	sharp	knife	rubber	thick	material	tough	construction	
+water	dry	heat	weather	stove	leak	hot	high	summer	cold	
+instruction	pole	bottom	clear	hole	simple	manual	top	place	base	
+valve	patch	gas	tank	pump	stem	fuel	seal	tube	washer	
+positive	customer	negative	chance	online	review	christmas	rating	star	mail	
+cheaper	cost	shipping	price	sale	fair	buy	expensive	local	money	
+green	bright	beam	color	surefire	yellow	yard	red	dark	target	
+battery	ball	minute	tee	power	ready	entire	fun	office	home	
+band	hitch	side	brake	rear	tail	truck	loop	wheel	rack	
+storage	pocket	strap	velcro	pouch	bag	cot	backpack	buckle	zipper	
+case	pack	kind	type	hard	single	feature	important	back	rest	
+average coherence	-130.643688648609

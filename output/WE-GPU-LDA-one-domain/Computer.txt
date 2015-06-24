@@ -1,0 +1,16 @@
+text	size	image	photo	angle	brightness	bright	lower	resolution	high	
+android	hub	xoom	size	refresh	hdmus	large	text	micro	tablet	
+text	size	image	angle	brightness	lower	photo	bright	resolution	high	
+text	size	lower	angle	bright	brightness	image	resolution	high	pixel	
+size	text	photo	angle	higher	brightness	refresh	decent	image	bright	
+text	size	brightness	image	bright	lower	angle	photo	resolution	pixel	
+size	text	photo	image	brightness	angle	lower	decent	bright	refresh	
+size	text	angle	lower	display	bright	image	brightness	resolution	photo	
+text	size	angle	brightness	image	lower	bright	resolution	flat	photo	
+size	text	angle	lower	high	panel	resolution	bright	pixel	brightness	
+text	size	image	angle	bright	brightness	lower	display	flat	resolution	
+size	text	photo	angle	brightness	image	bright	higher	lower	flat	
+size	text	brightness	angle	photo	image	lower	bright	decent	resolution	
+size	text	brightness	image	photo	angle	lower	bright	resolution	higher	
+size	text	photo	brightness	image	angle	lower	contrast	higher	flat	
+average coherence	-1556.4743393539313

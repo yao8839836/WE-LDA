@@ -1,0 +1,16 @@
+durability	sale	seller	damage	walmart	purchase	packaging	retail	colby	shipment	
+purchase	cheaper	expensive	chance	dollar	opinion	research	glad	cost	choice	
+fact	capacity	place	wallet	addition	empty	inexpensive	advantage	holder	expensive	
+capacity	fact	storage	wallet	advantage	cheaper	micro	reader	microsd	choice	
+wallet	reader	storage	microsd	capacity	format	gb	microsdhc	photo	class	
+wallet	reader	storage	format	copy	microsd	copying	capacity	photo	slot	
+format	photo	reader	jpg	copy	wallet	ability	capability	copying	flatbed	
+format	reader	jpg	storage	file	photo	wallet	microsd	microsdhc	gb	
+format	jpg	copy	photo	ability	file	reader	copying	wallet	pic	
+reader	format	microsd	storage	jpg	file	wallet	microsdhc	copy	pic	
+format	jpg	reader	file	pic	photo	microsd	copy	microsdhc	storage	
+jpg	transcend	byte	reader	microsdhc	format	pic	transfer	microsd	file	
+jpg	format	pic	photo	file	reader	copy	scan	copying	wallet	
+jpg	pic	format	photo	scan	image	editing	scanning	copy	file	
+exr	image	jpg	shot	scan	pic	photograph	raw	acceptable	shooting	
+average coherence	-1239.3149559633944

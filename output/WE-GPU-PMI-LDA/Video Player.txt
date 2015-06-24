@@ -1,0 +1,16 @@
+ipod	zen	creative	apple	vision	generation	zvm	labs	nano	market	
+ipod	zen	creative	vision	review	generation	zvm	labs	christmas	friend	
+screen	display	picture	color	bright	clear	black	touchscreen	small	image	
+feature	fm	radio	option	station	function	recorder	tuner	voice	ability	
+music	video	movie	tv	player	format	show	file	book	playback	
+battery	hour	life	charge	minute	long	service	full	half	customer	
+sound	price	money	headphone	speaker	warranty	extra	worth	ear	expensive	
+computer	pc	star	usb	charger	car	reason	adapter	cable	laptop	
+player	library	media	software	windows	window	itunes	dvd	program	itune	
+song	playlist	album	artist	track	player	art	list	shuffle	play	
+device	hard	card	photo	drive	size	space	gb	slot	storage	
+video	file	format	movie	playback	audio	device	wav	type	support	
+button	case	touch	menu	control	sensitive	accessory	pad	volume	press	
+ipod	zen	creative	vision	labs	zvm	generation	player	apple	gb	
+easy	simple	software	intuitive	user	interface	breeze	quick	friendly	manual	
+average coherence	-1561.0280766382048

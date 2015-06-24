@@ -1,0 +1,16 @@
+call	easy	line	number	feature	caller	button	voice	id	option	
+music	audio	tv	computer	rap	type	fact	night	black	movie	
+price	sound	range	money	comfort	station	worth	durable	koss	desk	
+noise	couple	cancellation	canceling	hard	job	light	background	kind	real	
+home	radio	side	plastic	device	wire	video	signal	reception	hard	
+handset	base	system	feature	panasonic	message	machine	cordless	house	answering	
+bass	sound	high	clear	low	midrange	grado	akg	mid	muddy	
+sound	speaker	cheap	con	pro	earbud	wrong	end	difference	wonderful	
+ipod	cable	car	device	ipad	usb	adapter	connector	jack	touch	
+volume	cord	player	control	clip	place	cd	complaint	song	foot	
+pair	headset	sony	earphone	sennheiser	expensive	bose	ipod	model	microphone	
+battery	iphone	case	long	charge	charger	life	power	apple	difficult	
+review	service	star	reason	customer	support	person	free	previous	term	
+head	comfortable	hour	fit	light	uncomfortable	big	weight	band	large	
+ear	earbud	bud	size	comfortable	small	piece	design	cushion	pad	
+average coherence	-1455.5901203531444

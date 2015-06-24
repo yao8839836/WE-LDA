@@ -1,0 +1,16 @@
+monitor	lcd	native	flat	crt	secondary	widescreen	dell	television	screen	
+overclock	frozr	pcb	vrm	twin	afterburner	msus	celsius	msi	kepler	
+power	larger	large	con	small	smaller	cool	full	bigger	big	
+crysis	frap	starcraft	payne	ultra	arkham	diablo	civilization	jump	battlefield	
+support	customer	email	defective	offer	technical	invoice	site	answer	question	
+video	older	future	graphic	latest	version	pc	technology	luck	model	
+simple	breeze	instruction	straight	seconds	speed	quick	process	guide	ease	
+vga	hdmi	hdmus	input	hdcp	analog	female	converter	displayport	molex	
+crucial	lga	ssd	vengeance	corsair	phenom	mobo	skill	pentium	core	
+lowest	game	high	max	frequency	range	setting	mid	resolution	level	
+computer	internal	gb	expansion	storage	contents	hard	bay	memory	system	
+cheaper	price	rating	decision	technology	budget	cost	buck	dollar	sale	
+driver	linux	latest	windows	xp	ubuntu	os	win	compatible	window	
+graphics	ocz	chipset	gtx	nvidea	ssd	ftw	amd	geforce	sc	
+loud	noisy	silent	noise	fan	cooling	heat	air	blow	warm	
+average coherence	-121.9478016170902

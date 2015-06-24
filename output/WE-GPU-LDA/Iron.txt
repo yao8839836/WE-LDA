@@ -1,0 +1,16 @@
+choice	purchase	real	fact	idea	past	stuff	cheaper	job	today	
+messy	nonstick	lid	pan	steamer	oz	dry	titanium	container	sticking	
+messy	nonstick	lid	pan	titanium	oz	steamer	dry	sticking	sticky	
+nonstick	messy	titanium	pan	oz	lid	sticking	sticky	dry	steamer	
+messy	nonstick	pan	titanium	oz	lid	sticking	sticky	steamer	residue	
+nonstick	messy	pan	titanium	oz	lid	sticking	steamer	sticky	residue	
+nonstick	pan	titanium	messy	lid	sticking	sticky	residue	oz	teflon	
+nonstick	messy	pan	titanium	lid	oz	sticking	steamer	residue	dry	
+nonstick	messy	titanium	pan	lid	sticking	oz	steamer	residue	sticky	
+messy	nonstick	pan	titanium	lid	oz	sticky	residue	wet	sticking	
+nonstick	messy	titanium	pan	lid	oz	steamer	sticking	dry	residue	
+nonstick	messy	titanium	pan	oz	sticking	lid	residue	sticky	steamer	
+nonstick	titanium	messy	pan	residue	sticking	lid	sticky	oz	seam	
+nonstick	pan	messy	titanium	lid	oz	residue	sticky	sticking	steamer	
+messy	nonstick	titanium	oz	pan	lid	steamer	residue	sticking	dry	
+average coherence	-1089.3420158082813

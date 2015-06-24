@@ -1,0 +1,16 @@
+small	hand	compact	large	larger	smaller	medium	fit	size	portability	
+linux	os	xp	software	driver	windows	pc	program	osx	mac	
+construction	con	pliers	thin	metal	plastic	housing	durable	material	flimsy	
+side	corner	edge	located	front	position	handed	bottom	left	upper	
+logitech	website	wireless	latest	microsoft	laptop	driver	older	optical	forum	
+expensive	price	pad	cheaper	dollar	buy	sale	expectation	buck	skeptical	
+button	rep	support	email	finger	defective	easy	service	replacement	technical	
+usb	keyboard	dongle	computer	mini	unifying	extension	cord	retractable	braided	
+rechargeable	life	aa	aaa	rechargable	overnight	charge	battery	charger	hour	
+mx	laser	rating	negative	positive	previous	minor	review	due	reviewer	
+option	page	speed	sleep	mode	basic	default	print	fast	multiple	
+game	gaming	high	general	purpose	gamer	foot	level	capable	dpus	
+light	bright	glow	red	white	green	color	indicator	yellow	gray	
+wheel	resistance	flick	click	scroll	sensitive	programmable	conventional	precise	innovative	
+surface	wooden	cloth	cursor	comfortable	slippery	rubberized	movement	ball	grip	
+average coherence	-129.7125446492626

@@ -1,0 +1,16 @@
+leopard	os	spooler	osx	xp	linux	mac	rating	star	compatible	
+india	driver	representative	support	technical	request	software	spooler	program	latest	
+ink	cyan	yield	fortune	magenta	empty	aftermarket	jet	toner	cart	
+straightforward	intuitive	guide	breeze	setup	wizard	simple	straight	process	super	
+workforce	epson	artisan	office	discount	printers	workhorse	depot	cartrige	line	
+computer	parallel	hub	usb	loud	belkin	dell	cleaning	noisy	desktop	
+expensive	format	comparable	performance	recommendation	search	money	folder	file	online	
+footprint	menu	small	smaller	larger	function	select	ability	basic	large	
+paper	feeder	print	duplex	borderless	scan	doc	faxing	ream	copying	
+photo	lab	editing	slide	sd	pic	card	slot	scan	stick	
+purchase	positive	review	decision	price	negative	glad	experience	buy	comment	
+feeder	sheet	feed	paper	crooked	plain	carriage	tray	misfeed	papers	
+left	front	laser	speed	lcd	bottom	display	rear	drive	corner	
+wireless	copier	ethernet	security	adf	faxing	copy	connection	linksys	scanner	
+hp	officejet	printers	laserjet	sharp	deskjet	photosmart	color	aio	bright	
+average coherence	-1274.095953044972

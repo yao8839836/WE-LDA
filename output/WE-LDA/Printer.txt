@@ -1,0 +1,16 @@
+sharp	text	color	picture	beautiful	bright	high	clear	clarity	detail	
+color	white	magenta	gray	red	cyan	yellow	empty	dark	black	
+spooler	leopard	os	linux	driver	lion	xp	osx	windows	latest	
+office	depot	loud	small	footprint	noisy	house	space	smaller	desk	
+menu	default	user	mode	function	ability	control	friendly	folder	intuitive	
+cost	positive	discount	expensive	review	rating	negative	model	purchase	newer	
+ethernet	wireless	security	computer	connection	linksys	usb	parallel	network	password	
+straightforward	breeze	wizard	guide	setup	process	simple	straight	instruction	intuitive	
+cartrige	yield	fortune	aftermarket	cart	economical	cyan	ink	pigment	jet	
+india	representative	support	technical	request	answer	telephone	person	rep	tech	
+ink	cartridge	left	front	line	price	page	bottom	side	minute	
+hp	laserjet	officejet	printers	photosmart	deskjet	doc	feeder	pdf	page	
+photo	print	sd	card	slot	epson	stick	storage	canon	memory	
+faxing	machine	copier	copying	duplex	adf	copy	scanner	fax	duplexing	
+paper	sheet	feeder	plain	ream	carriage	crooked	feed	papers	brochure	
+average coherence	-125.02787862539428

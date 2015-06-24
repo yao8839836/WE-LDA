@@ -1,0 +1,16 @@
+metal	cage	grill	plastic	flimsy	blade	material	thin	part	entire	
+light	noise	bright	dark	white	color	angle	vertical	normal	edge	
+front	plug	adapter	rear	side	back	position	socket	panel	outlet	
+control	button	knob	quick	breeze	simple	speed	adjustment	instruction	panel	
+cpu	core	mobo	corsair	intel	motherboard	internal	laptop	hard	pc	
+high	lowest	level	cfm	low	max	loud	setting	speed	lower	
+price	customer	box	return	warranty	replacement	service	today	packaging	period	
+cyclone	vornado	circulator	stuffy	oscillating	winter	pedestal	summer	lasko	conditioner	
+small	compact	larger	area	footprint	fit	wide	smaller	large	convenient	
+air	lightweight	sturdy	con	construction	sleek	design	attractive	stylish	durable	
+master	haf	atx	radiator	cooling	flow	rpm	case	tower	noctua	
+rechargeable	hour	charge	pack	life	battery	night	charger	half	power	
+quiet	air	stove	powerful	heat	hot	warm	job	furniture	adjustable	
+room	bedroom	dorm	apartment	ceiling	kid	kitchen	house	basement	bed	
+model	rating	older	negative	review	comment	lack	newer	star	research	
+average coherence	-124.24239348143536

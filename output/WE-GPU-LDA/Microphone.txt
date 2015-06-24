@@ -1,0 +1,16 @@
+exe	pc	login	kinobo	device	program	multiple	admin	capability	utility	
+interview	sound	mouth	voice	mic	recording	audio	stereo	headphone	speaker	
+mouth	mic	interview	headphone	headset	conversation	iem	speaker	sound	loud	
+mouth	mic	iem	headphone	headset	interview	speaker	earphone	loud	sound	
+mouth	iem	hesh	headset	earphone	earbud	headphone	mic	isolation	isolating	
+mouth	iem	hesh	earphone	headset	headphone	mic	earbud	earpiece	isolation	
+iem	mouth	earphone	earbud	hesh	headset	isolation	headphone	mic	isolating	
+iem	mouth	hesh	earbud	earphone	headset	isolation	isolating	headphone	balanced	
+iem	mouth	hesh	earphone	earpiece	earbud	isolation	headset	isolating	mic	
+iem	mouth	hesh	earphone	earbud	isolation	headset	earpiece	mic	isolating	
+mouth	iem	hesh	earpiece	earphone	isolation	earbud	isolating	headset	headphone	
+mouth	iem	hesh	earpiece	earphone	earbud	isolation	headset	isolating	mic	
+iem	hesh	mouth	earpiece	earphone	earbud	isolation	comfort	balanced	headset	
+iem	mouth	hesh	earpiece	earphone	earbud	style	headset	isolation	earplug	
+hesh	iem	earpiece	earplug	mouth	fitting	comfort	seal	skull	style	
+average coherence	-1330.4134808005842

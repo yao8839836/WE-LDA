@@ -1,0 +1,16 @@
+sequel	fan	original	theatrical	star	previous	kind	review	positive	experience	
+wicked	ballroom	prince	evil	spell	stepsister	cinderella	anastasia	tale	magic	
+nsa	voight	robert	operative	smith	politician	dean	jon	thrill	government	
+story	iii	bambi	cindy	charming	anastasia	ii	ballroom	sequal	pumpkin	
+jerry	crimson	tony	clever	scene	fight	viewer	director	popular	brilliant	
+peek	film	walt	bambi	sneak	beloved	promotional	theatrical	animated	roy	
+pirate	depiction	jealous	john	tinkerbell	pirates	mermaid	portrayal	jealousy	indians	
+doctor	series	season	mail	episode	cassandra	character	cyberman	order	hackman	
+boy	fireplace	young	brother	kid	blue	age	parent	girl	game	
+companion	mickey	jackie	alien	tyler	rose	foe	incarnation	charismatic	arc	
+reunion	sladen	torchwood	cybermen	arc	earth	elizabeth	jane	sarah	pit	
+disney	peter	pan	dvd	film	classic	hook	special	song	character	
+move	music	hemalayaa	hayden	dance	bollywood	dancer	movement	sassy	narration	
+tinkerbell	wendy	captain	pirate	bobby	conried	nursery	villain	driscoll	nana	
+departure	incarnation	regeneration	christopher	davies	tennant	chris	david	charismatic	ninth	
+average coherence	-124.62565186110479

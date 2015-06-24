@@ -1,0 +1,16 @@
+pointer	level	keyboard	gesture	graphire	mouse	tray	sheet	setting	treble	
+smaller	small	bigger	larger	intuo	tiny	bottom	compact	line	edge	
+screen	resistive	viewing	protector	bezel	widescreen	lcd	fm	station	picture	
+flap	answer	support	technical	simple	setup	intuitive	helpful	easy	front	
+ipad	protective	case	moko	firmware	leather	xoom	phone	dock	tethering	
+flimsy	wacom	bamboo	due	facebook	account	intuos	rating	surfing	email	
+stereo	speaker	microphone	audiophile	hdmus	editing	bass	scanning	cable	download	
+mini	usb	wifi	device	wireless	wifus	ac	adaptor	extension	connection	
+review	comment	expensive	buck	positive	player	decision	previous	research	dollar	
+press	programmable	menu	button	white	function	instruction	color	document	christmas	
+capacitive	pen	pencil	precise	stylus	finger	stroke	responsive	boxwave	eraser	
+kobo	nook	noble	kindle	comic	user	cruz	library	customer	launcher	
+slot	microsdhc	card	format	life	storage	memory	aaa	music	playback	
+appslib	marketplace	launcher	market	froyo	ios	android	getjar	honeycomb	archos	
+light	led	con	green	minute	bright	hour	indicator	area	dark	
+average coherence	-1264.8249985558473

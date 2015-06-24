@@ -1,0 +1,16 @@
+computer	usb	cable	pc	laptop	picture	camera	image	device	clear	
+review	model	brother	star	reason	purchase	experience	past	reviewer	previous	
+price	cost	expensive	money	high	low	extra	laser	worth	big	
+photo	print	lab	printing	pic	editing	borderless	professional	text	duplex	
+ink	cartridge	toner	replacement	warranty	full	jet	tank	capacity	defective	
+print	printing	duplex	head	job	borderless	lab	setting	fast	speed	
+home	office	small	large	business	size	system	cheap	space	piece	
+feature	print	card	manual	screen	memory	instruction	button	option	side	
+paper	tray	sheet	jam	envelope	feed	label	plain	regular	normal	
+software	driver	windows	vista	cd	mac	computer	xp	linux	disc	
+machine	fax	page	document	scanning	copy	copier	scanner	adf	function	
+color	black	beautiful	page	white	bright	document	picture	yellow	light	
+hp	canon	epson	workforce	artisan	inkjet	laserjet	easier	technology	pixma	
+easy	wireless	network	setup	router	simple	wifus	quick	installation	user	
+hp	support	minute	hour	canon	line	lexmark	phone	error	customer	
+average coherence	-1506.4310324808168

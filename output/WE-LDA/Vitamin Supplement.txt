@@ -1,0 +1,16 @@
+stone	blue	pimsleur	rosetta	choice	color	white	green	red	yellow	
+headphone	wireless	signal	jack	channel	loud	stereo	speaker	receiver	component	
+phone	telephone	customer	handset	id	call	service	practice	email	technical	
+tea	sweetener	chamomile	caffeine	spice	rooibos	sugar	flavor	chaus	chai	
+dog	coat	fur	shampoo	scalp	itchy	knee	shiny	wet	food	
+program	familiar	format	word	podcast	pronunciation	dialogue	grammar	collection	learning	
+aaa	rechargeable	aa	charger	battery	nicad	power	system	transmitter	nimh	
+small	smaller	larger	kid	regular	large	living	size	room	huge	
+fluenz	language	session	boring	level	program	instructor	student	software	perspective	
+user	menu	base	ability	important	mac	directory	intuitive	version	simple	
+sale	online	worth	cheaper	rating	positive	negative	future	mail	review	
+hour	ache	hip	high	sleep	real	shoulder	morning	discomfort	minute	
+english	grammar	french	phrase	country	vocabulary	teacher	pronunciation	comprehensive	understanding	
+lesson	wheat	exercise	sentence	health	conversation	grain	easy	protein	dairy	
+spanish	latin	grammar	tutor	language	sonia	mandarin	learner	subtitle	tense	
+average coherence	-133.23098985563715

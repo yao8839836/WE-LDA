@@ -1,0 +1,16 @@
+soil	gas	pot	tomato	leaf	squash	stove	potting	pepper	plant	
+trap	front	bait	side	mouse	line	pole	part	place	frame	
+watering	speed	toro	volume	blower	hunter	timer	setting	knob	control	
+heavy	solid	strong	sturdy	pruning	cushion	tarp	material	construction	pro	
+pool	light	cover	box	grill	price	big	hardware	size	super	
+clean	minute	simple	setup	installation	assembly	sturdy	easy	pro	design	
+blade	edge	axe	careful	surface	sharp	knife	guard	grip	cut	
+water	leak	winter	wind	hot	morning	snow	temperature	run	soil	
+review	positive	customer	previous	company	buck	email	generac	manufacturer	website	
+yard	sprinkler	tree	dark	feeder	yellow	color	orange	red	groundhog	
+small	smaller	wide	bigger	large	space	storage	sweep	raintrain	trash	
+metal	stake	flimsy	cheap	plastic	tractor	aluminum	impeller	thin	rubber	
+alarm	indoor	car	neighborhood	sensor	road	cat	bird	driveway	home	
+thread	hose	attachment	loose	screw	fit	thick	length	foot	leg	
+power	generator	battery	outage	outlet	amp	whistler	charger	circuit	switch	
+average coherence	-131.73578022653575

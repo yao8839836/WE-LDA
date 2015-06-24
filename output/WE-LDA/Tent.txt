@@ -1,0 +1,16 @@
+fan	speed	loud	circulation	quiet	noise	high	low	weather	humidity	
+queen	small	size	space	larger	bigger	smaller	twin	large	vestibule	
+review	positive	star	previous	comment	online	main	chance	website	purchase	
+sale	cost	purchase	shipping	money	buck	buy	dollar	price	fair	
+battery	rechargeable	aa	duracell	flashlight	cell	bulb	output	dim	didnt	
+storage	bag	flap	pocket	easy	sweep	suitcase	zipper	air	space	
+room	plenty	bed	space	vestibule	floor	open	queen	twin	tunnel	
+weekend	car	weight	lb	camping	camp	emergency	summer	humid	cot	
+direction	minute	setup	simple	lightweight	clean	super	assembly	instruction	material	
+rain	dry	wind	warm	awning	cold	humid	cool	ventilation	weather	
+light	rocky	foot	small	ground	area	part	entire	large	rock	
+front	opposite	pole	door	side	frame	corner	awning	entrance	ventilation	
+night	trip	christmas	present	beach	grandson	camping	light	sister	brother	
+age	boy	older	fun	toy	parent	kid	young	dad	stuff	
+stake	msr	ti	bent	sturdier	flimsy	rubber	hammer	cheap	heavy	
+average coherence	-135.4201294515064

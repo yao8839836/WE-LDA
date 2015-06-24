@@ -1,0 +1,16 @@
+price	review	money	big	company	piece	deal	worth	plastic	place	
+software	file	media	support	windows	customer	service	version	pc	tech	
+button	volume	control	menu	minute	sound	couple	complaint	wheel	bass	
+easy	small	size	light	sound	pocket	simple	hand	tiny	side	
+zune	software	device	user	hd	manual	instruction	interface	star	friendly	
+battery	hour	life	long	aaa	rechargeable	aa	charge	pro	con	
+ipod	touch	zen	creative	apple	warranty	nano	micro	christmas	gift	
+usb	computer	car	device	cable	adapter	charger	system	port	home	
+cd	audio	sony	file	portable	book	wma	wav	flac	rio	
+music	screen	video	device	display	picture	line	larger	color	feature	
+music	card	memory	hard	drive	storage	gb	sd	flash	space	
+sound	headphone	ear	phone	earphone	earbud	bud	jack	speaker	water	
+sansa	clip	firmware	sandisk	case	model	cheap	easier	zip	power	
+song	track	folder	playlist	option	album	shuffle	artist	music	mode	
+radio	fm	feature	station	iriver	voice	function	recording	recorder	reason	
+average coherence	-1522.9859822004144

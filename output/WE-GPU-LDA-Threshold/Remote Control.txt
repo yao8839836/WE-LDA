@@ -1,0 +1,16 @@
+battery	key	transmitter	couple	function	rechargeable	aaa	aa	hour	cradle	
+tv	dvd	receiver	player	sony	cd	watch	video	audio	vcr	
+system	component	home	theater	piece	setup	equipment	entertainment	media	junk	
+device	code	instruction	command	equipment	harmony	manual	online	original	page	
+volume	channel	sound	ipod	radio	iphone	music	phone	antenna	stereo	
+price	money	design	deal	expensive	worth	big	feature	end	purchase	
+harmony	universal	model	review	number	option	idea	point	mine	ability	
+software	setup	programming	computer	minute	simple	pc	usb	user	interface	
+button	input	device	activity	macro	mode	power	setting	press	menu	
+button	screen	small	hard	light	lcd	size	touch	layout	dark	
+logitech	support	customer	service	tech	technical	company	version	star	icon	
+cable	box	tv	room	dvr	tivo	house	hd	wall	living	
+ir	rf	signal	receiver	extender	foot	range	sensor	line	cabinet	
+easy	function	program	feature	learning	extra	device	trouble	reason	original	
+camera	picture	case	nikon	long	shot	shutter	delay	wireless	canon	
+average coherence	-1472.61503689694

@@ -1,0 +1,16 @@
+mount	flush	bolt	pound	inside	tilt	height	traditional	tilted	turntable	
+purchase	sale	discount	glad	disappointed	research	warranty	chance	today	dollar	
+purchase	research	discount	today	company	chance	cheaper	disappointed	manufacturer	past	
+online	future	assistance	company	website	fault	replaytv	choice	purchase	manufacturer	
+pvr	replaytv	dvr	directv	replay	revue	assistance	channel	tivo	direct	
+pvr	directv	dvr	broadcast	channel	hd	television	replaytv	replay	satellite	
+pvr	broadcast	directv	dvr	television	hd	channel	xbox	satellite	replay	
+pvr	broadcast	directv	dvr	television	xbox	hd	source	ability	replay	
+pvr	broadcast	directv	dvr	television	xbox	hd	source	replay	vcr	
+pvr	broadcast	directv	dvr	xbox	television	hd	source	replay	utv	
+pvr	broadcast	directv	xbox	television	dvr	pip	hd	vcr	source	
+television	pvr	xbox	broadcast	picture	hdtv	hd	directv	pip	dt	
+pvr	xbox	broadcast	directv	dvr	ability	television	utv	device	source	
+pvr	television	broadcast	xbox	hd	hdtv	pip	picture	directv	dt	
+pvr	slideshow	xbox	hauppauge	episode	device	veebeam	stream	replay	pc	
+average coherence	-1267.2987680626054

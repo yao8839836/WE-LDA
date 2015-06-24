@@ -1,0 +1,16 @@
+body	tripod	velcro	face	ideal	holder	strap	awkward	heavy	position	
+purchase	chance	cheaper	expensive	opinion	research	dollar	glad	choice	disappointed	
+idea	manufacturer	purchase	online	choice	chance	useless	staff	past	future	
+sima	programming	specific	wizard	multiple	command	code	function	option	useless	
+programming	discrete	specific	complex	command	multiple	sima	code	wizard	blaster	
+programming	discrete	specific	command	multiple	complex	code	sima	program	replay	
+discrete	programming	complex	multiple	specific	option	command	pvr	program	blaster	
+discrete	programming	blaster	pvr	dvr	replay	directv	complex	tivo	tv	
+discrete	blaster	dvr	directv	pvr	tv	programming	replay	tivo	receiver	
+discrete	programming	complex	blaster	multiple	pvr	command	specific	replay	dvr	
+discrete	programming	complex	blaster	multiple	command	pvr	dvr	replay	specific	
+discrete	programming	blaster	complex	multiple	pvr	dvr	command	directv	replay	
+discrete	programming	complex	multiple	blaster	pvr	specific	replay	command	program	
+discrete	directv	dvr	blaster	pvr	tv	replay	tivo	receiver	programming	
+discrete	directv	dvr	pvr	programming	blaster	replay	tv	tivo	pip	
+average coherence	-1218.4190557831794

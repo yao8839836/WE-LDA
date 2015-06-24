@@ -1,0 +1,16 @@
+distortion	rich	loud	midrange	bass	level	audible	sound	frequency	guitar	
+composite	coaxial	cable	output	analog	comcast	converter	rca	input	crystal	
+rms	light	green	red	bright	jbl	ohm	subwoofer	bookshelf	blue	
+klipsch	polk	speaker	system	theater	ohm	kenwood	watts	woofer	rm	
+ga	ground	insulation	gauge	chassis	fuse	terminal	rockford	pyramid	harness	
+control	preamp	audiosource	adjustment	carver	dial	sleep	change	preamplifier	button	
+signal	broadcast	satellite	channel	vhf	stronger	antenna	weak	booster	dvr	
+splitter	bidirectional	booster	vhf	db	pct	pixilation	splitting	hz	modem	
+line	price	dollar	phone	rating	main	star	budget	due	call	
+life	hour	charge	flimsy	rechargeable	simple	plastic	metal	cheap	outdoor	
+small	buck	lightweight	bigger	cost	money	portable	equipment	warm	piece	
+mm	jack	earbud	headphone	usb	mic	plug	female	computer	question	
+power	ac	switch	wire	ft	outlet	song	back	loose	itunes	
+positive	connection	negative	comment	review	chance	glad	access	decision	streaming	
+dt	composite	audio	station	fm	analog	tuner	floor	recording	house	
+average coherence	-1218.1905661963008

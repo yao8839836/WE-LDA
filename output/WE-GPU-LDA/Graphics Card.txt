@@ -1,0 +1,16 @@
+ability	regular	addition	real	choice	separate	purpose	matter	normal	capability	
+conflict	utility	win	ubuntu	linux	unable	pc	compatibility	download	vista	
+conflict	win	ubuntu	utility	linux	compatibility	glitch	unable	platform	crash	
+win	onboard	conflict	ati	ubuntu	platform	agp	nvidia	crash	utility	
+win	onboard	platform	agp	nvidia	related	ati	atus	celeron	amd	
+onboard	celeron	agp	ati	atus	phenom	nvidia	tarjeta	amd	graphics	
+celeron	onboard	agp	phenom	amd	graphics	ati	geforce	chipset	nvidia	
+phenom	celeron	graphics	sapphire	ocz	geforce	amd	asrock	kingston	agp	
+phenom	kingston	celeron	asrock	graphics	sapphire	ocz	msus	ssd	bottleneck	
+phenom	msus	asrock	sapphire	kingston	clocked	ocz	graphics	celeron	vertex	
+msus	phenom	clocked	asrock	kingston	overclocked	sapphire	bottleneck	vertex	msi	
+phenom	msus	sapphire	kingston	asrock	clocked	msi	overclocked	bottleneck	vertex	
+msus	kingston	phenom	clocked	asrock	sapphire	msi	overclocked	vertex	bottleneck	
+msus	clocked	msi	overclocked	kingston	phenom	kepler	asrock	vertex	sapphire	
+msus	clocked	msi	kingston	overclocked	vertex	asrock	phenom	bottleneck	kepler	
+average coherence	-1155.0025634038245

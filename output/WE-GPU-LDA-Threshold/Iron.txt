@@ -1,0 +1,16 @@
+water	mineral	fill	leak	bottle	calcium	valve	chamber	distilled	deposit	
+cord	feature	minute	retractable	reel	auto	seconds	safety	position	base	
+plate	soleplate	hot	surface	bottom	easier	sole	ceramic	smooth	top	
+easy	light	weight	heavy	small	hand	size	sturdy	lightweight	travel	
+clothing	crease	calcium	glide	ironing	garment	wrinkle	hanger	denim	clean	
+price	rowenta	job	heavy	expensive	design	cheap	big	simple	prima	
+plastic	dough	press	wax	flour	tortilla	victoria	pie	wrap	piece	
+steam	button	spray	mist	function	burst	clothing	feature	crease	hole	
+tortilla	press	flour	victoria	taco	homemade	corn	wheat	lever	imusa	
+black	decker	review	instruction	panasonic	model	previous	steam	box	buy	
+board	money	review	star	reason	company	hard	service	replacement	couple	
+shirt	cotton	clothing	crease	silk	dress	slacks	linen	wrinkle	hanger	
+setting	fabric	temperature	dial	heat	clothing	hot	crease	low	type	
+clothes	steamer	water	brown	mall	home	reviewer	kiosk	spot	house	
+water	mineral	fill	bottle	distilled	reservoir	salt	calcium	leak	valve	
+average coherence	-1393.4150143138945

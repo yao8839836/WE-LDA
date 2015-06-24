@@ -1,0 +1,16 @@
+sceptre	ultrasharp	viewsonic	doubt	tax	decision	nec	bargain	investment	sale	
+race	hrm	polar	pacing	km	runner	pace	forerunner	elevation	statistics	
+race	hrm	pace	km	forerunner	polar	runner	marker	pacing	elevation	
+race	hrm	pace	polar	km	elevation	pacing	statistics	forerunner	interval	
+hrm	race	forerunner	runner	pace	statistics	polar	km	marathon	training	
+hrm	pace	forerunner	polar	race	statistics	runner	marathon	marker	training	
+connect	forerunner	statistics	garmin	hrm	ironman	runner	training	sporttracks	marathon	
+connect	online	purchase	information	fault	past	website	manufacturer	chance	garmin	
+real	multiple	ability	trouble	matter	specific	capability	online	useless	choice	
+program	specific	multiple	ability	option	programming	complex	trouble	capability	sync	
+ability	separate	multiple	pc	device	addition	option	computer	program	sync	
+display	picture	sharp	image	text	color	beautiful	crisp	screen	ability	
+display	sharp	bright	color	beautiful	image	text	clarity	crisp	srgb	
+bright	sharp	vivid	srgb	display	eye	beautiful	noticable	contrast	vibrant	
+bright	noticable	gray	visible	eye	srgb	readable	vivid	sharp	glare	
+average coherence	-1298.1878941240102

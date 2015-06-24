@@ -1,0 +1,16 @@
+rating	positive	negative	comment	research	reviewer	review	consumer	previous	online	
+basement	house	box	mac	floor	bedroom	address	foot	system	size	
+signal	satellite	channel	weak	booster	tv	antenna	dvr	reception	television	
+motorola	policy	return	docsis	refund	company	rental	shipping	fast	surfboard	
+breeze	minute	setup	simple	process	device	instruction	ready	snap	installation	
+internet	streaming	connection	service	speed	hulu	stream	game	xbox	roku	
+snr	passive	downstream	splitter	attic	bonding	upstream	dbmv	db	hz	
+support	rep	telephone	phone	line	technical	email	customer	tech	helpful	
+light	green	bright	led	indicator	orange	warm	heat	high	level	
+older	model	cheaper	expensive	purchase	glad	extra	satisfied	consumer	buy	
+router	wireless	gigabit	wifus	upstairs	netgear	security	cisco	linksys	wps	
+download	speed	account	forum	site	firmware	browser	upload	fix	online	
+computer	outlet	ac	easy	power	switch	plug	connector	usb	port	
+disconnection	mediacom	monthly	csr	provider	isp	rcn	telephony	provision	protocol	
+sustained	preferred	mbp	closest	mpb	cox	speedtest	ambit	tier	scientific	
+average coherence	-128.57368691800576

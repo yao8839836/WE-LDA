@@ -1,0 +1,16 @@
+size	small	large	white	color	big	red	review	pack	gray	
+front	open	bottom	line	place	side	head	flat	top	hole	
+shorts	casual	padded	biking	quest	padding	cycling	numbness	thigh	waist	
+valve	pump	water	gotoob	dry	leak	beach	easy	light	proof	
+zippered	pocket	ipad	backpack	wallet	pouch	mesh	underwater	camera	zipper	
+weather	heat	plenty	winter	temp	cool	temperature	degree	cold	room	
+bag	suitcase	travel	baggage	airport	space	airline	scale	pound	laptop	
+money	rating	cost	star	extra	purchase	glad	expensive	satisfied	cheaper	
+comfortable	pair	shoe	toe	foot	dry	heel	cool	firm	warm	
+bike	ride	road	trail	mountain	period	glove	short	mile	run	
+credit	passport	backup	cash	card	id	business	charger	ticket	file	
+material	nylon	sturdy	strong	thick	lightweight	durable	con	thin	flimsy	
+snug	jeans	xxl	fit	taller	medium	man	larger	xl	tall	
+hat	pink	green	color	orange	choice	bright	yellow	red	compliment	
+sock	pillow	firmness	dress	wear	worn	sweat	baggy	stretch	jersey	
+average coherence	-125.51114493808528

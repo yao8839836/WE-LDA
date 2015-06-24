@@ -1,0 +1,16 @@
+machine	home	small	office	business	computer	fact	reason	user	space	
+epson	review	model	star	couple	result	artisan	workforce	papers	experience	
+support	hour	tech	lexmark	technical	customer	phone	error	service	power	
+computer	software	driver	cable	usb	windows	mac	xp	vista	installation	
+hp	deskjet	photosmart	laserjet	officejet	software	printers	long	solution	seller	
+page	minute	brother	setting	mode	test	toner	graphic	fan	hp	
+ink	cartridge	expensive	replacement	cartidge	pigment	cart	cheap	cheaper	cartrige	
+color	black	laser	inkjet	text	white	light	clear	magenta	full	
+feature	print	card	screen	manual	memory	button	pc	label	computer	
+print	printing	head	job	speed	fast	line	quiet	slow	setting	
+photo	canon	picture	camera	image	print	digital	kodak	size	beautiful	
+paper	tray	jam	sheet	side	photo	feed	regular	envelope	door	
+easy	wireless	setup	network	simple	connection	device	router	instruction	interface	
+price	cost	money	high	low	toner	piece	extra	deal	worth	
+fax	printing	document	scanner	copy	function	scanning	adf	feeder	duplex	
+average coherence	-1511.328369542193

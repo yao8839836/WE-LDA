@@ -1,0 +1,16 @@
+close	job	strong	due	real	expensive	fact	decent	laser	worse	
+online	staff	assistance	trouble	website	dlink	public	request	patch	company	
+ssid	wpa	wizard	dlink	repeater	encryption	ap	winxp	client	networked	
+ssid	wpa	encryption	wizard	winxp	dlink	networked	conflict	connected	networking	
+ssid	encryption	wpa	connected	winxp	lan	wizard	networked	conflict	networking	
+ssid	wpa	encryption	connected	networking	winxp	client	wizard	lan	dlink	
+ssid	encryption	wpa	connected	lan	networking	winxp	security	ap	client	
+ssid	encryption	wpa	connected	lan	networking	winxp	networked	dlink	client	
+ssid	encryption	wpa	connected	lan	networking	winxp	security	wifi	ap	
+ssid	encryption	wpa	connected	networking	lan	client	dlink	winxp	conflict	
+ssid	encryption	wpa	connected	networking	lan	winxp	conflict	client	netgear	
+ssid	encryption	wpa	connected	lan	networking	winxp	conflict	networked	client	
+ssid	encryption	wpa	connected	lan	networking	winxp	client	security	ap	
+ssid	encryption	lan	connected	wpa	networking	conflict	client	winxp	security	
+encryption	ssid	networking	lan	connected	wpa	conflict	netgear	client	winxp	
+average coherence	-1343.4633043985702

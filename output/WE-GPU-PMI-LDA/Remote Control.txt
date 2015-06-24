@@ -1,0 +1,16 @@
+button	function	activity	macro	command	key	programming	learning	menu	feature	
+sound	ipod	radio	iphone	phone	transmitter	line	bottom	fm	speaker	
+battery	charge	star	aa	reason	functionality	side	cradle	life	due	
+logitech	support	minute	instruction	hour	manual	customer	website	site	online	
+system	home	theater	equipment	harmony	piece	universal	onkyo	entertainment	original	
+easy	setup	software	simple	computer	intuitive	pc	configuration	program	quick	
+price	review	money	expensive	feature	cost	design	point	extra	deal	
+button	screen	small	command	menu	press	hard	light	hand	easy	
+button	volume	command	press	menu	power	channel	select	level	setting	
+rf	ir	receiver	harmony	universal	signal	extender	antenna	code	blaster	
+tv	dvd	player	directv	sony	receiver	vcr	dvr	xbox	samsung	
+camera	shot	picture	tripod	shutter	case	long	exposure	nikon	wireless	
+tv	component	input	receiver	directv	dvr	av	dvd	video	setting	
+device	model	harmony	number	multiple	single	universal	code	database	newer	
+cable	box	room	tv	dvr	comcast	bedroom	living	hdmus	directv	
+average coherence	-1459.0540054552885

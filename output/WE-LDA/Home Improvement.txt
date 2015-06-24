@@ -1,0 +1,16 @@
+nut	driver	attachment	hole	carriage	washer	stud	thread	screw	pipe	
+small	space	bigger	plenty	storage	living	larger	pocket	smaller	fit	
+light	red	green	yellow	color	white	bulb	house	garage	blue	
+speed	high	push	simple	circuit	switch	quiet	false	remote	timer	
+battery	tool	lifetime	waste	flange	warranty	replacement	power	customer	newer	
+stapler	adapter	plug	cap	ac	tank	connector	ft	socket	leak	
+brighter	flashlight	lumen	rechargeable	luman	milwaukee	lithium	drill	aaa	brightness	
+cheaper	expensive	money	older	manufacturer	buck	cost	buy	extra	local	
+longer	minute	hour	part	hard	kind	short	type	difficult	night	
+bright	beam	focus	lighting	dark	illumination	led	spot	lamp	spotlight	
+front	rear	door	road	wall	back	carriage	bottom	center	side	
+shipping	quick	cost	easy	purchase	refund	seller	vendor	price	order	
+knife	sog	pur	job	filter	vac	cleaning	suction	brita	mineral	
+rating	star	negative	positive	experience	review	online	previous	future	website	
+blade	metal	edge	material	cheap	construction	feel	steel	rubber	box	
+average coherence	-126.32311783968684

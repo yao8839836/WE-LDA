@@ -1,0 +1,16 @@
+abuse	fanny	needless	china	expanium	damage	investment	shock	bumpy	discman	
+purchase	glad	chance	opinion	disappointed	sale	cheaper	decision	dollar	today	
+purchase	chance	opinion	expensive	dollar	cheaper	glad	disappointed	choice	today	
+expensive	choice	purchase	chance	cheaper	opinion	fact	dollar	past	inexpensive	
+choice	expensive	inexpensive	fact	job	decent	real	opinion	past	kind	
+job	fact	inexpensive	close	real	kind	decent	style	head	choice	
+speaker	stereo	sound	loud	decent	gym	boom	equalizer	pickup	headphone	
+stereo	speaker	sound	decent	separate	recorder	fm	radio	close	real	
+stereo	speaker	recorder	radio	sound	separate	recording	fm	equalizer	tune	
+separate	ability	stereo	close	speaker	favorite	recorder	matter	real	recording	
+separate	ability	favorite	real	matter	option	multiple	single	close	annoying	
+ability	separate	favorite	option	song	multiple	recording	track	real	function	
+ability	separate	option	multiple	favorite	song	track	recording	single	program	
+ability	separate	option	favorite	multiple	function	song	track	real	annoying	
+ability	option	multiple	folder	song	playlist	track	directory	favorite	program	
+average coherence	-1213.0649585141905

@@ -1,0 +1,16 @@
+lotion	dermatologist	antibiotic	creamy	oily	prone	irritation	toner	oils	sensitive	
+redken	curly	manageable	coarse	shampoo	frizzy	wavy	frizz	stylist	makeup	
+hair	conditioner	strong	spray	brush	dryer	piece	rubber	stuff	iron	
+facial	dryness	flake	redness	scar	dermatologist	moisturizer	acne	scented	cleanser	
+soft	smooth	thick	toe	feel	heel	foot	stiff	feeling	rough	
+soap	lip	olive	rinse	fragrance	salt	creamy	remedy	honey	irritated	
+oil	olive	coconut	butter	healthy	sugar	ingredient	aloe	protein	acid	
+skin	smell	dry	scent	moisture	face	wash	light	fresh	wonderful	
+christmas	birthday	dark	green	mom	sister	gift	color	mother	red	
+expensive	seller	dollar	online	future	experience	cost	money	website	penny	
+clean	quick	peel	price	fast	super	sturdy	nail	sharp	minute	
+skin	cream	hand	huge	face	difference	job	line	night	sun	
+small	large	larger	medium	smaller	man	bottle	room	long	length	
+cold	dry	hot	summer	winter	morning	warm	water	cool	heat	
+body	kind	high	shower	soap	head	bar	length	hour	gel	
+average coherence	-125.93163122535343

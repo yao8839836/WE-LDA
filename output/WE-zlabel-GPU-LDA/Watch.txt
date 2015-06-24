@@ -1,0 +1,16 @@
+color	white	red	automatic	sharp	yellow	morning	beautiful	bright	finish	
+alarm	dial	ring	timing	date	water	finger	quiet	clock	hard	
+small	larger	light	smaller	dark	analog	bright	bigger	large	luminescent	
+button	function	side	shipping	compass	resistant	specific	line	return	altimeter	
+solar	charge	life	battery	daily	energy	body	casing	outdoor	indicator	
+flimsy	material	metal	plastic	lightweight	thick	con	clasp	service	cheap	
+glow	dark	positive	orange	online	negative	experience	green	daylight	review	
+wrist	face	strap	scratch	shiny	buckle	hand	canvas	inside	thinner	
+technology	price	buy	cheaper	dollar	buck	purchase	defective	expensive	sale	
+band	resin	canvas	rating	minor	star	due	comfort	comfortable	nylon	
+intuitive	simple	setup	sleek	instruction	easy	quick	readable	sturdy	elegant	
+countdown	citizen	casio	timer	stopwatch	watches	sporty	national	feature	quartz	
+boyfriend	omega	rolex	birthday	christmas	father	nephew	present	gift	similar	
+diver	bracelet	swiss	invicta	steel	stainless	quartz	crown	adjustment	tool	
+minute	half	hour	quick	auto	impossible	place	difficult	position	wide	
+average coherence	-1266.4366336458254

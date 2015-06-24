@@ -1,0 +1,16 @@
+cardboard	wooden	flimsy	box	metal	packing	tape	drawer	place	piece	
+door	front	side	back	cover	head	seat	height	rest	water	
+bigger	space	small	smaller	large	inch	fit	size	larger	area	
+truck	vehicle	trailer	car	table	part	big	charger	baby	easy	
+shape	line	foot	screw	hole	bottom	tile	floor	base	tight	
+present	christmas	birthday	mom	nephew	santa	gift	grandson	mother	yr	
+kid	age	older	boy	young	fun	animal	hit	music	group	
+expensive	purchase	total	money	cost	dollar	extra	pricey	version	buck	
+room	tunnel	living	summer	house	bed	middle	durable	dry	friend	
+game	accessory	card	board	motor	wonderful	rule	adult	skill	idea	
+fun	rush	play	hour	battery	player	flight	rocket	minute	ready	
+negative	previous	service	online	syma	reviewer	customer	price	review	order	
+book	word	difficult	letter	plastic	end	real	rest	type	kind	
+direction	pro	simple	quick	clean	construction	setup	sturdy	instruction	important	
+volume	control	loud	sound	higher	controller	light	city	low	remote	
+average coherence	-127.29833535549142

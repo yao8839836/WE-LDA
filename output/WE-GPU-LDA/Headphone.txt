@@ -1,0 +1,16 @@
+choice	ability	addition	real	fact	matter	idea	trouble	stuff	order	
+balanced	isolation	earbud	earphone	shure	comfort	audiophile	guitar	em	earpiece	
+isolation	balanced	earbud	earphone	comfort	earpiece	shure	style	em	skullcandy	
+balanced	isolation	earbud	earphone	comfort	earpiece	shure	em	portapro	rap	
+earpiece	isolation	balanced	earplug	comfort	earbud	seal	earphone	skull	alright	
+earpiece	isolation	earplug	balanced	seal	skull	alright	comfort	shure	canal	
+isolation	balanced	earpiece	alright	shure	earbud	earphone	tinny	portapro	em	
+earpiece	isolation	balanced	earplug	shure	skull	seal	alright	earphone	earbud	
+earpiece	isolation	balanced	seal	alright	earplug	skull	shure	earbud	comfort	
+earpiece	isolation	balanced	earplug	shure	alright	seal	earbud	skull	em	
+isolation	earpiece	balanced	alright	shure	earplug	em	seal	skull	earphone	
+isolation	earpiece	balanced	alright	shure	earplug	earbud	earphone	em	portapro	
+isolation	balanced	alright	earpiece	shure	earplug	seal	portapro	em	skull	
+isolation	balanced	earpiece	alright	shure	em	portapro	earplug	seal	skull	
+alright	portapro	isolation	shure	balanced	skull	surprising	em	hip	seal	
+average coherence	-1258.0977565042965

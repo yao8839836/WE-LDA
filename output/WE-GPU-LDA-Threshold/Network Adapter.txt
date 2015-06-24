@@ -1,0 +1,16 @@
+support	line	phone	hour	tech	technical	service	customer	solution	compatible	
+software	linux	ubuntu	system	version	works	update	company	belkin	device	
+usb	cable	ethernet	port	lan	gigabit	power	cord	modem	extension	
+wifus	wifi	alfa	range	laptop	long	window	review	office	suction	
+wireless	netgear	linksys	router	linksy	works	computer	powerline	office	wrong	
+speed	home	video	fast	online	transfer	movie	netflix	streaming	download	
+router	house	wireless	room	foot	wall	floor	tv	desktop	wire	
+connection	internet	wireless	security	wpa	wep	computer	neighbor	encryption	big	
+tivo	wireless	box	series	hd	dvr	show	part	modem	range	
+card	laptop	pc	desktop	amd	intel	case	ram	pcus	pci	
+device	access	mac	point	computer	pc	os	airport	server	apple	
+computer	price	review	money	device	star	performance	high	cheap	worth	
+signal	antenna	strength	bar	reception	laptop	full	weak	panel	strong	
+easy	installation	setup	minute	simple	plug	instruction	quick	adaptor	setting	
+driver	windows	xp	vista	cd	belkin	file	machine	website	disk	
+average coherence	-1435.2911539387799

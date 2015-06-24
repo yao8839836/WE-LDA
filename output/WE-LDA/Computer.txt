@@ -1,0 +1,16 @@
+market	marketplace	xoom	honeycomb	getjar	tab	appslib	android	froyo	archos	
+support	department	repair	question	claim	technical	answer	replacement	helpful	extended	
+linux	pc	os	xp	router	windows	wifus	driver	operating	wifi	
+monitor	crt	viewable	widescreen	lcd	trinitron	flat	dell	rgb	excellant	
+native	text	sharpness	contrast	image	resolution	designer	mitsubishi	viewsonic	kogi	
+hour	life	replaceable	high	charge	mode	level	setting	overnight	half	
+monitor	screen	footprint	smaller	larger	small	bigger	inch	desk	large	
+keyboard	menu	display	control	selection	responsive	touch	push	press	corner	
+bright	sharp	vivid	vibrant	color	crystal	saturation	contrast	gray	text	
+slot	card	internal	dummy	storage	stick	gb	memory	mb	gig	
+tablet	con	construction	sleek	bulky	stand	case	leather	plastic	heavy	
+review	purchase	positive	rating	chance	cheaper	decision	satisfactory	satisfied	report	
+game	stream	format	movie	music	playback	conversion	facebook	editing	xbox	
+hub	firewire	usb	mini	ethernet	port	speaker	stick	ac	jack	
+vga	composite	hdmi	hdmus	rca	analog	input	converter	component	firewire	
+average coherence	-137.98677204259482

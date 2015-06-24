@@ -1,0 +1,16 @@
+speaker	bass	pair	sound	stereo	superb	equalizer	clarity	jack	audio	
+support	technical	replacement	service	labor	repair	extended	answer	warranty	customer	
+life	hour	charge	hr	pack	longer	half	battery	flight	charger	
+windows	mediamonkey	software	wmp	explorer	os	xp	compatible	zencast	program	
+radio	tuner	station	voice	transmitter	preset	recorder	reception	show	vcr	
+video	zen	music	player	ipod	touch	finger	vision	file	pressure	
+player	ipod	protective	leather	white	left	green	button	back	line	
+sharp	vivid	screen	bright	text	color	sunlight	clear	colorful	picture	
+comment	rating	reviewer	positive	consumer	chance	decision	negative	cheaper	price	
+small	compact	bigger	larger	con	hand	space	easy	bulky	tiny	
+creative	centrale	mediasource	ipod	popularity	generation	jukebox	iaudio	zencast	apple	
+intuitive	user	simplistic	menu	interface	option	instruction	remote	simple	control	
+computer	usb	adaptor	adapter	player	outlet	charger	firewire	plug	connector	
+slot	internal	card	hard	storage	microsd	contents	gb	disk	photo	
+album	playlist	artist	track	song	shuffle	itunes	rhapsody	library	folder	
+average coherence	-132.0382327484801

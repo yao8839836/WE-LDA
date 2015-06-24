@@ -1,0 +1,16 @@
+button	side	thumb	left	extra	top	awkward	press	programmable	place	
+review	price	design	star	money	apple	worth	mighty	magic	model	
+software	driver	mac	logitech	windows	version	xp	support	vista	system	
+pad	surface	desk	accurate	complaint	fact	responsive	smooth	weight	top	
+hand	small	comfortable	size	large	big	smaller	palm	shape	larger	
+wheel	scroll	page	web	mode	scrolling	function	touch	smooth	con	
+feature	screen	window	movement	cursor	speed	pointer	control	setting	tracking	
+gaming	game	high	option	feature	sensitivity	low	dpus	precision	profile	
+usb	receiver	cord	laptop	port	plug	range	nano	foot	pc	
+battery	life	rechargeable	aa	aaa	hour	easy	long	switch	power	
+keyboard	key	light	color	computer	easy	cover	red	blue	feel	
+wireless	computer	laptop	bluetooth	device	desktop	home	setup	dell	connection	
+tablet	plastic	razer	part	pen	easy	cheap	easier	grip	pro	
+finger	ball	trackball	wrist	standard	rest	pain	difference	position	kensington	
+logitech	microsoft	optical	laser	mx	wireless	cordless	replacement	performance	explorer	
+average coherence	-1484.542568415245

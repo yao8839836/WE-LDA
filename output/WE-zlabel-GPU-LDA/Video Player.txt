@@ -1,0 +1,16 @@
+pictures	wmv	format	wav	xvid	codec	podcast	playback	wma	avus	
+computer	contents	desktop	adaptor	outlet	pair	jack	usb	adapter	external	
+mediamonkey	windows	explorer	monkey	wmp	touch	software	user	finger	os	
+winamp	syncing	playlist	itunes	rhapsody	drm	road	left	hdmus	centrale	
+artist	album	song	playlist	track	shuffle	library	tune	folder	rhapsody	
+radio	tuner	station	transmitter	vcr	voice	recorder	reception	show	preset	
+support	technical	market	app	service	answer	price	customer	google	sale	
+intuitive	press	interface	menu	option	simple	small	setup	arrow	quick	
+apple	popularity	generation	iphone	uus	ipad	bud	design	obsolete	firmware	
+hour	half	minute	replacement	labor	repair	extended	seconds	period	phone	
+creative	centrale	mediasource	jukebox	zencast	photo	iaudio	histogram	boost	slide	
+popularity	ipod	player	vision	generation	centrale	creative	iaudio	zen	mediamonkey	
+slot	card	internal	sound	microsd	gb	storage	cf	superb	equalizer	
+vivid	sharp	screen	bright	color	colorful	text	protector	sunlight	clear	
+life	charge	hour	longer	hr	flight	battery	pack	hard	chance	
+average coherence	-1291.9758037648025

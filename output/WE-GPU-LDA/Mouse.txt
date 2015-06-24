@@ -1,0 +1,16 @@
+purchase	chance	research	future	opinion	past	today	choice	disappointed	experience	
+pc	computer	compatible	preferences	explorer	application	mac	desktop	windows	utility	
+separate	multiple	addition	preferences	ability	computer	desktop	setpoint	application	pc	
+touchpad	click	flick	conventional	individual	easier	unresponsive	sort	pointer	separate	
+touchpad	click	flick	conventional	gesture	scrolling	precise	pointer	awkward	trackball	
+click	conventional	precise	awkward	touchpad	gesture	finger	pinky	roller	scrolling	
+precise	conventional	roller	click	awkward	pinky	ball	finger	gesture	mousepad	
+conventional	precise	click	awkward	roller	pinky	finger	gesture	ball	scrolling	
+precise	roller	conventional	pinky	awkward	click	ball	gesture	mousepad	slippery	
+precise	roller	pinky	ball	awkward	conventional	click	mousepad	slippery	gesture	
+precise	pinky	conventional	click	roller	awkward	mousepad	ball	gesture	slippery	
+precise	conventional	awkward	pinky	click	roller	gesture	ball	handed	mousepad	
+precise	conventional	roller	awkward	click	pinky	ball	finger	slippery	gesture	
+precise	roller	pinky	conventional	click	ball	mousepad	slippery	swipe	awkward	
+precise	pinky	conventional	slippery	click	mousepad	stiff	roller	swipe	resistance	
+average coherence	-1188.7190985214038

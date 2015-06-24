@@ -1,0 +1,16 @@
+mouse	logitech	wireless	trackball	microsoft	mx	router	combo	laser	wheel	
+typing	type	letter	hard	typist	comfortable	regular	touch	thumb	fast	
+battery	bluetooth	charge	life	hour	power	long	couple	easy	aa	
+hand	finger	palm	pad	top	type	wrist	bottom	pain	rest	
+case	cover	ipad	macbook	plastic	protective	tablet	pro	iphone	cheap	
+price	extra	money	expensive	ergonomic	cost	buck	word	apple	keypad	
+button	windows	software	mac	driver	media	window	volume	linux	vista	
+usb	computer	port	hub	receiver	pc	foot	laptop	support	cable	
+laptop	computer	pc	system	home	easy	screen	desktop	setup	theater	
+tv	box	device	app	google	dvr	revue	video	internet	web	
+small	space	size	large	smaller	room	desk	bar	compact	larger	
+key	arrow	macro	feel	design	solid	board	ergo	kb	quiet	
+light	blue	dark	feature	color	led	green	red	black	bright	
+key	arrow	macro	function	side	layout	button	lock	number	shift	
+review	reason	star	model	fact	version	big	reviewer	due	older	
+average coherence	-1442.357884595441

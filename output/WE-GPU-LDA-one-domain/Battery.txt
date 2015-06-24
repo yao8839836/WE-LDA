@@ -1,0 +1,16 @@
+easy	compact	small	light	cord	plug	voltage	wall	outlet	power	
+charge	full	indicator	light	lcd	original	cycle	minute	couple	past	
+device	dead	power	high	remote	cost	application	mouse	control	performance	
+alkaline	energizer	lithium	longer	regular	rechargeable	temperature	low	buy	amount	
+camera	canon	digital	long	lenmar	olympus	flash	works	speed	world	
+rechargeable	nimh	cell	kodak	sanyo	eneloop	aa	flashlight	star	delivery	
+binoculars	image	pair	stabilization	button	hand	clear	feature	eye	detail	
+hour	charge	quick	minute	super	player	fast	full	hr	design	
+price	pack	deal	big	hot	package	box	wrong	review	rating	
+life	money	extra	feature	refresh	worth	canon	rayovac	function	expensive	
+canon	long	flash	nikon	review	ready	shot	star	camcorder	digital	
+aa	aaa	mah	power	capacity	type	volt	minute	con	compatible	
+sony	model	purchase	experience	smart	expensive	rechargable	cheap	original	spare	
+camera	canon	digital	long	picture	lenmar	future	satisfied	replacement	powershot	
+picture	case	sony	lens	cap	reliable	panasonic	single	photo	true	
+average coherence	-1372.713541548492

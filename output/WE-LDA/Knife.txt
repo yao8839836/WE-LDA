@@ -1,0 +1,16 @@
+steel	cheap	edge	flimsy	metal	piece	plastic	wood	cardboard	board	
+high	line	hole	bottom	hard	driver	phillip	cork	box	single	
+everedge	wustoff	fibrox	victorinox	army	knives	henckels	kershaw	forschner	inferior	
+sharp	edge	dull	blade	granton	sharpness	sharpest	useable	chore	kai	
+meat	dough	bread	crust	steak	beef	veggy	roast	fruit	slice	
+blade	finger	thumb	gerber	prep	handed	swipe	serration	knuckle	bone	
+gear	stainless	snob	ceramic	damascus	rust	sharpness	japan	swipe	low	
+expensive	buck	money	warranty	cost	vendor	dollar	extra	buy	similar	
+price	kitchen	electric	customer	cuisinart	company	local	order	collection	vendor	
+chef	workhorse	grandmother	shun	scalloped	kramer	granton	serrated	cleaver	hardness	
+birthday	christmas	gift	negative	sister	positive	review	present	previous	comment	
+hand	trigger	tweezers	opener	lever	degree	tip	big	phillip	weight	
+clean	simple	quick	easy	screwdriver	tool	storage	ease	sheath	phillip	
+larger	bigger	small	medium	large	wide	smaller	length	inch	room	
+grip	bulbous	rubber	heavy	feel	warm	material	layer	comfortable	tough	
+average coherence	-135.87504531212315

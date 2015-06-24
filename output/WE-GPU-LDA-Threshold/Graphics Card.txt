@@ -1,0 +1,16 @@
+game	witcher	fp	swtor	battlefield	skyrim	crysis	starcraft	setting	frap	
+monitor	dvi	vga	resolution	hdmus	hdmi	screen	port	adapter	display	
+intel	amd	ram	ssd	ocz	lga	corsair	kingston	chipset	coolermaster	
+witcher	swtor	crysis	fp	battlefield	skyrim	starcraft	frap	max	diablo	
+video	computer	graphic	windows	pc	gaming	system	dell	xp	vista	
+price	review	evga	money	support	rebate	star	purchase	warranty	box	
+game	high	fp	witcher	swtor	battlefield	skyrim	crysis	starcraft	end	
+driver	nvidia	easy	installation	screen	software	latest	window	cd	minute	
+fan	quiet	cool	load	noise	temp	temperature	full	speed	cooling	
+video	hd	performance	bio	radeon	sapphire	ati	crossfire	shader	hardware	
+ssd	corsair	kingston	asus	ocz	lga	vengeance	mobo	coolermaster	crucial	
+gpu	memory	clock	stock	performance	core	higher	heaven	benchmark	overclock	
+witcher	fp	swtor	battlefield	crysis	skyrim	starcraft	setting	frap	civilization	
+power	case	slot	pci	supply	pcus	low	computer	pcie	older	
+gtx	overclocked	sc	msus	msi	gpus	ti	classified	ftw	geforce	
+average coherence	-1367.3918251162806

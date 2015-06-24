@@ -1,0 +1,16 @@
+straightforward	breeze	intuitive	setup	quick	simple	user	friendly	guide	complicated	
+dvd	disc	load	speed	minute	ray	fast	blu	slow	capability	
+panasonic	sale	cheaper	purchase	cost	buck	expensive	buy	dollar	newer	
+control	harmony	universal	command	button	intuitive	menu	ir	remote	layout	
+security	wireless	linksys	connection	ethernet	wifus	modem	networking	wifi	router	
+netflix	movie	video	streaming	line	internet	located	front	app	rear	
+review	positive	comment	rating	due	consumer	report	previous	main	complaint	
+composite	hdmus	analog	hdmi	output	component	av	sacd	input	audio	
+samsung	device	default	option	seconds	sony	mode	function	feature	change	
+avi	mkv	avus	wmv	mpg	format	mpeg	xvid	file	codec	
+usb	hard	internal	external	disk	dongle	shared	flash	memory	hub	
+firmware	bug	future	forum	site	update	download	latest	windows	error	
+tv	lg	show	yamaha	dvr	receiver	hdtv	lcd	theater	onkyo	
+clarity	picture	color	sharp	beautiful	clear	screen	text	compact	design	
+rep	answer	support	technical	question	helpful	customer	defective	repair	phone	
+average coherence	-136.58973994186894

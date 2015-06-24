@@ -1,0 +1,16 @@
+rechargeable	aaa	lithium	energizer	mah	duracell	aa	pack	rechargable	volt	
+socket	plug	outlet	wall	ac	adaptor	cord	adapter	power	back	
+cheaper	price	glad	dollar	cost	morning	bino	buy	older	extra	
+warm	design	pro	sturdy	attractive	functional	difficult	generic	kit	road	
+eneloops	alkaline	smart	cap	batt	cover	eneloop	cell	discharge	case	
+canon	digital	lenmar	pair	button	panasonic	sony	powershot	bag	glass	
+hassle	extra	additional	seconds	couple	regular	fact	packaging	option	instruction	
+lightweight	compact	green	red	small	indicator	ideal	led	dark	weight	
+charge	minute	hour	super	half	overnight	quick	period	replacement	defective	
+company	rating	keyboard	satisfied	purchase	comment	negative	previous	warranty	reviewer	
+sharp	image	crisp	picture	bright	high	lcd	low	level	clarity	
+camera	olympus	wildlife	birding	photography	shot	nikon	astronomy	scope	optics	
+sony	device	voltage	gift	refresh	cycle	camcorder	digital	normal	energy	
+short	control	longer	long	external	emergency	temperature	expectation	past	expensive	
+eneloop	maha	duracell	mahacell	alkaline	nicd	nimh	mah	rayovac	japan	
+average coherence	-1214.791845423461

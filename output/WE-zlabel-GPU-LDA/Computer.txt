@@ -1,0 +1,16 @@
+marketplace	market	getjar	xoom	appslib	honeycomb	android	froyo	archos	nook	
+game	playback	music	gray	white	movie	stream	format	green	video	
+monitor	vga	composite	widescreen	rgb	crt	hdmi	viewable	hdmus	lcd	
+linux	pc	xp	os	system	theater	review	windows	rating	operating	
+hour	life	speaker	replaceable	charge	tinny	show	tv	overnight	half	
+launcher	thrive	capacitive	ipad	blackberry	tablet	xoom	galaxy	kindle	android	
+bright	lighting	contrast	dull	vivid	display	option	whites	preset	mode	
+resistive	screen	estate	protector	viewing	keyboard	sunlight	smaller	larger	touchscreen	
+router	wifus	wifi	connection	wireless	ethernet	ac	browser	facebook	hp	
+viewsonic	samsung	stuck	sony	con	mitsubishi	kogi	envision	pinkish	asus	
+slot	internal	card	dummy	storage	stick	memory	gb	hard	gig	
+repair	department	manufacturer	replacement	extended	defective	extra	customer	desk	claim	
+hub	firewire	usb	mini	ethernet	port	file	stick	conversion	device	
+sharp	vivid	text	bright	sharpness	vibrant	contrast	color	saturation	crystal	
+corner	located	edge	hole	side	line	pentium	bottom	front	intel	
+average coherence	-1308.724776678893

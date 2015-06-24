@@ -1,0 +1,16 @@
+format	mpg	avus	avi	wmv	file	xvid	mov	mkv	type	
+device	remote	button	control	power	small	keyboard	cool	line	function	
+tv	movie	wd	hd	live	digital	show	room	western	wdtv	
+box	boxee	review	roku	star	reason	case	couple	real	purchase	
+player	media	pc	server	network	windows	share	home	mac	stream	
+firmware	support	device	version	update	tech	technical	latest	bug	future	
+file	hour	dvd	battery	mpg	avus	avi	life	mkv	mov	
+netflix	content	app	internet	streaming	service	online	local	device	stream	
+drive	hard	usb	network	wireless	computer	external	wifus	wifi	connection	
+music	song	file	video	movie	picture	option	folder	album	photo	
+easy	interface	user	menu	setup	simple	system	setting	con	manual	
+ipod	zune	feature	price	player	apple	money	creative	zen	friend	
+zune	software	microsoft	itunes	computer	sync	point	marketplace	itune	program	
+video	audio	cable	hdmus	hdmi	micca	playback	output	car	sound	
+screen	sound	big	radio	size	picture	headphone	clear	fm	large	
+average coherence	-1600.5658931979697

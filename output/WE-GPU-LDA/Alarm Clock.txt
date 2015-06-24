@@ -1,0 +1,16 @@
+dawn	atomic	sunrise	brookstone	snooze	elgin	groggy	numeral	bird	nightstand	
+lovely	glow	retro	pattern	decor	sun	backlighting	dim	cute	bean	
+glow	dim	decor	sun	dark	backlight	adjustable	pattern	retro	lovely	
+adjustable	decor	glow	dim	sun	backlight	retro	lovely	sweep	sufficient	
+adjustable	decor	dark	dim	natural	glow	sun	sufficient	lovely	face	
+adjustable	dark	face	light	bright	sufficient	decor	led	natural	dim	
+adjustable	light	face	dark	sufficient	led	sweep	bright	natural	middle	
+adjustable	dark	face	sufficient	decor	light	bright	eye	natural	sweep	
+adjustable	light	job	face	dark	plenty	display	sufficient	sensitive	close	
+adjustable	job	face	close	sensitive	tiny	plenty	sufficient	light	adequate	
+job	close	difficult	annoying	display	real	normal	convenient	matter	sensitive	
+job	real	display	close	annoying	difficult	normal	matter	separate	ability	
+job	real	matter	ability	difficult	display	annoying	separate	easier	normal	
+real	job	matter	ability	easier	difficult	annoying	function	normal	display	
+real	fact	ability	matter	choice	multiple	addition	stuff	job	idea	
+average coherence	-1223.5588033050176

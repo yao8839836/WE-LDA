@@ -1,0 +1,16 @@
+datum	transfer	speed	error	rate	download	minute	client	pdf	fast	
+red	light	bright	blue	green	indicator	finish	lcd	display	picture	
+os	ntfs	win	ubuntu	xp	linux	compatible	osx	pc	windows	
+hour	life	laptop	charge	minute	longer	hr	charger	pack	machine	
+loud	noisy	digital	price	bass	high	speaker	noise	performance	air	
+itunes	playlist	burner	library	collection	folder	dvd	nomad	archos	music	
+review	rating	comment	research	purchase	positive	chance	previous	due	reviewer	
+usb	firewire	hub	mini	ethernet	esa	multiplier	plug	connector	port	
+iii	mb	cache	motherboard	rpm	passport	tb	expander	iomega	slot	
+external	compact	small	lightweight	storage	large	smaller	bigger	sleek	pocket	
+computer	software	older	backup	model	file	similar	panasonic	mine	extra	
+keyboard	left	corner	case	front	touchpad	plastic	screwdriver	line	cover	
+cable	ethernet	hd	component	system	connection	input	wireless	power	tivo	
+simple	user	intuitive	instruction	process	installation	friendly	program	breeze	snap	
+support	question	request	repair	technical	customer	period	manufacturer	department	replacement	
+average coherence	-129.84558468889293

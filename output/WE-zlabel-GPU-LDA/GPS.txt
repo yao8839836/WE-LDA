@@ -1,0 +1,16 @@
+rechargeable	hour	ability	minute	life	feature	charge	aaa	half	charger	
+elevation	cadence	mile	pace	distance	workout	bike	road	partner	ride	
+computer	usb	ac	option	dark	connector	command	confusing	switch	red	
+slot	card	reader	chip	gb	gig	micro	hard	disk	cord	
+intuitive	interface	easy	simple	restaurant	cell	atm	phone	super	setup	
+driving	traffic	map	lane	maestro	entrance	highway	exit	street	magellan	
+star	rating	server	address	wrong	due	choice	main	mistake	lack	
+heart	gps	download	datum	limit	workout	mapping	polar	history	cadence	
+review	purchase	cheaper	comment	cable	consumer	positive	price	research	glad	
+screen	firmware	readable	protector	sunlight	bezel	update	touchscreen	future	software	
+wrist	aid	shape	sharp	marathon	comfortable	arm	glue	juntion	partner	
+instruction	user	guide	documentation	owner	device	topo	file	reply	buck	
+question	support	service	customer	technical	attachment	place	model	telephone	older	
+seat	small	dashboard	larger	large	charger	protective	car	pocket	dash	
+satellite	antenna	weak	area	con	etrex	house	office	list	network	
+average coherence	-1288.3179100132434

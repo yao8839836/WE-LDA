@@ -1,0 +1,16 @@
+wide	flat	christmas	department	college	customer	phone	edge	hard	gift	
+plate	pan	teflon	nonstick	titanium	steel	lid	ironer	grease	decker	
+hot	dial	wet	heating	temperature	cotton	oil	warm	fresh	defective	
+standing	leg	upright	uneven	position	decent	inexpensive	fair	box	hard	
+review	consumer	positive	research	rating	indicator	red	online	light	report	
+cotton	fabric	pants	glide	lowest	wrinkled	slacks	dress	denim	linen	
+construction	instruction	design	bulky	english	step	weight	standing	longer	board	
+job	sheet	service	plain	company	plenty	paper	customer	world	warranty	
+tortilla	flour	lever	hinge	taco	pie	victoria	wax	wheat	mexican	
+press	button	purchase	expensive	high	lock	price	buck	buy	extra	
+water	steam	fill	spray	clothes	wrinkle	container	salt	glide	soleplate	
+option	feature	favorite	function	ability	multiple	basic	friendly	stuff	auto	
+gallon	heavy	pie	minute	wrap	bottom	plastic	quilt	line	rubber	
+small	intuitive	compact	quick	lightweight	bigger	easy	norelco	rowenta	larger	
+cord	extension	reel	outlet	back	finish	similar	retractable	older	model	
+average coherence	-1250.3711634224658

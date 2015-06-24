@@ -1,0 +1,16 @@
+picture	video	photo	canon	hd	full	buy	camcorder	recording	type	
+random	gb	read	iop	qd	device	test	sequential	manufacturer	actual	
+phone	computer	music	storage	capacity	player	samsung	movie	cell	sansa	
+picture	photo	video	pic	seller	pocket	small	hour	function	photography	
+review	feature	digital	battery	point	star	book	performance	life	job	
+sd	adapter	reader	micro	microsd	usb	laptop	slot	cheap	pc	
+picture	photo	video	easy	box	small	blackberry	quick	system	compact	
+file	image	raw	format	size	software	large	manual	fuji	chip	
+mode	setting	shot	picture	photo	video	light	exr	low	high	
+sandisk	sdhc	flash	extreme	gb	version	microsdhc	number	compatible	original	
+picture	photo	video	scanner	description	reliable	stick	pandigital	ease	hour	
+speed	class	fast	datum	transfer	high	higher	minute	dslr	rate	
+picture	photo	video	package	room	size	menu	electronics	purchase	tv	
+price	space	extra	deal	money	cheaper	shipping	big	works	worth	
+case	sd	pelican	plastic	standard	insert	hard	important	place	sleeve	
+average coherence	-1394.0445805411596

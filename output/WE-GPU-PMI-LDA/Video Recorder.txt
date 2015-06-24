@@ -1,0 +1,16 @@
+program	schedule	recorded	replaytv	tv	replay	show	guide	dvr	part	
+cable	input	audio	output	component	sound	tv	recording	rca	comcast	
+show	commercial	episode	movie	season	feature	favorite	record	pass	ability	
+phone	network	call	line	home	system	number	connection	internet	wireless	
+tv	model	dvr	sony	tuner	recording	recorder	system	series	piece	
+software	file	driver	format	version	computer	windows	pc	media	vista	
+easy	simple	setup	user	guide	programming	interface	manual	intuitive	quick	
+vcr	dvd	tape	vhs	television	recording	setting	player	progressive	record	
+service	price	subscription	free	fee	monthly	money	machine	worth	cost	
+service	customer	support	review	company	tech	warranty	replacement	experience	replaytv	
+card	remote	camera	picture	screen	ir	control	sd	slot	rf	
+tv	dvr	button	live	feature	replay	menu	box	replaytv	fast	
+device	hd	pvr	hauppauge	computer	pc	directv	capture	hdtv	xbox	
+hour	minute	hard	drive	half	external	seconds	space	high	room	
+channel	cable	box	digital	satellite	dvr	comcast	tv	signal	analog	
+average coherence	-1577.1396151003325

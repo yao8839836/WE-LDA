@@ -1,0 +1,16 @@
+bright	dark	led	eye	light	blink	white	distance	aaa	picture	
+front	seat	place	back	metal	side	hook	top	part	position	
+customer	larger	kid	smaller	company	size	website	older	sale	today	
+tire	flat	high	speed	mile	higher	road	ride	due	rack	
+easy	space	plenty	small	garage	ceiling	weather	snow	cold	winter	
+sturdy	lightweight	wrist	construction	rubber	heavy	material	nylon	strap	ease	
+lock	handlebar	hitch	bracket	rope	handlebars	strut	hatch	mechanism	topeak	
+social	strategy	transparent	presence	marketer	media	dave	likes	book	kerpen	
+hoist	stud	anchor	screw	hole	drywall	nut	joist	kayak	thread	
+kevlar	bead	gatorskin	tandem	continental	lever	crv	rim	pothole	slick	
+tire	gatorskin	debris	puncture	kevlar	schwinn	continental	tandem	goathead	road	
+rear	battery	bicycle	light	trunk	topeak	car	blinker	truck	visible	
+rack	rating	star	positive	review	negative	online	chance	system	previous	
+blinky	visible	light	cyclist	visibility	nyc	city	headlight	reflector	steady	
+dollar	buy	price	expensive	fair	local	money	purchase	shipping	extra	
+average coherence	-131.42892792630485

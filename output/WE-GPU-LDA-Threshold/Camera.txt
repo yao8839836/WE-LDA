@@ -1,0 +1,16 @@
+picture	screen	color	lcd	photo	viewfinder	sharp	eye	white	black	
+light	flash	low	noise	iso	setting	performance	indoor	outdoor	poor	
+digital	zoom	photo	film	slr	photography	feature	dslr	professional	rebel	
+review	kodak	model	star	customer	reason	real	service	support	warranty	
+price	point	money	trip	shoot	expensive	cheap	binoculars	fun	simple	
+easy	manual	feature	setting	button	control	option	user	function	menu	
+card	video	software	computer	memory	usb	cable	device	sd	box	
+canon	sony	nikon	dslr	panasonic	rebel	eos	lumix	coolpix	cybershot	
+lens	body	pro	con	range	wide	telephoto	angle	wonderful	technology	
+image	picture	result	resolution	stabilization	feature	higher	megapixel	end	part	
+mode	blur	hdr	focus	auto	full	shooting	panning	autofocus	firework	
+video	camcorder	hd	sound	tape	movie	recording	flip	audio	tv	
+picture	shot	high	shutter	speed	long	night	pic	landscape	portrait	
+small	size	hand	pocket	big	compact	easy	larger	deal	smaller	
+battery	life	case	hour	extra	minute	line	power	water	charger	
+average coherence	-1533.7805210563101

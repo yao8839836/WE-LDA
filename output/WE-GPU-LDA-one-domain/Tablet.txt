@@ -1,0 +1,16 @@
+panda	laptop	mine	ipod	user	thrive	portable	program	graphire	camera	
+panda	laptop	mine	ipod	user	portable	internet	stuff	movie	sound	
+mine	user	panda	laptop	movie	ipod	internet	portable	stuff	smaller	
+panda	laptop	mine	ipod	user	internet	sound	stuff	portable	thrive	
+laptop	panda	mine	user	ipod	full	internet	portable	sound	movie	
+laptop	panda	ipod	mine	portable	stuff	user	program	size	sound	
+mine	panda	laptop	user	internet	ipod	movie	program	cell	stuff	
+panda	laptop	mine	ipod	user	internet	stuff	windows	movie	portable	
+mine	panda	ipod	laptop	user	thrive	internet	stuff	portable	software	
+android	full	phone	access	apple	mine	panda	laptop	ipod	user	
+panda	laptop	mine	ipod	user	thrive	portable	program	camera	internet	
+mine	panda	laptop	ipod	user	internet	movie	stuff	software	slow	
+laptop	panda	mine	user	ipod	internet	stuff	portable	slow	software	
+laptop	panda	ipod	mine	size	stuff	user	portable	camera	button	
+mine	panda	laptop	ipod	user	internet	thrive	stuff	program	windows	
+average coherence	-1576.0921616848007

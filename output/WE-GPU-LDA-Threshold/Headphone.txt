@@ -1,0 +1,16 @@
+ipod	player	audio	portable	easy	audiophile	computer	speaker	style	cd	
+noise	bose	canceling	cancelling	cancellation	expensive	feature	job	cancelation	isolation	
+volume	control	amp	loud	level	button	grado	akg	full	power	
+earbud	sony	sennheiser	model	review	case	reason	apple	headphones	durability	
+sound	design	comfort	open	decent	bass	similar	incredible	inexpensive	back	
+head	comfortable	hour	fit	uncomfortable	headband	top	tight	sore	cushion	
+headset	tv	wireless	home	static	radio	room	base	audio	foot	
+music	phone	sound	song	type	kind	rap	rock	classical	hearing	
+cord	side	wire	cable	plug	short	left	clip	long	phone	
+bass	high	midrange	clear	low	mid	frequency	end	crisp	response	
+ear	bud	size	small	cushion	cup	matter	tip	uncomfortable	velour	
+pair	cheap	earphone	decent	part	friend	koss	difference	case	dollar	
+price	review	star	range	worth	money	purchase	point	solid	cost	
+sound	battery	con	long	pro	fact	poor	movie	life	gym	
+ear	big	piece	comfortable	bud	plastic	fit	part	pad	hard	
+average coherence	-1485.7994271957248

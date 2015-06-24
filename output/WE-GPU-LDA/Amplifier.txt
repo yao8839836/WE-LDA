@@ -1,0 +1,16 @@
+suv	characteristic	tripath	legacy	pyramid	harmonic	apogee	efficiency	circuitry	amplification	
+purchase	opinion	chance	research	cheaper	dollar	expensive	disappointed	glad	choice	
+speaker	klipsch	audiophile	decent	bose	stereo	loud	acoustic	bass	volume	
+speaker	loud	sound	stereo	klipsch	volume	bass	distortion	audiophile	equalizer	
+stereo	speaker	klipsch	output	loud	volume	subwoofer	distortion	sound	static	
+stereo	speaker	loud	volume	close	klipsch	static	subwoofer	output	boom	
+stereo	speaker	loud	static	volume	close	boom	subwoofer	klipsch	output	
+stereo	speaker	subwoofer	static	output	loud	klipsch	boom	woofer	interference	
+subwoofer	stereo	speaker	static	loud	volume	woofer	klipsch	boom	neighbor	
+stereo	speaker	static	subwoofer	output	receiver	interference	neighbor	source	klipsch	
+stereo	static	speaker	subwoofer	interference	output	receiver	klipsch	neighbor	weak	
+receiver	stereo	source	satellite	output	interference	broadcast	weak	wire	signal	
+receiver	source	stereo	broadcast	satellite	output	signal	interference	av	analog	
+broadcast	receiver	satellite	signal	av	source	coaxial	stereo	interference	analog	
+broadcast	comcast	satellite	receiver	av	coaxial	signal	analog	source	composite	
+average coherence	-1262.8209331594865

@@ -1,0 +1,16 @@
+choice	purchase	solution	idea	online	company	trouble	real	fact	fault	
+boxwave	pencil	capacitive	fire	sylus	style	pogo	pen	tip	elago	
+sylus	drawing	finger	pencil	stroke	pen	fingerprint	capacitive	pressure	precise	
+pencil	sylus	eraser	squishy	rubberized	grip	stroke	anchor	nataal	capacitive	
+sylus	drawing	pencil	grip	capacitive	fingerprint	stroke	pen	rubberized	eraser	
+sylus	pencil	stroke	drawing	eraser	fingerprint	rubberized	firm	finger	pressure	
+sylus	pencil	stroke	eraser	squishy	rubberized	grip	firm	nataal	capacitive	
+pencil	sylus	stroke	eraser	grip	squishy	rubberized	drawing	fingerprint	firm	
+pencil	sylus	grip	eraser	rubberized	stroke	squishy	anchor	nataal	capacitive	
+pencil	sylus	capacitive	drawing	fingerprint	stroke	grip	eraser	nataal	rubberized	
+pencil	sylus	stroke	eraser	grip	rubberized	squishy	nataal	anchor	capacitive	
+pencil	sylus	grip	stroke	rubberized	fingerprint	squishy	anchor	eraser	drawing	
+sylus	pencil	stroke	fingerprint	drawing	eraser	rubberized	firm	squishy	grip	
+sylus	pencil	stroke	grip	rubberized	fingerprint	squishy	eraser	drawing	nataal	
+pencil	eraser	rubberized	sylus	squishy	nataal	stroke	firm	grip	rubbery	
+average coherence	-1132.696804834538

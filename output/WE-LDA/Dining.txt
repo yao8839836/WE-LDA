@@ -1,0 +1,16 @@
+cost	expensive	purchase	customer	email	rating	manufacturer	shipping	local	replacement	
+water	cup	kettle	removable	filter	glass	carafe	plate	grid	oster	
+dough	bread	pastry	baked	oven	nonstick	cooking	baking	utensil	dishwasher	
+minute	hour	life	longer	run	home	full	office	seconds	friend	
+coffee	iced	pot	carafe	brew	tea	brewing	drip	stove	drinker	
+bottom	line	flat	small	back	front	side	base	place	part	
+blade	sharp	block	scissors	knife	edge	stainless	grip	careful	tip	
+breakfast	tasty	rice	sandwich	recipe	muffin	sugar	soup	egg	salt	
+review	positive	online	mom	experience	christmas	birthday	chance	mother	choice	
+machine	processor	noise	motor	price	food	tank	pan	big	espresso	
+clean	easy	quick	simple	sturdy	direction	instruction	feature	assembly	accurate	
+burr	braun	decaf	bean	bodum	grinder	bunn	brew	brewing	thermal	
+winter	cold	hot	degree	warm	heat	temperature	summer	high	night	
+metal	flimsy	material	cheap	steel	rubber	piece	plastic	solid	blue	
+popper	seal	dome	bowl	ice	dish	lid	condensation	skillet	contigo	
+average coherence	-133.9742393022308

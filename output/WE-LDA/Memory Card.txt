@@ -1,0 +1,16 @@
+sd	case	adapter	heroine	micro	carpathian	lifemate	size	male	hero	
+computer	desktop	usb	external	software	dell	compatible	reader	adaptor	os	
+collection	flatbed	scanner	song	music	format	jpg	scanning	show	game	
+read	random	crystaldiskmark	sequential	qd	datum	slower	mbp	transfer	download	
+picture	video	high	level	low	canon	plenty	setting	hd	house	
+shipping	return	question	package	seller	sale	delivery	support	label	walmart	
+cell	smart	phone	samsung	hour	android	life	charge	droid	charger	
+cost	extra	glad	expensive	dollar	money	buck	cheaper	performance	additional	
+mode	minute	super	option	quick	ready	half	simple	reliable	instruction	
+microsdhc	sdhc	transcend	duo	gb	mb	formatting	cf	extreme	storage	
+photo	image	film	color	white	photograph	sharp	detail	scan	digital	
+megapixel	subject	shot	jpeg	shooting	buffer	zoom	jpg	iso	panorama	
+price	older	class	speed	sandisk	newer	bottom	previous	future	cheaper	
+positive	rating	review	comment	star	point	negative	research	main	due	
+small	larger	insert	secure	lightweight	bag	bigger	fit	tiny	pelican	
+average coherence	-126.93863106128464

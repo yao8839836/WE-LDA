@@ -1,0 +1,16 @@
+signal	weak	stronger	floor	house	antenna	sq	garage	wall	neighbor	
+ip	security	nfinity	log	password	ftp	dhcp	share	encryption	datum	
+range	expensive	cheaper	performance	extra	purchase	glad	cost	dollar	reasonable	
+representative	rep	question	customer	service	forum	dlink	defective	replacement	request	
+review	positive	rating	comment	decision	reviewer	due	research	report	model	
+connection	led	speed	internet	bright	light	green	cable	device	band	
+support	tech	phone	half	cell	line	india	smart	number	hour	
+intuitive	user	straightforward	super	easy	interface	quick	wizard	guide	simple	
+setting	auto	minute	option	default	change	switch	multiple	function	mode	
+computer	usb	shared	hard	external	flash	nas	hub	disk	pc	
+stream	content	streaming	xbox	youtube	dvr	tv	show	game	roku	
+firmware	na	win	xp	bug	os	fix	linux	site	pc	
+netgear	gigabit	linksy	fio	connected	linksys	installer	dsl	cisco	broadband	
+network	ipad	feature	device	port	laptop	printer	access	small	home	
+instruction	process	breeze	quick	wizard	simple	straightforward	installation	step	setup	
+average coherence	-138.65879211389137

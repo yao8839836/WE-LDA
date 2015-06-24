@@ -1,0 +1,16 @@
+minute	feature	simple	disc	intuitive	operation	function	start	seconds	instruction	
+radio	tuner	station	clock	preset	alarm	antenna	reception	recorder	location	
+control	button	menu	pause	knob	press	arrow	start	display	function	
+question	repair	return	support	seller	refund	defective	customer	technical	service	
+aa	rechargeable	hour	life	rechargable	battery	longer	half	long	anti	
+kit	adapter	adaptor	plug	flimsy	car	usb	socket	thin	bottom	
+pair	earbud	jack	headphone	headset	ear	auxiliary	earphone	head	boombox	
+output	cassette	sacd	tape	speaker	component	playback	jack	stereo	receiver	
+theater	sound	music	kid	system	kitchen	bed	living	house	counter	
+distortion	mid	level	high	loud	bass	tinny	subwoofer	tone	treble	
+bright	light	text	detail	slot	lcd	dvd	picture	remote	color	
+positive	review	model	rating	older	comment	newer	previous	star	experience	
+album	playlist	track	artist	song	shuffle	folder	beginning	repeat	disk	
+small	compact	lightweight	sound	cute	larger	attractive	pocket	hand	bigger	
+extra	piece	christmas	money	dont	dollar	mom	affordable	price	complete	
+average coherence	-124.2324659892341

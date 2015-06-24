@@ -1,0 +1,16 @@
+online	cost	positive	similar	local	purchase	model	seller	chance	range	
+xlr	cable	rca	connector	snake	plug	signal	slide	valve	headphone	
+construction	stand	material	smooth	stable	grip	finish	metal	solid	sturdy	
+case	kind	high	line	top	end	type	favorite	hour	hard	
+installation	quick	easier	minute	easy	short	feature	board	simple	shape	
+sound	loud	high	quiet	control	pitch	speed	pickup	low	background	
+price	expensive	money	market	dollar	christmas	extra	manufacturer	cheaper	head	
+power	amp	switch	battery	transmitter	output	button	voltage	led	signal	
+small	smaller	space	area	front	plenty	large	wide	side	pocket	
+blue	green	color	white	red	dark	bright	led	pick	silver	
+distortion	overdrive	eq	vox	ibanez	ampeg	gain	screamer	amp	pedal	
+microphone	beta	shure	condenser	samson	pa	mic	live	boom	studio	
+string	bridge	intonation	buzz	bass	elixir	treble	capo	guitar	tremolo	
+guitar	technique	tone	rich	subtle	player	clean	strap	student	horn	
+speaker	jack	clarity	equalizer	logitech	input	rca	headphone	amp	ipod	
+average coherence	-126.75484739106128

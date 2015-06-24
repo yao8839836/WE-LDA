@@ -1,0 +1,16 @@
+phone	cell	support	technical	answer	cellphone	question	rep	tethering	cellular	
+slot	microsdhc	card	storage	memory	internal	reader	gb	flash	external	
+firmware	forum	driver	vista	linux	future	update	xp	latest	website	
+wireless	wifi	device	wifus	network	connection	pc	connected	computer	ssid	
+press	user	menu	button	programmable	instruction	function	option	control	guide	
+format	scanning	music	collection	document	playing	playback	playlist	editing	itunes	
+pen	capacitive	pencil	precise	clumsy	stylus	cap	grip	boxwave	drawing	
+fm	case	station	sangean	bedroom	clock	kitchen	keyboard	alarm	receptor	
+ipad	defective	price	customer	question	repair	rep	seller	service	label	
+app	game	stream	gmail	search	browser	google	account	facebook	show	
+screen	viewing	widescreen	light	bright	led	lcd	color	picture	green	
+review	rating	comment	positive	research	due	previous	decision	christmas	experience	
+palm	small	flimsy	smaller	con	hand	lightweight	bigger	metal	inch	
+usb	mini	hour	stereo	speaker	adaptor	life	hdmus	charger	jack	
+launcher	appslib	market	marketplace	honeycomb	froyo	gingerbread	ios	archo	archos	
+average coherence	-127.95043967717746

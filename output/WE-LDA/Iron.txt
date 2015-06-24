@@ -1,0 +1,16 @@
+cotton	denim	clothes	crease	hanger	wrinkle	clothing	glide	stain	polyester	
+standing	surface	upright	board	bottom	line	hole	sticky	edge	vertical	
+brown	green	indicator	red	white	light	black	shirt	decker	finish	
+feature	easy	replacement	return	service	label	customer	defective	refund	warranty	
+review	positive	consumer	research	rating	online	report	vine	comment	glad	
+steam	lowest	high	level	setting	button	low	temperature	temp	heat	
+plate	fill	titanium	mineral	nonstick	pan	teflon	leak	lid	kiosk	
+similar	older	model	panasonic	cheaper	soleplate	expensive	comparison	half	couple	
+heavy	bulky	construction	tight	design	weight	lightweight	sleek	attractive	thin	
+press	price	job	tortilla	plastic	reasonable	point	real	side	ease	
+water	rowenta	buck	extra	purchase	today	expensive	wrong	complete	dont	
+minute	instruction	dial	english	step	auto	intuitive	function	recipe	simple	
+small	compact	larger	hand	smaller	bigger	large	space	fit	amount	
+tortilla	flour	lever	pie	taco	hinge	wax	victoria	mexican	wheat	
+cord	extension	reel	outlet	back	retractable	wall	longer	dryer	plug	
+average coherence	-136.57254163797856

@@ -1,0 +1,16 @@
+bright	stand	half	rating	red	green	intuitive	desk	radio	basic	
+light	dim	glow	back	bright	christmas	button	report	simulator	order	
+menu	button	user	left	basic	flimsy	big	fact	tuner	price	
+half	preset	readable	loud	lcd	ceiling	dim	small	price	lightweight	
+groggy	stylish	antenna	audible	back	loud	feature	sleek	inexpensive	lightweight	
+small	weight	smaller	cost	effect	compact	soft	auto	clear	sleek	
+intuitive	easy	fan	programming	main	office	audible	wire	white	dim	
+aaa	outlet	battery	instruction	flight	dark	attractive	power	positive	appearance	
+model	flimsy	older	minute	picture	switch	audible	mom	travel	dim	
+couple	audible	change	buy	flimsy	arm	impossible	living	level	automatic	
+fan	baby	kitchen	backlight	small	dim	tuner	night	brightness	display	
+sound	loud	sleeper	audible	design	clear	ability	brightness	job	speaker	
+construction	brighter	hearing	durable	ability	auto	high	change	gift	weight	
+dark	living	gift	birthday	lighting	audible	baby	glow	reception	left	
+radio	antenna	lowest	tuner	background	fact	white	flimsy	minor	glow	
+average coherence	-129.5811401424656

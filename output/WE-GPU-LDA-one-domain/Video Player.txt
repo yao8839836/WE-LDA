@@ -1,0 +1,16 @@
+sync	apple	itune	cd	scratch	window	windows	explorer	market	car	
+sync	itune	apple	cd	scratch	windows	window	explorer	market	car	
+sync	itune	apple	cd	window	scratch	windows	market	car	explorer	
+sync	apple	itune	cd	window	scratch	windows	explorer	car	market	
+sync	apple	itune	cd	scratch	window	windows	car	market	explorer	
+sync	apple	itune	cd	scratch	window	market	windows	car	explorer	
+sync	apple	itune	cd	window	windows	scratch	explorer	media	itunes	
+sync	itune	apple	cd	scratch	window	market	windows	explorer	car	
+sync	itune	apple	cd	scratch	windows	window	market	explorer	media	
+sync	apple	itune	cd	scratch	window	windows	market	explorer	car	
+apple	sync	itune	cd	scratch	window	windows	car	explorer	market	
+sync	itune	apple	cd	scratch	window	windows	market	explorer	car	
+sync	apple	itune	cd	scratch	window	windows	market	explorer	car	
+sync	itune	apple	cd	scratch	window	windows	explorer	market	media	
+sync	itune	apple	cd	scratch	window	windows	market	car	explorer	
+average coherence	-1589.0371591305009

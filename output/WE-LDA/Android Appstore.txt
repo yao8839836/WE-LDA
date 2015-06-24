@@ -1,0 +1,16 @@
+free	money	dollar	price	total	easy	short	worth	puzzle	graphic	
+rating	star	review	chance	developer	permission	full	gameplay	couple	dev	
+age	stuff	young	older	kid	favorite	brother	friend	mom	pound	
+music	english	clue	word	song	media	score	personal	pop	genre	
+windows	interface	pc	signal	computer	home	desktop	speed	audio	server	
+phone	bed	room	small	easy	home	camera	tablet	application	device	
+word	ghost	real	house	radar	random	dot	purchase	easy	money	
+quick	instruction	simple	direction	clean	intuitive	accurate	handy	easy	user	
+kindle	fire	tablet	device	seconds	phone	result	longer	fat	minute	
+menu	latest	version	option	intuitive	feature	google	minute	player	cool	
+book	text	screen	page	touch	ability	mode	type	feature	place	
+diet	easy	account	site	food	calorie	weight	online	track	exercise	
+radio	station	fact	kind	local	long	difficult	end	area	scanner	
+fun	hour	play	creepy	challenging	ow	program	entertaining	short	kinda	
+level	free	negative	wrong	easy	hint	difficulty	number	chance	sudoku	
+average coherence	-118.54100049764727

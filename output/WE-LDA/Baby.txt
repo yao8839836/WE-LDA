@@ -1,0 +1,16 @@
+stroller	suitcase	neck	front	place	head	position	tight	zipper	back	
+inside	arm	fabric	thick	seam	body	leather	washcloth	stiff	lightweight	
+diaper	soaker	bum	bumpkin	poop	prefold	cloth	absorbent	insert	wrap	
+loud	soft	cute	volume	control	big	quiet	low	speed	noise	
+sophie	swaddle	teether	blanket	chan	walker	razberry	giraffe	sleepsack	dryer	
+clean	simple	seat	quick	easy	sturdy	design	minute	car	direction	
+metal	rubber	piece	flimsy	plastic	bottle	material	thin	cheap	milk	
+cost	money	expensive	extra	dollar	review	purchase	buy	customer	positive	
+bib	side	bottom	flat	pocket	food	line	velcro	door	wall	
+dark	green	yellow	pink	bright	color	orange	white	red	blue	
+part	top	star	hard	cover	point	review	due	piece	kind	
+bigger	small	large	larger	plenty	smaller	normal	tall	size	wide	
+medela	avent	nipple	pump	tube	medelum	evenflo	breast	sippy	tubing	
+birthday	gift	sister	grandson	present	christmas	toy	young	boy	mother	
+winter	bed	sleep	cold	comfortable	summer	warm	weather	dry	wash	
+average coherence	-125.57841240892184

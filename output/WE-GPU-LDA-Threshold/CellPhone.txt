@@ -1,0 +1,16 @@
+iphone	app	nokia	user	purchase	cool	function	game	ipod	useless	
+camera	feature	video	picture	music	flash	device	photo	option	player	
+case	plastic	hard	cover	cheap	front	clip	seidio	innocase	fit	
+device	review	cell	number	samsung	software	android	version	mobile	apple	
+screen	protector	touch	color	light	white	dust	ipod	bubble	black	
+button	volume	clear	car	side	music	sound	speaker	mode	fm	
+charger	usb	cable	power	cord	adapter	port	car	plug	dock	
+small	keyboard	pocket	big	stylus	deal	type	key	smartphone	hand	
+battery	life	hour	charge	evo	full	long	htc	sprint	dead	
+call	easy	voice	place	minute	friend	quick	difficult	order	low	
+droid	motorola	blackberry	signal	couple	area	reception	part	antenna	bar	
+headset	sound	headphone	comfortable	noise	person	computer	mic	jack	audio	
+text	contact	email	internet	datum	message	web	wifus	wifi	online	
+ear	card	piece	star	memory	size	sim	design	head	sd	
+price	service	money	end	free	customer	high	shipping	worth	motorola	
+average coherence	-1423.1472378853412

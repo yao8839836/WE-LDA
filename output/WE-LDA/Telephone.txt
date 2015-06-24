@@ -1,0 +1,16 @@
+generation	station	ipad	accessory	iphone	blackberry	ipod	classic	dsi	bluetooth	
+itunes	library	album	podcast	genre	playing	audiobook	song	music	player	
+extension	cord	plug	usb	attachment	loose	outlet	wire	flexsmart	connector	
+expensive	rating	older	panasonic	newer	model	cordless	comparable	version	star	
+mute	intuitive	control	simple	tuning	menu	press	setup	remote	easy	
+rechargeable	life	charge	hour	pack	charger	battery	half	short	overnight	
+speaker	cable	output	input	stereo	converter	rca	mm	jack	analog	
+flimsy	metal	base	thin	rubber	thick	line	plastic	arm	housing	
+intercom	phonebook	number	handset	cid	rep	email	question	support	call	
+bass	rich	muddy	vocal	distortion	mid	midrange	high	subwoofer	frequency	
+theater	system	network	office	basement	answering	router	connection	house	apartment	
+sennheiser	fitting	iem	earpiece	uncomfortable	portapro	comfortable	shure	cushion	akg	
+sound	ear	light	price	red	indicator	blue	bright	pair	noise	
+small	compact	larger	bigger	lightweight	tiny	bulky	hand	heavy	con	
+volume	distortion	loud	level	train	background	mute	cancellation	canceling	quiet	
+average coherence	-119.67358962278209

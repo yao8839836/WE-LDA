@@ -1,0 +1,16 @@
+headset	headphone	noise	ear	sound	price	mic	head	clear	earbud	
+headset	noise	headphone	sound	price	ear	mic	head	clear	earbud	
+headset	noise	headphone	sound	price	ear	mic	head	clear	phone	
+headset	noise	headphone	price	sound	ear	mic	head	clear	earbud	
+headset	noise	sound	headphone	price	ear	mic	clear	head	audio	
+headset	noise	headphone	sound	price	ear	mic	head	clear	earbud	
+noise	headphone	headset	ear	price	sound	mic	head	clear	cord	
+headset	headphone	noise	ear	sound	price	mic	head	pair	clear	
+camera	webcam	computer	video	cable	voice	usb	skype	light	picture	
+headphone	noise	headset	ear	sound	price	mic	head	clear	earbud	
+headset	headphone	noise	price	sound	ear	mic	head	clear	earbud	
+headset	headphone	noise	sound	price	ear	mic	bass	clear	head	
+headset	noise	headphone	ear	sound	price	mic	head	clear	earbud	
+headset	headphone	noise	ear	price	sound	mic	head	clear	earbud	
+headset	headphone	noise	sound	price	ear	mic	head	clear	earbud	
+average coherence	-1699.6561064765024

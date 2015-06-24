@@ -1,0 +1,16 @@
+price	expensive	money	cost	dollar	worth	pair	extra	difference	earbud	
+ear	cheap	plastic	earbud	part	piece	pair	earphone	design	flimsy	
+ear	earbud	head	bud	earphone	pair	comfortable	shure	uncomfortable	pad	
+sony	pair	sennheiser	shure	earbud	koss	skullcandy	model	earphone	bose	
+sound	headset	tv	home	phone	wireless	radio	static	room	system	
+noise	volume	loud	control	background	level	conversation	distortion	low	high	
+sound	bass	clear	speaker	equalizer	crisp	treble	mid	midrange	clarity	
+ear	pair	phone	earbud	earphone	head	bud	shure	bose	skullcandy	
+review	star	reason	kind	reviewer	fact	research	positive	due	full	
+ipod	audio	player	cable	case	amp	output	portable	computer	device	
+comfortable	sound	battery	comfort	bass	easy	hour	pro	con	discomfort	
+cord	short	plug	long	wire	side	extension	left	length	heavy	
+sound	high	bass	low	range	higher	speaker	end	mid	frequency	
+music	sound	bass	song	speaker	audiophile	equalizer	type	rock	classical	
+ear	head	size	earbud	fit	small	bud	large	earphone	big	
+average coherence	-1526.7628123062739

@@ -1,0 +1,16 @@
+display	size	line	screen	crt	computer	control	high	resolution	inch	
+display	size	screen	line	crt	control	resolution	computer	inch	high	
+gps	device	watch	receiver	garmin	size	computer	minute	level	model	
+display	size	line	screen	crt	control	resolution	computer	inch	high	
+display	size	line	computer	high	screen	resolution	crt	level	garmin	
+display	size	line	screen	computer	crt	high	resolution	control	inch	
+display	size	line	computer	high	screen	crt	resolution	control	level	
+display	size	line	screen	resolution	computer	inch	crt	high	control	
+size	display	line	computer	high	resolution	screen	inch	crt	control	
+display	size	line	screen	computer	resolution	high	inch	crt	control	
+display	size	line	screen	computer	high	crt	resolution	inch	level	
+display	size	line	screen	computer	crt	resolution	inch	high	control	
+display	size	line	screen	crt	computer	resolution	inch	high	garmin	
+display	size	line	screen	crt	computer	control	high	resolution	inch	
+display	size	screen	line	crt	control	text	computer	resolution	inch	
+average coherence	-1670.1080526206256

@@ -1,0 +1,16 @@
+bag	power	mouse	screen	cord	light	inch	bottom	size	case	
+power	bag	mouse	screen	cord	light	inch	bottom	size	case	
+power	bag	mouse	screen	cord	light	inch	bottom	keyboard	size	
+power	bag	screen	mouse	cord	light	inch	keyboard	pad	bottom	
+power	bag	cord	mouse	screen	light	inch	case	keyboard	bottom	
+bag	power	mouse	cord	screen	light	inch	bottom	size	pad	
+screen	bag	power	mouse	light	cord	inch	bottom	size	keyboard	
+bag	power	screen	mouse	light	cord	inch	keyboard	case	big	
+power	bag	mouse	screen	cord	light	inch	keyboard	size	bottom	
+power	bag	mouse	screen	cord	light	inch	keyboard	case	size	
+power	bag	mouse	screen	cord	light	inch	keyboard	case	bottom	
+power	bag	screen	mouse	light	cord	inch	keyboard	size	pad	
+power	bag	cord	mouse	screen	light	inch	size	big	bottom	
+battery	hour	power	bag	screen	mouse	cord	light	keyboard	inch	
+power	bag	cord	mouse	screen	light	inch	keyboard	case	size	
+average coherence	-1575.6634844594116

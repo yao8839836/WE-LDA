@@ -1,0 +1,16 @@
+computer	usb	system	home	laptop	port	theater	room	desktop	works	
+remote	harmony	universal	control	ir	rf	code	logitech	function	mute	
+keyboard	key	mouse	arrow	small	size	number	space	large	arc	
+cable	hdmus	comcast	coaxial	monitor	hdmi	box	vga	component	monster	
+tv	dvd	player	receiver	dvr	input	television	component	sony	av	
+audio	output	input	switch	optical	component	digital	analog	rca	dolby	
+device	hauppauge	signal	picture	star	high	job	gameplay	reason	mac	
+button	screen	light	press	command	menu	black	select	hand	top	
+sound	battery	speaker	gaming	bass	microphone	pack	charge	channel	headphone	
+controller	game	pc	movie	hard	youtube	drive	netflix	console	wireless	
+hd	pvr	hdtv	directv	box	hauppauge	dvr	cable	tv	device	
+price	expensive	worth	money	cheap	cost	big	power	buck	microsoft	
+video	format	file	movie	playback	program	hour	minute	recording	review	
+software	driver	windows	vista	media	center	microsoft	xp	arcsoft	version	
+easy	simple	setup	review	intuitive	quick	solution	user	breeze	installation	
+average coherence	-1412.9491088468683

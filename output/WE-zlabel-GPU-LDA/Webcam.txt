@@ -1,0 +1,16 @@
+conferencing	video	movie	dell	format	desktop	flat	monitor	lcd	laptop	
+streaming	tv	bottom	edge	zoom	hd	line	located	plastic	cover	
+high	definition	low	resolution	level	connection	auto	broadband	frame	max	
+support	minute	helpful	technical	seconds	person	tech	movement	box	customer	
+price	sale	purchase	cost	cheaper	buy	skeptical	expectation	dollar	buck	
+logitech	lifecam	similar	microsoft	experience	website	quickcam	current	labs	choice	
+clear	clarity	picture	beautiful	headset	sharp	microphone	speaker	clearer	blurry	
+dark	light	dim	bright	green	red	lighting	ability	feature	friendly	
+core	pentium	amd	intel	processor	ram	ghz	extension	cord	gig	
+simple	setup	super	intuitive	quick	easy	breeze	smaller	easier	step	
+chat	gmail	facebook	skype	yahoo	cam	pic	application	conferencing	firmware	
+computer	usb	system	menu	operating	con	device	mini	external	condition	
+sharpness	sharp	contrast	image	creative	color	detail	site	brightness	web	
+expensive	money	review	negative	glad	latest	older	newer	research	dollar	
+software	driver	os	xp	windows	enclosed	mac	linux	ubuntu	compatible	
+average coherence	-1257.034820709571

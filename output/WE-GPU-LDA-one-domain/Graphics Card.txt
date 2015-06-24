@@ -1,0 +1,16 @@
+higher	extra	stock	radeon	compatible	lower	oc	full	huge	edition	
+radeon	stock	extra	aa	higher	huge	hdd	compatible	lower	previous	
+radeon	huge	stock	lower	higher	extra	aa	compatible	improvement	amount	
+radeon	extra	stock	compatible	higher	previous	hdd	lower	huge	edition	
+extra	higher	compatible	huge	previous	edition	lower	radeon	stock	pcie	
+higher	huge	radeon	lower	extra	stock	compatible	full	amount	aa	
+extra	edition	compatible	previous	stock	radeon	lower	huge	program	improvement	
+extra	radeon	higher	stock	huge	compatible	lower	processor	previous	improvement	
+higher	extra	compatible	huge	radeon	stock	previous	lower	aa	amount	
+extra	higher	compatible	lower	previous	stock	edition	radeon	huge	full	
+aa	higher	huge	radeon	extra	hdd	compatible	previous	lower	ssd	
+higher	radeon	stock	huge	extra	compatible	lower	full	improvement	hdd	
+extra	radeon	huge	stock	compatible	higher	lower	previous	aa	hdd	
+higher	radeon	stock	extra	huge	full	compatible	lower	oc	previous	
+higher	extra	radeon	compatible	stock	full	huge	oc	previous	lower	
+average coherence	-1471.2541314479938

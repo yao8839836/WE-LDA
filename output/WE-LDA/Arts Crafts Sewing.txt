@@ -1,0 +1,16 @@
+metal	tape	piece	plastic	place	cardboard	front	side	cheap	aluminum	
+small	space	inch	plenty	room	bigger	area	length	half	wide	
+scissors	pair	christmas	fiskars	shears	kitchen	birthday	favorite	friend	fun	
+medium	smaller	size	larger	normal	large	bigger	wide	fit	older	
+negative	extra	review	money	reason	chance	website	purchase	satisfied	total	
+color	blue	pink	red	orange	darker	yellow	hook	gold	kit	
+easy	hand	punch	hole	scissors	quilt	white	kid	red	job	
+regular	line	hard	point	top	process	finger	kind	part	front	
+layer	rubber	thick	fabric	material	soft	stiff	duty	strong	grip	
+printer	ink	paper	sheet	thin	label	roll	pen	refill	pencil	
+rotary	cutter	circle	olfa	quilting	martelli	ruler	quilter	fiskar	mundial	
+backing	sketchbook	cardstock	adhesive	crafter	laminate	card	sticker	scrapbook	machine	
+blade	edge	knife	sharp	straight	cut	dull	steel	bone	dishwasher	
+book	picture	glue	letter	image	actual	artwork	clear	attention	page	
+cost	local	cheaper	order	buy	shipping	buck	dollar	price	vendor	
+average coherence	-130.4685867829654

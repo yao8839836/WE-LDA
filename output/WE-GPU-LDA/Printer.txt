@@ -1,0 +1,16 @@
+wizard	parallel	multiple	witch	separate	networked	login	computer	pc	complex	
+printers	adf	multus	borderless	faxing	crooked	duplex	copier	photosmart	ocr	
+multus	printers	adf	borderless	crooked	duplex	faxing	copier	photosmart	artisan	
+multus	cartidge	crooked	borderless	adf	printers	fortune	copier	grayscale	brochure	
+multus	cartidge	fortune	adf	crooked	borderless	printers	artisan	workforce	cartrige	
+multus	crooked	adf	printers	borderless	copier	cartidge	faxing	fortune	duplex	
+multus	printers	adf	borderless	crooked	copier	cartidge	faxing	artisan	lexmark	
+multus	cartidge	fortune	adf	crooked	borderless	printers	artisan	workforce	brochure	
+multus	crooked	borderless	adf	cartidge	printers	fortune	brochure	faxing	grayscale	
+cartidge	multus	fortune	printers	artisan	borderless	workforce	lexmark	crooked	cartrige	
+multus	cartidge	borderless	fortune	artisan	adf	crooked	printers	workforce	lexmark	
+multus	cartidge	fortune	adf	borderless	printers	artisan	crooked	workforce	lexmark	
+cartidge	multus	fortune	borderless	artisan	adf	workforce	printers	cartrige	crooked	
+cartidge	multus	fortune	artisan	grayscale	workforce	borderless	pigment	cartrige	crooked	
+grayscale	cartidge	papers	multus	neutral	fortune	crooked	printout	pigment	draft	
+average coherence	-1136.4854730969003

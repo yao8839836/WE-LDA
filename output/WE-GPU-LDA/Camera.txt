@@ -1,0 +1,16 @@
+purchase	chance	glad	today	replacement	disappointed	opinion	research	cheaper	expensive	
+ability	option	multiple	format	capability	file	program	addition	device	jpg	
+ability	image	picture	jpg	variety	text	acceptable	format	display	option	
+image	display	picture	ability	text	acceptable	zoom	colorful	variety	color	
+image	picture	zoom	text	display	colorful	acceptable	jpg	detail	color	
+image	picture	text	colorful	acceptable	zoom	detail	jpg	color	display	
+image	picture	colorful	zoom	text	acceptable	focus	shot	display	photograph	
+image	colorful	photograph	zoom	picture	focus	blurry	object	shot	acceptable	
+image	colorful	photograph	zoom	shot	object	focus	subject	blurry	saturation	
+object	subject	colorful	image	blurry	photograph	shadow	saturation	focus	daylight	
+subject	blurry	shadow	object	megapixel	saturated	daytime	daylight	saturation	grainy	
+megapixel	subject	shadow	photograph	object	blurry	photographer	daytime	saturated	exposure	
+megapixel	subject	crop	daytime	blur	hdr	photographer	exposure	landscape	saturated	
+subject	blur	hdr	exposure	metering	flower	object	daytime	saturated	landscape	
+scenery	blur	crowd	hdr	shaky	metering	nightshot	af	stabilizer	wildlife	
+average coherence	-1304.5282324235907

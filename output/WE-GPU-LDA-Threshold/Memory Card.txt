@@ -1,0 +1,16 @@
+price	shipping	seller	purchase	cheaper	actual	customer	standard	charge	order	
+size	device	storage	capacity	disk	type	computer	tiny	works	total	
+review	small	feature	easy	deal	star	big	performance	bag	description	
+picture	pic	chip	room	sony	number	couple	support	house	resolution	
+video	canon	hd	space	full	hour	movie	seconds	minute	plenty	
+photo	scanner	quick	easy	box	line	color	white	real	delivery	
+qd	read	iop	sequential	random	gb	test	large	adaptor	windows	
+phone	music	samsung	player	blackberry	cell	computer	app	chip	works	
+digital	point	extra	money	battery	book	fuji	black	life	important	
+case	sd	pelican	plastic	insert	place	hard	cheap	sleeve	solid	
+sd	adapter	reader	micro	microsd	usb	laptop	package	slot	computer	
+file	image	raw	format	software	result	reason	cost	wrong	photography	
+sandisk	sdhc	gb	flash	extreme	version	fast	worth	free	drive	
+mode	setting	shot	zoom	light	exr	high	shooting	low	condition	
+speed	class	fast	datum	transfer	slow	model	super	higher	rate	
+average coherence	-1332.9785685842091

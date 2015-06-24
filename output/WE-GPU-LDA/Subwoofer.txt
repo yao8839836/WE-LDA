@@ -1,0 +1,16 @@
+purchase	sale	glad	research	chance	disappointed	opinion	cheaper	dollar	manufacturer	
+basslink	paradigm	athena	klipsch	velodyne	compliment	tsi	boomy	powered	stereo	
+basslink	athena	boomy	paradigm	stereo	compliment	speaker	tsi	klipsch	cerwin	
+basslink	athena	tsi	speaker	boomy	paradigm	stereo	compliment	klipsch	cerwin	
+basslink	boomy	athena	speaker	tsi	klipsch	paradigm	bic	compliment	cerwin	
+basslink	tsi	speaker	stereo	athena	paradigm	boomy	cerwin	klipsch	compliment	
+basslink	tsi	boomy	athena	speaker	klipsch	bic	bazooka	stereo	paradigm	
+stereo	compliment	athena	tsi	speaker	paradigm	separate	basslink	receiver	source	
+basslink	tsi	stereo	speaker	cerwin	athena	lfe	paradigm	bic	compliment	
+basslink	tsi	boomy	athena	bazooka	bic	cerwin	klipsch	speaker	woofer	
+basslink	boomy	athena	tsi	bazooka	bic	klipsch	speaker	woofer	paradigm	
+basslink	boomy	bazooka	woofer	tsi	bic	klipsch	athena	speaker	cerwin	
+boomy	basslink	bazooka	athena	bic	woofer	tsi	klipsch	cerwin	speaker	
+boomy	woofer	basslink	bazooka	bic	athena	klipsch	underpowered	tweeter	tinny	
+woofer	bookshelf	crossover	boomy	punch	acoustic	bazooka	tweeter	klipsch	tinny	
+average coherence	-1159.5317173016604

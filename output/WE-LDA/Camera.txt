@@ -1,0 +1,16 @@
+dark	dim	glow	led	bright	blue	light	yellow	sun	sunlight	
+level	high	loud	low	resolution	background	max	definition	point	conversation	
+left	line	front	bottom	case	plastic	side	junk	lens	feature	
+nex	nikon	minolta	cameras	slr	olympus	cybershot	shoot	fuji	dslr	
+format	recording	vcr	playback	driver	video	windows	vhs	compatible	dv	
+charger	battery	computer	laptop	usb	av	cable	input	ac	hdmus	
+compact	small	lightweight	tiny	bulky	convenient	hand	larger	large	bigger	
+sharp	colorful	vivid	image	text	lcd	color	sample	screen	contrast	
+sdhc	slot	card	storage	reader	internal	memory	cf	gig	gb	
+sony	expensive	canon	extra	brother	sale	dont	satisfied	cheaper	complete	
+landscape	steady	shot	portrait	succession	subject	blur	exposure	shake	hdr	
+picture	video	photo	easy	setting	feature	digital	favorite	kid	road	
+angle	cap	zoom	body	wider	cover	filter	hood	telephoto	uv	
+review	comment	positive	research	rating	repair	period	consumer	customer	service	
+mode	intuitive	menu	user	press	control	option	button	function	instruction	
+average coherence	-134.86160767811583

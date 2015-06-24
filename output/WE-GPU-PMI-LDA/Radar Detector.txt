@@ -1,0 +1,16 @@
+car	windshield	cup	suction	bracket	police	dash	dashboard	charger	couple	
+band	ka	police	officer	gun	warning	car	patrol	laser	cop	
+signal	strength	side	front	bar	top	antenna	line	rear	bottom	
+feature	volume	voice	mute	alert	level	annoying	loud	button	control	
+ticket	speeding	driver	cop	mile	road	long	range	drive	laser	
+cop	mile	road	laser	gun	trip	hill	patrol	distance	lidar	
+speed	trap	limit	fast	trooper	plenty	mph	cop	mile	enforcement	
+price	model	money	expensive	extra	older	worth	cheaper	previous	buck	
+device	iphone	phone	iradar	app	case	gp	cobra	user	android	
+false	alarm	threat	autoscan	detection	alert	band	range	warning	pop	
+highway	city	mode	driving	area	door	setting	auto	place	instant	
+display	feature	light	mode	dark	setting	night	bright	blue	option	
+escort	bel	valentine	redline	detection	vector	range	beltronics	whistler	performance	
+cord	power	easy	plug	vehicle	battery	wire	short	simple	quick	
+beltronics	bel	whistler	escort	cobra	valentine	review	vector	sti	service	
+average coherence	-1529.1988007684579

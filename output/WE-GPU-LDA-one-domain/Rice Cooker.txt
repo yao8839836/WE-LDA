@@ -1,0 +1,16 @@
+easy	lid	clean	cord	pot	top	steamer	warm	steam	simple	
+brown	white	minute	grain	long	type	setting	button	jasmine	sushi	
+lid	easy	clean	top	pot	cord	steamer	warm	simple	steam	
+lid	pot	easy	clean	top	cord	steamer	steam	warm	logic	
+lid	easy	clean	cord	pot	top	steamer	warm	steam	simple	
+cup	uncooked	measure	full	water	vegetable	line	measurement	mark	inside	
+easy	clean	cord	lid	pot	top	steamer	warm	simple	steam	
+small	size	mess	lid	easy	counter	top	clean	kitchen	pot	
+water	bottom	lid	easy	clean	top	instruction	pot	cord	steamer	
+easy	clean	lid	cord	pot	top	steamer	warm	simple	steam	
+lid	easy	clean	pot	cord	top	steamer	warm	steam	simple	
+easy	clean	lid	cord	pot	top	steamer	warm	simple	steam	
+timer	meal	hour	oatmeal	feature	slow	machine	ready	porridge	function	
+cup	uncooked	measure	full	capacity	bigger	machine	plastic	low	smaller	
+price	review	model	zojirushi	aroma	black	sanyo	worth	decker	expensive	
+average coherence	-1578.120590332351

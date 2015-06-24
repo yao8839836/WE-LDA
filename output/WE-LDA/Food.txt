@@ -1,0 +1,16 @@
+flavor	butter	chocolate	tart	cookie	oatmeal	moist	green	cream	crunchy	
+meal	rice	flour	pasta	gf	closest	gravy	muffin	pamela	sesame	
+sweet	ingredient	healthy	roasted	subtle	nutritious	cereal	creamy	onion	aftertaste	
+sodium	diet	fat	taste	fiber	protein	allergic	hungry	eating	carb	
+honey	snack	teaspoon	organic	cheese	pineapple	healthier	creamy	juice	crunchy	
+tea	bag	smaller	larger	stuff	favorite	regular	pack	normal	space	
+price	review	high	star	higher	case	grocery	line	piece	smooth	
+delicious	fruity	coffee	keurig	sweetness	moist	plum	sugar	bitter	spice	
+olive	coconut	rosemary	beef	sauce	meat	bread	cooking	chicken	fruit	
+garlic	salt	soup	brew	vinegar	fruity	stove	coffee	raspberry	sauce	
+present	cost	christmas	prime	expensive	purchase	market	buck	dollar	order	
+bean	homemade	extract	strawberry	sugar	cinnamon	free	raspberry	aroma	sweetness	
+cow	almond	yummy	tetra	substitute	cold	winter	drink	corn	tasting	
+blueberry	tasty	pamela	caffeine	herbal	chamomile	mix	muffin	waffle	iced	
+box	ready	hot	entire	package	process	couple	hour	simple	quick	
+average coherence	-128.2644567946471

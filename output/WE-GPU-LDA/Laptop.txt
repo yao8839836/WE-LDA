@@ -1,0 +1,16 @@
+related	amd	edition	asus	requirement	osx	ibook	ibm	dimm	ubuntu	
+pc	management	compatibility	compatible	program	download	contents	device	ubuntu	client	
+addition	pc	multiple	device	management	ability	itunes	folder	option	separate	
+choice	purchase	chance	cheaper	past	research	today	fact	expensive	opinion	
+expensive	cheaper	purchase	opinion	chance	dollar	choice	research	cost	disappointed	
+fact	longer	addition	real	long	choice	battery	inexpensive	regular	worse	
+fact	longer	addition	inexpensive	separate	choice	convenient	alot	bulky	long	
+pouch	bulky	inexpensive	fact	convenient	separate	longer	addition	pocket	zipper	
+pouch	bulky	zipper	pencil	portion	heavy	convenient	back	pocket	careful	
+bulky	pouch	zipper	portion	pencil	heavy	briefcase	thick	padding	thin	
+pencil	zipper	briefcase	bulky	pouch	portion	thick	padding	padded	thin	
+zipper	briefcase	pencil	thick	padded	portion	padding	pouch	thin	backpack	
+zipper	pencil	thick	portion	briefcase	padding	padded	thin	pouch	body	
+pencil	portion	briefcase	padding	zipper	thick	body	padded	thin	backpack	
+padding	briefcase	padded	pencil	zipper	portion	body	backpack	thick	interior	
+average coherence	-1105.2747641165709

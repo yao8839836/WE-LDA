@@ -1,0 +1,16 @@
+klipsch	bic	bose	denon	cube	rock	hop	hip	acoustic	bookshelf	
+small	bigger	pocket	compact	smaller	large	cute	size	larger	hand	
+front	located	hole	line	metal	arm	back	edge	curse	bottom	
+positive	negative	comment	glad	review	rating	expensive	purchase	money	extra	
+sound	simple	setup	quick	super	sleek	cheap	easy	pro	wire	
+red	light	bright	lcd	green	dark	monitor	color	orange	indicator	
+plug	hub	mini	usb	computer	extension	wireless	aaa	life	adapter	
+station	clock	reception	radio	ipod	tuner	alarm	music	player	ihome	
+cell	conference	phone	intercom	handset	headset	person	voip	acute	rep	
+sound	price	defective	policy	vendor	label	refund	question	shipping	delivery	
+system	operating	genre	entertainment	computer	library	music	pc	podcast	sd	
+basement	room	ceiling	dorm	kitchen	apartment	bedroom	house	plenty	concrete	
+output	jack	input	stereo	female	male	audio	yamaha	channel	aux	
+mute	control	puck	volume	menu	button	press	intuitive	adjustment	difficult	
+distortion	midrange	bass	vocal	mid	boomy	high	rich	frequency	musical	
+average coherence	-126.2891408382478

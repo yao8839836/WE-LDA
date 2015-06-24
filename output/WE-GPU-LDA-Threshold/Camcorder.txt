@@ -1,0 +1,16 @@
+video	picture	photo	film	clear	user	professional	friend	kid	purchase	
+screen	lcd	color	button	menu	viewfinder	con	large	touch	black	
+video	software	movie	editing	dvd	home	hd	pc	file	mac	
+battery	hour	life	minute	charger	power	long	extra	short	additional	
+card	memory	video	hd	hard	sd	stick	high	flash	drive	
+tape	digital	dv	format	line	minidv	analog	standard	vhs	head	
+video	computer	cable	firewire	tv	usb	port	footage	pc	connection	
+easy	small	size	hand	cam	compact	smaller	pro	function	weight	
+canon	lens	review	elura	zr	model	wide	angle	star	research	
+light	low	picture	grainy	daylight	condition	indoor	lighting	outdoor	accessory	
+sony	panasonic	jvc	handycam	model	trv	service	cost	repair	customer	
+mode	shot	feature	manual	night	setting	focus	slow	shaky	control	
+noise	sound	audio	motor	recording	playback	mic	microphone	external	input	
+zoom	digital	image	picture	effect	optical	stabilization	tripod	mega	telephoto	
+price	feature	money	picture	range	option	expensive	worth	similar	fun	
+average coherence	-1535.6268101084013

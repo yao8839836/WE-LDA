@@ -1,0 +1,16 @@
+purchase	chance	opinion	expensive	today	cheaper	research	consumer	comparison	mind	
+choice	trouble	online	capability	idea	roku	directv	dvr	archive	panasonic	
+roku	directv	program	archive	content	xbox	episode	dvr	stream	tv	
+stream	content	streaming	roku	archive	episode	program	xbox	slideshow	live	
+stream	roku	streaming	content	episode	program	shared	playon	xbox	netflix	
+stream	streaming	content	episode	roku	shared	program	playon	nas	archive	
+stream	streaming	roku	content	shared	episode	playon	dlna	program	pandora	
+stream	shared	playon	nas	streaming	roku	dlna	share	content	program	
+stream	streaming	roku	episode	shared	content	dlna	playon	nas	xbox	
+stream	shared	streaming	roku	dlna	playon	nas	episode	content	share	
+stream	streaming	roku	shared	dlna	playon	episode	nas	content	share	
+stream	dlna	streaming	shared	playon	nas	roku	episode	content	napster	
+stream	streaming	roku	episode	dlna	content	wii	xbox	playon	shared	
+stream	dlna	streaming	roku	episode	wii	napster	hulu	gui	shared	
+bd	bluray	wii	avchd	wi	vieracast	dlna	demand	buffering	hulu	
+average coherence	-1289.9633519052443

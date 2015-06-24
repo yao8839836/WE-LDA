@@ -1,0 +1,16 @@
+radio	tuner	station	clock	preset	alarm	adapter	adaptor	reception	analog	
+cassette	tape	disk	hard	stero	shack	minute	cord	thumb	flash	
+model	older	repair	located	newer	money	extra	expensive	cheaper	cost	
+album	playlist	track	artist	song	music	collection	playing	shuffle	wma	
+control	button	intuitive	pause	arrow	start	knob	menu	simple	panel	
+price	socket	small	dollar	sale	cute	decision	compact	opinion	cost	
+kit	trip	question	kid	car	support	living	house	road	bed	
+bottom	cell	head	real	line	phone	programmable	information	call	ear	
+pair	earbud	jack	directory	folder	auxiliary	headphone	wma	wav	headset	
+counter	small	area	space	size	pocket	larger	compact	portable	bigger	
+mid	subwoofer	tinny	distortion	high	component	bass	rating	star	output	
+text	changer	progressive	lcd	bright	disc	color	dvd	display	pause	
+aa	rechargeable	hour	life	rechargable	battery	review	positive	quiet	christmas	
+sound	equalizer	lightweight	flimsy	speaker	audiophile	slot	option	light	sturdy	
+distortion	tone	level	treble	frequency	loud	library	volume	boost	tv	
+average coherence	-1213.0390282557223

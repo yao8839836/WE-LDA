@@ -1,0 +1,16 @@
+slot	sdhc	internal	storage	card	memory	reader	gb	chip	stick	
+sharp	bright	dark	dim	led	green	picture	light	backlight	clear	
+analog	noise	loud	digital	audible	background	windows	driver	output	os	
+tape	vcr	dv	voice	microphone	vh	nikon	recording	speaker	pinnacle	
+video	playback	viewfinder	menu	default	format	press	navigation	evf	auto	
+conversion	format	newer	older	rating	adobe	similar	previous	comparison	version	
+grainy	daylight	darker	condition	dim	subject	animal	higher	cam	impressive	
+steady	golf	motion	firewire	ieee	connectivity	english	minute	shot	instruction	
+expensive	sale	buck	extra	price	buy	con	cheaper	dollar	expectation	
+hour	charge	charger	rechargeable	life	av	pack	battery	hdmus	hr	
+optura	finger	palm	elura	zr	user	comfortable	hand	criterion	awkward	
+sony	angle	zoom	object	wider	telephoto	hood	jvc	filter	stabilization	
+feature	mode	theater	ability	normal	event	option	cleaning	impressed	report	
+lcd	screen	computer	desktop	widescreen	viewing	sunlight	flat	definition	hdtv	
+small	compact	convenient	lightweight	bigger	tiny	controls	hand	portable	large	
+average coherence	-1328.3126450135571

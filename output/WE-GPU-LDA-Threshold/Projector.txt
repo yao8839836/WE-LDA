@@ -1,0 +1,16 @@
+screen	wall	white	foot	big	inch	pixel	distance	wide	diagonal	
+video	computer	presentation	laptop	usb	display	pc	card	file	slide	
+ceiling	case	part	side	screw	instruction	piece	hard	tripod	due	
+bulb	hour	lamp	fan	life	mode	replacement	warranty	noise	quiet	
+cable	hdmus	hdmi	dvd	vga	dvi	input	player	video	adapter	
+color	black	dlp	brightness	level	contrast	effect	rainbow	lcd	sharpness	
+epson	review	service	customer	support	star	tech	technical	panasonic	company	
+tv	remote	box	control	screen	small	high	standard	review	projection	
+optoma	hd	power	device	battery	full	order	ready	glass	iphone	
+easy	feature	setting	clock	manual	setup	simple	alarm	lens	option	
+room	light	dark	small	bright	image	brightness	area	living	lumen	
+sound	speaker	system	money	audio	extra	portable	loud	source	decent	
+price	resolution	model	picture	cheap	point	expensive	infocus	deal	higher	
+picture	image	size	bright	clear	focus	large	sharp	con	text	
+movie	home	theater	game	night	experience	friend	kid	gaming	house	
+average coherence	-1528.699955287302

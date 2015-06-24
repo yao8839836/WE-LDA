@@ -1,0 +1,16 @@
+metal	flimsy	plastic	material	durable	thin	construction	affordable	cheap	thick	
+dark	light	generation	ipod	bright	green	lighting	blue	device	guitar	
+price	computer	pc	usb	expectation	dell	budget	desktop	sale	technology	
+conferencing	application	movie	minute	chat	linux	mac	hour	half	video	
+frequency	level	distortion	high	mid	playing	song	midrange	gain	inline	
+hesh	isolating	pair	headphone	skullcandy	shure	voice	iem	jack	vox	
+camera	easyn	foscam	zoom	clear	sharp	lens	acceptable	color	bright	
+bud	small	smaller	large	compact	discomfort	expensive	ear	blurry	picture	
+review	kinobo	positive	rating	star	android	chance	market	cubeternet	previous	
+xp	input	playback	windows	software	audio	os	driver	silicone	recording	
+background	audible	noise	cancellation	isolation	hiss	loud	quiet	static	website	
+cord	mute	control	loose	extension	wire	connector	button	accessory	jack	
+sound	bass	subwoofer	audiophile	muddy	superb	midrange	speaker	distortion	phone	
+ethernet	network	wireless	ip	admin	wifus	connection	cable	cheaper	led	
+mic	earpiece	canal	isolating	mouth	fitting	inline	rode	ear	lapel	
+average coherence	-1201.6425075807592

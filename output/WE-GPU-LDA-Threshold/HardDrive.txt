@@ -1,0 +1,16 @@
+speed	gb	sata	space	performance	transfer	reason	version	model	internal	
+screen	small	light	case	big	keyboard	top	side	plastic	end	
+case	external	storage	portable	size	quiet	extra	small	enclosure	compact	
+review	seagate	star	firmware	design	mine	purchase	site	simple	due	
+usb	cable	power	port	connection	cord	short	adapter	connector	plug	
+digital	western	wd	external	hd	tb	blue	passport	dvr	black	
+windows	system	device	xp	vista	driver	enclosure	error	compatible	linux	
+computer	file	datum	point	back	folder	friend	copy	machine	idea	
+dvd	hour	battery	video	music	movie	player	picture	program	tv	
+mac	disk	box	user	format	window	os	partition	instruction	machine	
+software	backup	easy	datum	space	wd	installation	free	setup	smartware	
+pc	laptop	computer	desktop	hp	home	replacement	network	dell	couple	
+machine	support	warranty	feature	tech	technical	sony	archos	number	wrong	
+price	minute	service	high	customer	fan	noise	deal	money	worth	
+laptop	card	intel	ram	sound	notebook	memory	toshiba	wireless	long	
+average coherence	-1500.415272430257

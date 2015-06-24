@@ -1,0 +1,16 @@
+consideration	cash	girl	videocam	canons	smallest	ccd	videographer	elura	vixia	
+object	daylight	subject	darker	grainy	saturation	blurry	dim	sharpness	church	
+object	dim	sun	lighting	church	darker	dark	subject	bright	daylight	
+bright	light	eye	object	dark	dim	sun	sufficient	lighting	church	
+bright	eye	image	acceptable	dark	object	display	effect	lighting	clarity	
+eye	bright	display	light	dark	medium	adequate	acceptable	wide	image	
+image	acceptable	display	picture	bright	effect	clarity	eye	adequate	crisp	
+image	picture	acceptable	display	ability	adequate	effect	color	real	zoom	
+ability	real	display	normal	adequate	picture	mode	easier	option	acceptable	
+ability	format	playback	picture	option	recording	video	real	record	capability	
+format	ability	playback	video	picture	option	recording	capability	audio	record	
+ability	format	playback	capability	option	video	choice	audio	addition	recording	
+ability	format	option	playback	capability	addition	audio	recording	record	recorder	
+pc	capture	ieee	format	device	file	computer	mt	conversion	playback	
+choice	purchase	past	today	cheaper	research	experience	online	brother	technology	
+average coherence	-1336.1341821271083

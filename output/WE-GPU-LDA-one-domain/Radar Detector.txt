@@ -1,0 +1,16 @@
+mode	strength	range	ipod	autoscan	ability	distance	screen	driving	quick	
+mode	ipod	range	strength	ability	distance	autoscan	sensitivity	screen	detection	
+mode	range	autoscan	strength	ipod	ability	quick	distance	driving	screen	
+mode	range	strength	ipod	distance	ability	autoscan	area	screen	signal	
+mode	ipod	range	strength	autoscan	screen	ability	driving	quick	distance	
+mode	range	ipod	strength	ability	screen	autoscan	distance	signal	area	
+mode	ipod	range	strength	autoscan	screen	ability	real	distance	quick	
+mode	strength	ipod	range	autoscan	screen	detection	ability	quick	sensitivity	
+mode	ipod	autoscan	range	strength	detection	screen	ability	sensitivity	feature	
+mode	strength	range	ipod	autoscan	ability	screen	quick	distance	detection	
+mode	ipod	range	strength	autoscan	ability	screen	quick	real	distance	
+mode	ipod	range	strength	autoscan	screen	ability	quick	distance	detection	
+mode	ipod	range	strength	autoscan	screen	ability	distance	real	quick	
+mode	range	ipod	strength	autoscan	ability	distance	sensitivity	screen	detection	
+mode	ipod	strength	range	ability	autoscan	distance	area	screen	signal	
+average coherence	-1499.0999826309305

@@ -1,0 +1,16 @@
+casio	model	citizen	expensive	cheaper	purchase	invicta	money	cost	older	
+strap	band	black	color	comfortable	box	beautiful	leather	white	face	
+invicta	diver	seiko	movement	automatic	swiss	rolex	quartz	omega	citizen	
+band	cheap	plastic	case	metal	steel	stainless	link	pin	clasp	
+easy	digital	simple	date	analog	display	instruction	intuitive	quick	manual	
+timex	review	gift	christmas	service	compliment	customer	mine	positive	guy	
+light	dark	blue	night	green	weight	easy	bright	heavy	red	
+alarm	feature	clock	timer	countdown	stopwatch	date	function	favorite	handy	
+hand	minute	hour	dial	seconds	number	big	half	glow	current	
+star	long	reason	everyday	style	piece	rating	due	dress	daily	
+face	button	glass	crystal	scratch	complaint	bezel	strong	top	back	
+accurate	design	durable	accuracy	con	pro	classic	inexpensive	sturdy	thin	
+battery	water	solar	charge	crown	resistant	life	version	indicator	original	
+wrist	size	small	large	smaller	big	larger	bigger	man	tiny	
+price	money	shipping	dollar	low	free	high	condition	buck	deal	
+average coherence	-1403.21681009468

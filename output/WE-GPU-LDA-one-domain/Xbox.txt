@@ -1,0 +1,16 @@
+sony	connection	selector	television	dvr	volume	source	toslink	nyrius	coaxial	
+sony	connection	television	selector	nyrius	source	volume	dvr	coaxial	toslink	
+sony	television	connection	selector	source	output	toslink	volume	composite	nyrius	
+sony	television	selector	connection	dvr	source	nyrius	volume	coaxial	big	
+sony	connection	dvr	television	selector	output	source	nyrius	volume	composite	
+sony	connection	selector	single	dvr	television	nyrius	simple	source	volume	
+sony	connection	television	selector	volume	source	dvr	nyrius	coaxial	single	
+sony	selector	connection	television	source	nyrius	volume	big	coaxial	dvr	
+game	keyboard	sony	connection	dvr	big	television	selector	coaxial	nyrius	
+sony	connection	television	selector	volume	source	dvr	nyrius	composite	output	
+sony	connection	selector	volume	television	source	nyrius	toslink	coaxial	output	
+sony	connection	television	selector	dvr	source	volume	nyrius	output	coaxial	
+sony	television	connection	selector	source	toslink	volume	dvr	nyrius	composite	
+sony	connection	television	selector	nyrius	source	dvr	output	coaxial	toslink	
+sony	connection	selector	television	volume	source	toslink	output	nyrius	composite	
+average coherence	-1355.8359287884632

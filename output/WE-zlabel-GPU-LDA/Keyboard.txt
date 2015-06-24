@@ -1,0 +1,16 @@
+dvr	review	dish	buck	glad	show	expensive	dollar	sale	cost	
+dark	bright	dim	glow	light	red	backlight	gray	green	purple	
+rating	volume	star	due	desk	space	game	storage	purpose	bed	
+router	wireless	market	android	entertainment	theater	system	google	search	operating	
+os	xp	windows	win	ubuntu	linux	port	room	kvm	hub	
+rechargeable	aaa	life	aa	charge	solar	hour	quick	battery	setup	
+shoulder	ipad	comfortable	compact	small	hand	pocket	pandora	bigger	larger	
+arrow	key	shift	ctrl	backspace	command	fn	layout	shortcut	macro	
+side	back	corner	pinky	edge	front	wheel	bottom	upper	located	
+mx	mouse	unifying	trackball	trackpoint	cordless	transceiver	responsive	touchpad	logitech	
+kb	backslash	simultaneous	esc	ergo	tech	enter	service	technical	loud	
+typing	mousepad	touch	responsive	pad	hard	sensitive	stroke	cursor	numeric	
+computer	hub	dongle	desktop	usb	pc	mini	adaptor	laptop	notebook	
+driver	software	latest	program	older	high	capability	option	dirt	feature	
+word	construction	ability	type	sleek	plastic	flimsy	format	silicon	design	
+average coherence	-1268.7689233349543

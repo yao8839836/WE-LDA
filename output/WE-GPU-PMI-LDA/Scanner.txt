@@ -1,0 +1,16 @@
+photo	lab	editing	pic	line	image	top	print	scanning	picture	
+print	setting	printing	scanning	high	speed	scan	fast	mode	resolution	
+price	review	expensive	money	star	job	reason	cost	point	dollar	
+ink	color	cartridge	black	print	printing	inkjet	bright	white	beautiful	
+epson	hp	canon	artisan	workforce	microtek	experience	long	brother	warranty	
+software	driver	file	program	format	photoshop	type	silverfast	free	adobe	
+card	size	office	small	business	large	home	space	receipt	sd	
+document	scanning	page	scan	adf	feeder	pdf	book	word	copy	
+software	windows	driver	mac	xp	vista	linux	version	user	system	
+support	hp	number	error	epson	email	canon	customer	tech	phone	
+paper	tray	jam	sheet	envelope	feed	piece	box	side	cheap	
+easy	simple	quick	setup	manual	instruction	installation	intuitive	minute	process	
+slide	negative	film	image	picture	positive	text	detail	holder	digital	
+computer	usb	wireless	laptop	network	cable	power	router	pc	hub	
+machine	fax	feature	button	copy	scan	copier	scanning	option	document	
+average coherence	-1547.125561167824

@@ -1,0 +1,16 @@
+oven	turntable	convection	inverter	cuisinart	interior	cooking	food	technology	cu	
+price	star	cost	shipping	expensive	box	return	free	money	number	
+feature	cooking	food	cook	sensor	reheat	function	timer	inverter	leftovers	
+power	level	cooking	food	high	low	watt	setting	outlet	cook	
+heat	powerful	heating	loud	job	fan	quiet	hot	long	noise	
+review	panasonic	positive	prestige	research	manual	model	instruction	user	heavy	
+popcorn	frozen	potato	cooking	cook	unpopped	food	bag	sensor	soup	
+panasonic	warranty	service	repair	replacement	appliance	part	company	customer	samsung	
+easy	dial	control	knob	simple	quick	keypad	intuitive	panel	clean	
+button	minute	seconds	press	menu	start	hour	ready	process	knob	
+stainless	steel	top	plastic	trim	line	bottom	kit	side	metal	
+door	open	light	opener	blue	display	hard	sticker	dark	complaint	
+kitchen	size	large	space	counter	small	cabinet	smaller	larger	room	
+size	large	small	big	plate	space	larger	smaller	huge	glass	
+model	ge	sharp	previous	spacemaker	older	home	cheaper	design	similar	
+average coherence	-1454.9045036096823

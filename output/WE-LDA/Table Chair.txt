@@ -1,0 +1,16 @@
+arm	seat	leg	option	fact	effort	user	easy	ability	height	
+front	lean	lumbar	rest	head	flat	support	position	seat	uncomfortable	
+color	yellow	black	green	blue	bright	girl	white	red	granddaughter	
+size	hardware	stool	job	tool	foot	price	drill	driver	big	
+sturdy	construction	lightweight	material	super	durable	attractive	solid	strong	ease	
+assembly	instruction	minute	direction	quick	clean	easy	setup	sturdy	simple	
+wrench	bench	hole	driver	attachment	screw	nut	washer	tiny	hex	
+positive	part	negative	review	previous	chance	future	version	online	today	
+comfortable	float	comfort	lounge	soft	summer	pool	period	water	pain	
+small	bigger	space	kid	narrow	taller	grandmother	kitchen	plenty	large	
+expensive	dollar	cost	high	money	cheaper	local	shipping	similar	total	
+office	home	room	hour	friend	computer	run	game	car	night	
+birthday	christmas	customer	kidkraft	sister	mom	present	company	favorite	service	
+cosco	step	sturdier	retro	stool	picture	seating	box	decor	grandma	
+metal	wood	thin	brace	flimsy	cheap	piece	board	finish	smooth	
+average coherence	-132.58006204318497

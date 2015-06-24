@@ -1,0 +1,16 @@
+reading	purse	airport	accurate	measurement	accuracy	suitcase	travel	pocket	space	
+protectant	lip	barber	wahl	supplement	nasal	cherry	burn	candizyme	clipper	
+side	back	top	bottom	seat	line	head	type	open	base	
+cleaner	paper	place	piece	sheet	pain	finger	stuff	kit	container	
+customer	cost	expensive	buck	shipping	service	extra	cheaper	money	delivery	
+pedometer	omron	pc	software	count	datum	windows	compatible	goal	progress	
+smaller	small	room	space	regular	living	large	window	floor	size	
+noise	machine	sound	skin	fan	count	aerobic	workout	white	pants	
+star	negative	comment	review	experience	reviewer	user	option	ability	setup	
+pink	color	choice	sharp	thin	sturdy	smell	white	clean	loose	
+loud	marpac	pitch	high	noisy	control	sleepmate	quiet	speed	hum	
+scale	voyager	baggage	airline	limit	easy	price	baby	eatsmart	doctor	
+limit	lb	step	airline	pound	baggage	airport	suitcase	weight	daily	
+sleep	bed	middle	morning	hot	night	weather	summer	christmas	cat	
+alkaline	duracell	aa	battery	cell	life	power	minute	flashlight	display	
+average coherence	-119.24018562191769

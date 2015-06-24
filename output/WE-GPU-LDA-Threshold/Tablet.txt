@@ -1,0 +1,16 @@
+device	battery	hour	life	wifus	wifi	long	home	charge	minute	
+laptop	photo	pc	feature	experience	note	printer	windows	reason	fact	
+usb	cable	port	full	power	hard	computer	adapter	charger	tv	
+ipad	stylus	apple	review	iphone	tip	xoom	finger	rubber	buy	
+phone	card	device	file	sd	wireless	bluetooth	headset	memory	media	
+easy	small	size	light	hand	big	space	large	design	area	
+app	android	market	kindle	google	book	reader	free	nook	color	
+archos	android	software	user	xoom	version	os	website	firmware	driver	
+pen	mouse	wacom	button	program	easier	nib	surface	paper	pad	
+sound	speaker	computer	radio	panda	cord	control	volume	portable	room	
+case	keyboard	thrive	cover	toshiba	top	place	angle	bottom	back	
+video	music	game	email	web	internet	browser	movie	slow	youtube	
+screen	touch	responsive	con	pro	black	feature	option	display	fingerprint	
+player	flash	camera	support	side	customer	inch	galaxy	tab	service	
+price	review	money	purchase	cheap	star	worth	company	gift	expensive	
+average coherence	-1517.625337072338

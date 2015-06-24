@@ -1,0 +1,16 @@
+high	carpet	machine	loud	position	low	hard	located	level	adjustment	
+hose	extension	attachment	cigarette	retractable	outlet	socket	plug	cord	back	
+job	furniture	powerful	area	dog	chair	linoleum	curtain	carpeting	stair	
+cat	hardwood	baseboard	rug	carpeting	brush	grass	hair	vinyl	debris	
+floor	sq	house	laminate	pedal	mud	carpet	ceiling	room	hardwood	
+plastic	metal	upright	thin	housing	flimsy	cover	edge	piece	cheap	
+expensive	dollar	cost	extra	glad	tax	cheaper	complete	buy	money	
+minute	process	seconds	quick	instruction	ready	booklet	start	easier	super	
+heavy	bulky	con	lb	strap	lightweight	maneuverability	sofa	neck	weight	
+customer	question	repair	dealer	eureka	shipping	service	tax	seller	replacement	
+vac	dark	power	suction	maneuverable	car	battery	small	bright	long	
+canister	debris	twist	buster	clump	bin	hair	miele	dust	dirt	
+bag	filter	easy	suction	clean	dust	dirt	tool	pet	hepa	
+consumer	positive	review	research	report	rating	comment	decision	star	online	
+older	newer	model	cleaner	expensive	similar	cheaper	version	technology	series	
+average coherence	-137.42280830227043

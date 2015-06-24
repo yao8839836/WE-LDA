@@ -1,0 +1,16 @@
+money	cost	expensive	satisfied	cheaper	extra	total	rating	delivery	high	
+club	shot	challenge	trajectory	spin	laser	score	golfer	fairway	pinseeker	
+rechargeable	alkaline	battery	aa	charger	lithium	spare	dim	power	compartment	
+gamer	game	christmas	birthday	addition	tiger	psp	gameplay	dad	player	
+pin	yard	bunker	hazard	sprinkler	distance	object	gps	flagstick	flag	
+gp	gps	garmin	golfer	sight	fee	caddy	handicap	cart	convenient	
+yardage	flag	finder	trajectory	leupold	digit	reticle	flagstick	target	range	
+glove	worn	orientation	strong	sturdy	feel	construction	thin	material	durable	
+slope	laser	pinseeker	tournament	leupold	bushnell	target	yardage	yd	readout	
+easy	blue	bright	price	accurate	distance	hole	green	net	pink	
+ball	tennis	wiffle	chromax	marker	metallic	callaway	trajectory	putt	backyard	
+bag	round	ready	tee	tool	short	minute	life	longer	couple	
+smaller	finger	pair	small	length	larger	size	sock	large	difficult	
+bottom	line	side	head	base	flat	corner	front	handed	metal	
+touch	glare	ability	screen	feature	display	focus	user	clip	case	
+average coherence	-128.6011286013558

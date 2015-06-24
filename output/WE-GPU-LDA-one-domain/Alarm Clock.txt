@@ -1,0 +1,16 @@
+button	easy	light	dark	night	room	snooze	display	large	side	
+button	easy	light	dark	night	room	display	feature	large	snooze	
+button	easy	light	dark	night	room	display	snooze	large	backlight	
+button	easy	light	dark	night	morning	bed	room	sleeper	hard	
+button	easy	light	dark	night	travel	feature	size	review	room	
+battery	radio	power	digital	price	atomic	model	cheap	function	cd	
+button	easy	light	dark	night	room	feature	display	snooze	large	
+button	easy	light	dark	night	room	feature	snooze	display	large	
+button	easy	feature	light	dark	night	face	travel	room	color	
+button	feature	easy	light	dark	night	hour	minute	small	room	
+sound	loud	volume	noise	machine	white	short	sleep	level	soother	
+button	easy	light	night	dark	room	feature	display	large	snooze	
+number	button	easy	star	light	dark	night	room	feature	big	
+button	easy	light	dark	night	room	bright	display	feature	large	
+button	easy	light	night	dark	room	feature	side	display	large	
+average coherence	-1641.1315872031587

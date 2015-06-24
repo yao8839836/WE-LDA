@@ -1,0 +1,16 @@
+minute	half	flimsy	plastic	sleek	lightweight	outlet	attractive	ac	con	
+living	travel	bedroom	kitchen	kid	room	ceiling	guest	fun	everyday	
+audible	loud	sound	speaker	display	stereo	readable	hearing	level	eye	
+back	front	located	side	switch	arm	position	hand	loose	left	
+timer	knob	dial	job	level	floor	trouble	automatic	frequency	line	
+christmas	instruction	dst	gift	present	mom	direction	birthday	darth	father	
+light	dark	dim	glow	bright	sun	red	green	indicator	lighting	
+tuner	radio	station	analog	preset	idea	digital	real	wrong	reviewer	
+table	number	desk	bed	doctor	morning	extra	worth	kid	rainforest	
+button	push	simple	small	easy	menu	intuitive	interface	convenient	setup	
+brightness	lowest	mode	background	auto	brighter	option	feature	noise	cost	
+smaller	moonbeam	bigger	sleeper	pink	cricket	space	larger	soft	small	
+due	rating	star	review	previous	negative	lack	positive	experience	report	
+groggy	vibrator	snooze	simulator	older	reception	model	antenna	bulb	weak	
+aaa	aa	solar	life	battery	piece	flight	annoying	longer	cell	
+average coherence	-129.27712581596649

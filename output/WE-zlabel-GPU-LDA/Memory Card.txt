@@ -1,0 +1,16 @@
+sharp	picture	beautiful	clear	blurry	clarity	recorder	instruction	recording	digital	
+exr	mode	auto	zoom	option	iso	panorama	megapixel	mp	lightweight	
+cell	smart	phone	samsung	datum	droid	smartphone	blackberry	download	detail	
+question	reliable	super	android	secure	fast	warranty	cover	plastic	support	
+microsdhc	sdhc	transcend	cf	cards	gb	slot	micro	microsd	storage	
+shipping	return	life	hour	seller	charge	retail	half	longer	charger	
+scanning	editing	thousand	cost	photo	price	flatbed	scan	scanner	jpeg	
+high	package	low	envelope	level	special	packaging	job	supplier	windows	
+speed	mbp	transfer	image	white	film	color	software	latest	bottom	
+read	random	crystaldiskmark	sequential	qd	slower	motion	mb	slow	transfer	
+larger	tiny	large	smaller	small	size	compact	bigger	design	deal	
+subject	minute	shot	object	shooting	extra	dollar	couple	tripod	seconds	
+collection	music	jpg	format	video	song	quick	file	movie	show	
+ability	desktop	computer	older	money	dell	expensive	newer	glad	message	
+pelican	clasp	case	nikon	holder	accessory	bag	choice	due	photographer	
+average coherence	-1169.800937372681

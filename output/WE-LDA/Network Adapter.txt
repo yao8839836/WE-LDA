@@ -1,0 +1,16 @@
+purchase	dollar	rating	glad	research	due	negative	review	performance	cost	
+os	xp	ubuntu	lion	driver	linux	ralink	realtek	mac	win	
+wireless	card	theater	laptop	office	home	small	bar	large	inch	
+speed	transfer	mbp	throughput	datum	faster	amd	motherboard	intel	mb	
+signal	antenna	weak	stronger	omnidirectional	dbm	wap	directional	reception	booster	
+latest	older	driver	ver	firmware	website	upgrade	future	update	version	
+tivo	schedule	landline	comcast	stream	tv	streaming	xbox	dvr	game	
+simple	breeze	straightforward	wizard	complicated	process	minute	guide	instruction	setup	
+router	netgear	modem	cisco	linksy	linksys	dsl	gigabit	lan	broadband	
+repeater	downstairs	wireless	wifus	connection	broadband	upstairs	wifi	direct	ap	
+security	device	easy	wpa	wep	password	software	ip	ssid	cd	
+phone	line	bottom	cell	sight	land	telephone	landline	cable	box	
+usb	hub	computer	ethernet	dongle	belkin	adaptor	socket	extension	connector	
+room	bedroom	ceiling	floor	house	kitchen	downstairs	wall	basement	garage	
+support	technical	question	roth	answer	tech	defective	email	information	info	
+average coherence	-128.51298232551747

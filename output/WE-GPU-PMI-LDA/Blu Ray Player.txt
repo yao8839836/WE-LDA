@@ -1,0 +1,16 @@
+movie	video	hd	screen	show	playback	game	tv	format	big	
+lg	service	support	customer	samsung	plasma	hour	online	sony	number	
+firmware	update	latest	version	upgrade	future	minute	software	ready	couple	
+disc	ray	blu	bd	bluray	load	avatar	fast	cd	slow	
+cable	hdmus	audio	tv	home	system	output	hdmi	theater	receiver	
+netflix	streaming	youtube	content	hulu	app	pandora	stream	vudu	internet	
+wireless	wifus	router	network	connection	internet	wifi	ethernet	connectivity	security	
+easy	setup	simple	interface	intuitive	box	quick	user	setting	breeze	
+remote	menu	button	control	option	front	power	universal	harmony	command	
+review	model	star	reason	price	older	machine	research	rating	main	
+samsung	sony	panasonic	tv	seconds	minute	dlp	room	pioneer	dvr	
+feature	oppo	price	function	ability	favorite	top	line	money	cost	
+netflix	streaming	content	youtube	stream	hulu	pandora	movie	video	access	
+dvd	picture	sound	disc	image	sharp	clear	crisp	regular	difference	
+file	usb	drive	media	format	disk	dlna	music	hard	computer	
+average coherence	-1573.471232820478

@@ -1,0 +1,16 @@
+suction	power	cord	brush	long	attachment	hose	tile	rug	carpet	
+brush	tile	rug	carpet	carpeting	hardwood	baseboard	vinyl	bare	floor	
+brush	rug	tile	carpeting	carpet	hardwood	upholstery	hair	hose	attachment	
+car	small	house	area	floor	brush	room	place	tile	rug	
+hair	cat	pet	fur	roomba	upholstery	litter	dog	debris	rug	
+easy	light	clean	brush	suction	weight	tile	rug	carpeting	carpet	
+machine	heavy	brush	tile	rug	carpet	carpeting	powerful	hardwood	attachment	
+cleaner	job	price	eureka	upright	belt	big	bissell	boss	bagless	
+brush	tile	rug	carpet	carpeting	hose	attachment	baseboard	hardwood	vinyl	
+brush	rug	tile	carpeting	carpet	hose	attachment	plastic	baseboard	hardwood	
+floor	brush	tile	rug	carpet	carpeting	hardwood	vinyl	bare	baseboard	
+bag	filter	dust	dirt	hepa	clean	washable	motor	full	design	
+brush	tile	rug	hose	carpeting	attachment	carpet	baseboard	tool	stair	
+vac	canister	flex	battery	minute	hand	bagless	charge	short	life	
+miele	bagless	hoover	review	model	dyson	canister	twist	vac	expensive	
+average coherence	-1552.2749095426855

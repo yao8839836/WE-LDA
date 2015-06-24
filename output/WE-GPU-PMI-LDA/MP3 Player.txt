@@ -1,0 +1,16 @@
+cd	music	audio	sony	device	disc	book	rio	disk	portable	
+price	money	review	star	warranty	model	reason	replacement	buck	fact	
+ipod	zen	creative	touch	generation	nano	apple	labs	jukebox	market	
+sound	headphone	ear	speaker	earphone	earbud	bud	jack	bass	equalizer	
+screen	small	size	display	large	tiny	light	larger	compact	smaller	
+usb	computer	car	big	charger	adapter	cable	pc	system	phone	
+button	menu	volume	sound	control	option	feature	mode	setting	press	
+memory	card	slot	hard	storage	sd	drive	micro	internal	external	
+software	windows	media	support	service	customer	company	driver	xp	computer	
+sansa	clip	case	gb	firmware	zip	version	sandisk	pocket	accessory	
+song	playlist	track	artist	album	shuffle	title	list	play	folder	
+music	file	device	video	format	wav	software	movie	playback	picture	
+easy	simple	user	intuitive	manual	interface	instruction	quick	breeze	friendly	
+radio	fm	station	zune	feature	voice	recorder	tuner	itunes	hd	
+battery	hour	charge	life	aa	minute	long	con	full	short	
+average coherence	-1484.1798820632714

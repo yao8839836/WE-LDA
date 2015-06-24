@@ -1,0 +1,16 @@
+tv	samsung	cable	hdmus	hdmi	screen	older	hd	room	hdtv	
+firmware	netflix	minute	internet	update	software	upgrade	latest	speed	connection	
+panasonic	sony	bluray	bd	lg	seconds	model	feature	couple	skype	
+ray	usb	blu	avus	mpg	drive	avi	hard	mkv	file	
+dvd	picture	disc	sound	regular	standard	upscale	blueray	upconvert	upconversion	
+wireless	connection	wifus	wifi	network	router	internet	setup	adapter	ready	
+disc	easy	menu	load	setup	interface	fast	slow	user	simple	
+netflix	streaming	content	queue	accuweather	mlb	buffering	blockbuster	picasa	movies	
+audio	video	oppo	system	sound	output	receiver	cd	digital	high	
+remote	disk	button	box	power	front	top	control	complaint	machine	
+movie	accuweather	queue	free	buffering	blockbuster	picasa	mlb	interruption	movies	
+app	pandora	netflix	youtube	queue	accuweather	buffering	vudu	mlb	picasa	
+lg	service	samsung	support	customer	tech	technical	hour	number	phone	
+video	home	file	device	media	movie	stream	dlna	computer	music	
+review	feature	price	star	reason	money	purchase	point	deal	line	
+average coherence	-1512.9547469157167

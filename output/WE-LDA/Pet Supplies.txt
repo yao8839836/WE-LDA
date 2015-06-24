@@ -1,0 +1,16 @@
+front	back	side	flat	plastic	bottom	metal	corner	place	thin	
+water	tank	fountain	bowl	veterinarian	hot	python	stream	reservoir	leak	
+box	nip	cardboard	greeny	furniture	container	kitchen	corner	litter	package	
+food	holistic	mange	treatment	diet	vet	bulldog	allergy	nutrient	healthy	
+chicken	salmon	food	venison	canned	corn	kibble	flavor	finicky	meal	
+coat	silky	healthy	shampoo	ingredient	supplement	protein	health	acid	itchy	
+larger	small	large	medium	smaller	plenty	size	room	space	normal	
+pill	throat	cheese	beagle	pocket	travel	treat	bag	greenies	piece	
+expensive	cost	shipping	cheaper	dollar	platinum	purchase	extra	today	customer	
+halti	puppy	headcollar	maine	canin	chow	breed	holistic	petmate	padded	
+minute	hour	tile	home	hard	floor	bunny	kind	short	entire	
+ball	dry	high	night	pain	hair	bed	smell	skin	breath	
+clean	simple	assembly	easy	quick	sturdy	minute	ease	direction	pro	
+chewing	catnip	price	durable	toy	sturdy	grip	bag	cheap	natural	
+red	color	pink	choice	halti	green	blue	fish	white	price	
+average coherence	-122.79427004999972

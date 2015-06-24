@@ -1,0 +1,16 @@
+volume	full	range	response	song	amp	treble	frequency	plug	wire	
+volume	full	response	range	frequency	amp	song	treble	plug	headset	
+response	volume	range	full	treble	amp	song	frequency	plug	player	
+full	response	volume	range	amp	treble	frequency	song	plug	headset	
+full	range	volume	response	amp	song	treble	plug	frequency	end	
+full	range	volume	response	amp	frequency	song	treble	plug	ipod	
+response	volume	full	range	treble	amp	song	frequency	plug	wire	
+volume	full	range	response	treble	amp	song	frequency	plug	player	
+volume	response	full	range	song	amp	treble	frequency	plug	player	
+full	volume	response	range	amp	treble	plug	song	frequency	player	
+full	volume	range	response	amp	song	treble	frequency	plug	control	
+full	volume	response	range	amp	song	treble	plug	frequency	player	
+full	volume	response	range	song	frequency	amp	treble	plug	ipod	
+full	volume	response	range	amp	treble	song	frequency	plug	ipod	
+full	volume	range	response	song	amp	frequency	plug	treble	ipod	
+average coherence	-1603.459379610341

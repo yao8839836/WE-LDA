@@ -1,0 +1,16 @@
+durable	feeling	opinion	chance	afraid	inexpensive	comfort	style	shape	genuine	
+keyboard	awkward	difficult	placement	layout	pointer	key	finger	sort	lock	
+command	key	layout	arrow	keyboard	select	multiple	difficult	harmony	button	
+programming	multiple	specific	command	scheduler	configuration	separate	select	trouble	harmony	
+scheduler	pvr	programming	multiple	device	blaster	wintv	specific	separate	hauppauge	
+pvr	scheduler	wintv	hauppauge	device	sagetv	dvr	directv	hauppage	blaster	
+pvr	directv	dvr	sagetv	scheduler	wintv	device	hauppauge	source	blaster	
+pvr	hauppauge	wintv	scheduler	sagetv	device	hauppage	pc	directv	dvr	
+pvr	directv	dvr	device	hauppauge	source	sagetv	input	wintv	scheduler	
+pvr	directv	dvr	sagetv	wintv	hauppauge	source	scheduler	device	broadcast	
+pvr	directv	input	av	dvr	component	source	composite	arc	converter	
+pvr	directv	dvr	broadcast	playstation	av	input	composite	sagetv	television	
+pvr	directv	dvr	sagetv	hauppauge	wintv	source	input	av	playstation	
+pvr	directv	sagetv	hauppauge	wintv	playstation	broadcast	dvr	converter	source	
+pvr	directv	playstation	hauppauge	sagetv	dvr	wintv	converter	broadcast	composite	
+average coherence	-1245.177845794727

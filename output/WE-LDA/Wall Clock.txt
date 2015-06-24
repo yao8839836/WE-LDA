@@ -1,0 +1,16 @@
+christmas	present	gift	mom	kitchen	mother	birthday	parent	silver	friend	
+shipping	sale	worth	money	cost	price	buy	expensive	extra	purchase	
+customer	response	email	call	service	date	company	number	phone	order	
+atomic	feature	important	crosse	la	moon	phase	temperature	technology	type	
+rating	star	negative	comment	previous	review	reviewer	experience	fact	main	
+display	temperature	seconds	remote	sensor	zone	adjustment	button	distance	sight	
+large	small	room	exact	correct	comment	actual	larger	smaller	bigger	
+minute	office	hour	hand	addition	pacific	home	device	electronic	monitor	
+side	front	cover	door	place	rest	house	base	top	back	
+signal	loud	annoying	alarm	radio	high	colorado	station	located	bedroom	
+alkaline	lithium	battery	rechargeable	aa	power	transmitter	short	life	dead	
+metal	wood	finish	color	frame	cheap	wooden	piece	white	material	
+outdoor	temp	temperature	indoor	degree	heat	cold	hot	sensor	weather	
+simple	setup	easy	instruction	accurate	intuitive	direction	clear	design	clean	
+replacement	daylight	battery	savings	refund	company	seller	wrong	night	defective	
+average coherence	-130.31328474045654

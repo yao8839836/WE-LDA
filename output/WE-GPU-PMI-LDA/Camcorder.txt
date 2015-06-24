@@ -1,0 +1,16 @@
+small	easy	size	smaller	large	compact	hand	simple	bigger	larger	
+light	low	dark	high	led	blue	green	level	higher	grainy	
+battery	hour	charge	minute	life	charger	extra	power	long	standard	
+zoom	lens	manual	focus	wide	tripod	field	angle	optical	body	
+video	mode	hd	setting	playback	tv	recording	format	auto	hdtv	
+feature	shot	shooting	shutter	effect	option	home	movie	motion	function	
+sony	panasonic	line	service	top	repair	cam	christmas	friend	bottom	
+video	computer	software	pc	cable	firewire	editing	usb	port	format	
+canon	model	review	elura	star	reason	older	research	cheaper	reviewer	
+card	memory	noise	slot	sd	stick	internal	external	sound	microphone	
+picture	image	clear	sharp	film	crisp	sound	detail	stabilization	decent	
+video	digital	format	playback	analog	photo	pic	file	recording	audio	
+screen	lcd	color	control	viewfinder	button	black	remote	menu	con	
+tape	vhs	vcr	dv	cassette	dvd	minidv	jvc	head	vacation	
+price	feature	expensive	money	cost	option	point	buck	function	extra	
+average coherence	-1529.393927993894

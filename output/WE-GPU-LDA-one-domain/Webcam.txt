@@ -1,0 +1,16 @@
+live	messenger	image	windows	easy	software	microsoft	focus	box	lifecam	
+messenger	windows	live	image	easy	software	microsoft	focus	box	lifecam	
+live	messenger	image	windows	easy	software	microsoft	focus	box	button	
+live	messenger	windows	focus	image	easy	software	microsoft	box	lifecam	
+live	messenger	image	windows	easy	focus	software	microsoft	button	box	
+live	image	messenger	windows	easy	software	microsoft	focus	box	lifecam	
+live	messenger	image	easy	windows	focus	software	microsoft	box	button	
+live	messenger	image	easy	windows	focus	software	microsoft	box	lifecam	
+video	live	messenger	image	windows	easy	software	box	microsoft	focus	
+live	cam	messenger	image	microphone	windows	easy	button	focus	software	
+live	image	messenger	windows	easy	software	microsoft	box	focus	lifecam	
+live	messenger	windows	image	easy	software	focus	microsoft	box	lifecam	
+live	messenger	image	microphone	windows	easy	box	button	focus	software	
+messenger	windows	live	image	focus	software	easy	microsoft	box	lifecam	
+live	messenger	easy	image	software	windows	microsoft	focus	box	lifecam	
+average coherence	-1531.761067522183

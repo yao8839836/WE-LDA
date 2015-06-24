@@ -1,0 +1,16 @@
+control	watch	motivation	button	socket	menu	ant	plug	history	tft	
+intuitive	simple	minute	option	user	mode	hp	select	setup	easy	
+clear	crystal	sharp	speaker	beautiful	bright	picture	accurate	stereo	rich	
+sharp	srgb	vivid	vibrant	bright	sharpness	contrast	text	saturation	color	
+maps	game	price	purchase	decision	reader	dollar	earth	memory	money	
+vga	hdmus	hdmi	rca	analog	composite	small	input	larger	footprint	
+transfer	download	arm	side	line	corner	datum	front	wrist	located	
+life	hour	charge	satellite	half	favorite	feature	short	ability	mine	
+heart	calorie	elevation	monitoring	interval	pacing	workout	cadence	marker	rate	
+tv	compatible	television	channel	angle	pc	receiver	os	vertical	horizontal	
+km	forerunner	sporttracks	ironman	garmin	aid	triathlon	mileage	mapping	pace	
+model	older	positive	review	comment	chance	expensive	online	reason	rating	
+readable	screen	lcd	estate	display	viewing	lg	font	email	plasma	
+stuck	crt	brighter	trinitron	viewable	white	sceptre	pixel	contrast	gray	
+high	driver	level	xp	lower	linux	software	latest	clarity	os	
+average coherence	-1303.132435703342

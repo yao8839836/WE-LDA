@@ -1,0 +1,16 @@
+online	choice	revue	trouble	solution	future	fault	company	unable	website	
+pc	computer	device	multiple	conflict	addition	integration	application	compatible	separate	
+multiple	separate	addition	select	specific	integration	application	ability	icon	dedicated	
+touchpad	separate	multiple	addition	trackpoint	easier	key	icon	select	shortcut	
+touchpad	trackpoint	layout	shortcut	key	trackball	pointer	setpoint	awkward	sort	
+touchpad	trackpoint	layout	pointer	trackpad	shortcut	awkward	pinky	trackball	typing	
+touchpad	awkward	trackpoint	pinky	finger	roller	numeric	stroke	typing	placement	
+pinky	touchpad	stroke	numeric	awkward	resistance	mousepad	placement	trackpoint	symbol	
+stroke	touchpad	pinky	awkward	mousepad	roller	numeric	finger	ball	resistance	
+stroke	pinky	mousepad	awkward	roller	numeric	ball	resistance	stiff	placement	
+stroke	pinky	roller	mousepad	numeric	ball	resistance	stiff	awkward	gap	
+stroke	mousepad	pinky	resistance	roller	numeric	ball	stiff	natural	gap	
+stroke	pinky	mousepad	numeric	stiff	resistance	roller	harder	ball	gap	
+stroke	mousepad	pinky	stiff	traditional	harder	numeric	resistance	natural	roller	
+stroke	mousepad	stiff	pinky	traditional	harder	natural	resistance	numeric	gap	
+average coherence	-1116.4436199778181

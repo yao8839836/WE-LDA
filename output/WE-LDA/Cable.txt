@@ -1,0 +1,16 @@
+modem	dsl	motorola	isp	broadband	strand	stripper	copper	unusable	tungsten	
+firewire	ir	usb	dock	sync	ipaq	external	pc	kodak	port	
+palm	top	bottom	short	extension	driver	fit	flimsy	back	base	
+component	reciever	rca	hd	iphone	av	ipod	headphone	plug	hdmus	
+color	picture	white	clear	yellow	original	green	red	durable	solid	
+expensive	star	previous	reviewer	cheaper	extra	review	dollar	money	cheap	
+camera	canon	olympus	kodak	pic	ipaq	camcorder	dolby	digital	cord	
+power	outlet	plug	run	amp	switch	flash	connection	charger	minute	
+hd	tv	input	hdtv	clarity	component	signal	gaming	xbox	jack	
+email	customer	qps	seller	service	company	order	sale	web	type	
+file	mac	computer	xp	os	laptop	windows	pc	simple	wireless	
+price	shipping	fair	expectation	local	ebay	prime	buy	cost	delivery	
+audio	video	stereo	channel	disk	television	studio	interface	dvd	headphone	
+compaq	card	business	monster	system	wire	projector	datum	serial	home	
+speaker	bass	volume	sound	channel	speed	wire	annoying	high	low	
+average coherence	-120.26017227231581

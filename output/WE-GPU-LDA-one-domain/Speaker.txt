@@ -1,0 +1,16 @@
+computer	music	system	headphone	ipod	home	player	portable	usb	radio	
+computer	system	music	home	headphone	ipod	portable	player	radio	large	
+computer	home	music	system	portable	headphone	ipod	player	radio	sound	
+computer	ipod	music	system	headphone	home	portable	player	radio	large	
+computer	system	music	headphone	portable	ipod	home	player	radio	plug	
+computer	system	music	headphone	ipod	home	portable	player	radio	usb	
+computer	system	music	headphone	home	portable	ipod	player	large	radio	
+computer	system	headphone	ipod	music	home	portable	player	large	radio	
+computer	system	headphone	home	music	ipod	portable	player	radio	usb	
+computer	headphone	system	music	ipod	home	portable	player	large	radio	
+computer	headphone	system	ipod	music	home	portable	player	radio	usb	
+computer	system	headphone	ipod	music	home	portable	player	plug	radio	
+computer	system	music	headphone	home	portable	ipod	player	radio	usb	
+computer	system	music	home	portable	headphone	ipod	player	radio	port	
+computer	headphone	system	ipod	music	home	player	portable	radio	usb	
+average coherence	-1556.255331881249

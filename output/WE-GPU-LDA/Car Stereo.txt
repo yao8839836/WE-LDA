@@ -1,0 +1,16 @@
+seller	sale	purchase	vendor	manufacturer	advice	defective	question	warranty	fault	
+purchase	chance	choice	opinion	cheaper	research	past	today	expensive	dollar	
+choice	real	ability	idea	worse	fact	friend	podcast	market	creative	
+podcast	ability	britelink	tune	dock	interference	transmitter	sync	device	bluetooth	
+britelink	podcast	ability	interference	dock	transmitter	tune	device	microphone	sync	
+britelink	device	dock	interference	sync	podcast	transmitter	aux	ability	bluetooth	
+dock	britelink	podcast	transmitter	iphone	ability	bluetooth	interference	device	tune	
+britelink	transmitter	interference	microphone	dock	aux	device	static	podcast	fm	
+device	britelink	dock	ability	source	sync	interference	separate	aux	addition	
+interference	britelink	transmitter	microphone	dock	aux	static	jack	source	device	
+britelink	dock	interference	transmitter	aux	microphone	device	jack	source	iphone	
+microphone	dock	interference	transmitter	britelink	aux	static	source	separate	jack	
+interference	transmitter	britelink	aux	dock	microphone	jack	static	headphone	iphone	
+aux	interference	transmitter	jack	dock	britelink	connector	auxiliary	hook	mm	
+loose	seat	back	wire	connector	extension	secure	dash	socket	velcro	
+average coherence	-1295.6873384099695

@@ -1,0 +1,16 @@
+tv	movie	dvd	hd	video	player	directv	game	xbox	hdtv	
+home	sound	theater	speaker	system	onkyo	stereo	entertainment	friend	class	
+review	optoma	dlp	star	research	purchase	reason	effect	due	reviewer	
+bulb	hour	lamp	minute	life	warranty	replacement	infocus	power	battery	
+easy	simple	case	small	setup	quick	device	intuitive	installation	size	
+picture	clear	sharp	image	crisp	big	size	text	detail	huge	
+fan	setting	mode	feature	loud	quiet	clock	option	noise	alarm	
+remote	control	focus	adjustment	side	ceiling	screw	part	hole	wall	
+epson	box	service	customer	cheap	company	support	panasonic	job	shipping	
+room	light	dark	bedroom	bright	living	basement	night	apartment	blue	
+screen	wall	ceiling	foot	inch	size	image	distance	large	wide	
+cable	hdmus	vga	input	hdmi	output	adapter	component	standard	rca	
+price	money	expensive	cost	model	extra	buck	dollar	decent	point	
+color	bright	black	brightness	white	image	display	vivid	contrast	lumen	
+movie	video	resolution	presentation	computer	game	laptop	project	pc	native	
+average coherence	-1519.3692839714777

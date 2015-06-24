@@ -1,0 +1,16 @@
+easy	clean	cord	quick	minute	convenient	bread	super	simple	breeze	
+brown	white	quinoa	sushi	jasmine	porridge	mixed	basmatus	wild	fluffy	
+water	bowl	vessel	button	instruction	line	type	half	simple	ratio	
+slow	instruction	machine	recipe	manual	starchy	pot	couple	kind	food	
+brown	big	batch	dish	side	gift	job	number	part	maker	
+cup	water	uncooked	measuring	overflow	full	capacity	measure	smaller	longer	
+vegetable	steamer	veggy	steam	meat	food	chicken	frozen	tray	soup	
+lid	catcher	top	mess	pot	starchy	steam	stove	counter	job	
+price	review	model	zojirushi	sanyo	expensive	replacement	high	aroma	service	
+minute	star	cycle	light	logic	fuzzy	meal	option	cheap	aroma	
+grain	quinoa	long	sushi	jasmine	porridge	mixed	basmatus	fluffy	wild	
+warm	timer	hour	ready	function	oatmeal	oats	feature	ingredient	breakfast	
+oatmeal	ingredient	oats	black	sushi	quinoa	steel	breakfast	jasmine	decker	
+pot	starchy	bottom	pan	sticky	spoon	teflon	plastic	spatula	nonstick	
+small	size	amount	kitchen	appliance	person	counter	space	single	large	
+average coherence	-1417.5767456493238

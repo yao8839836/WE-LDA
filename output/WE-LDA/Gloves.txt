@@ -1,0 +1,16 @@
+job	high	guy	hour	kind	part	minute	office	easier	line	
+side	comfortable	grip	bar	bottom	hand	door	rest	hole	back	
+padding	seam	stitching	fingertip	callus	blister	neoprene	knuckle	palm	valeo	
+muscle	resistance	arm	exercise	sore	lat	lap	uncomfortable	session	body	
+hand	blue	red	color	pink	bag	big	size	weight	gray	
+review	negative	money	previous	experience	extra	cost	order	dad	christmas	
+bigger	large	larger	small	smaller	size	space	wide	normal	inch	
+tighter	medium	xxl	xl	men	snug	nike	man	smaller	skinny	
+wrist	closure	cuff	elastic	strap	fastener	fabric	secure	tab	zipper	
+finger	webbing	fit	wide	tight	left	palm	thumb	fitting	snug	
+speedo	flexclosure	gloves	harbinger	chlorine	swimming	valeo	swim	lap	workout	
+boxing	gym	thai	cardio	everlast	lifting	workmanship	dumbbell	mma	fitness	
+leather	heavy	material	polyurethane	worn	padding	tough	durable	protection	heavier	
+pair	boot	price	reason	delivery	past	purchase	condition	fast	rating	
+cold	winter	weather	dry	water	wash	warm	hot	rain	chemical	
+average coherence	-130.49987685989524

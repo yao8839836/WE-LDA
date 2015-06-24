@@ -1,0 +1,16 @@
+tv	volume	transmitter	speaker	stereo	box	bass	player	station	level	
+directv	vcr	hdtv	xbox	channel	hd	tv	dvr	sony	lg	
+dollar	expensive	equipment	price	sale	piece	buy	buck	extra	satisfied	
+small	ipad	pocket	compact	classic	ipod	hand	finger	weight	generation	
+rechargeable	aaa	aa	charge	ufo	life	charger	pack	hour	battery	
+shake	shot	exposure	tripod	shutter	screen	dark	shooting	lapse	bright	
+blaster	av	terk	discrete	hdmi	ir	component	hdmus	rf	yamaha	
+bedroom	room	ceiling	house	kitchen	floor	left	area	basement	front	
+rep	support	microsmith	question	staff	technical	service	customer	helpful	tech	
+simple	setup	breeze	process	intuitive	configuration	wizard	code	step	programming	
+watch	activity	ability	mode	auto	function	minute	specific	normal	device	
+computer	easy	windows	software	hard	pc	port	compatible	external	slot	
+logitech	website	device	site	harmony	forum	firmware	update	future	online	
+button	push	command	pause	select	arrow	menu	layout	mute	function	
+positive	review	rating	research	star	due	minor	camera	previous	button	
+average coherence	-126.88949286263961

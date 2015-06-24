@@ -1,0 +1,16 @@
+usb	monitor	top	screen	small	laptop	computer	long	line	clip	
+logitech	microsoft	quickcam	lifecam	model	support	compatible	version	box	hard	
+windows	xp	vista	mac	linux	system	window	driver	plug	home	
+light	low	high	dark	end	lighting	blue	led	image	range	
+feature	software	face	option	function	ability	effect	driver	fun	zoom	
+computer	laptop	pc	desktop	ram	core	dell	processor	ghz	intel	
+software	driver	logitech	user	cd	vista	microsoft	website	package	quickcam	
+microphone	sound	mic	friend	voice	headset	speaker	mike	big	purchase	
+image	focus	setting	color	auto	adjustment	detail	lens	photo	exposure	
+video	resolution	audio	movie	format	hd	frame	decent	device	rate	
+skype	video	messenger	chat	live	call	program	internet	yahoo	phone	
+easy	simple	quick	breeze	installation	intuitive	minute	setup	real	hour	
+price	money	review	cost	worth	dollar	extra	buck	cheap	expensive	
+picture	clear	sharp	crisp	clarity	sound	crystal	microphone	person	effect	
+cam	web	skype	chat	creative	conferencing	site	works	labs	online	
+average coherence	-1431.7481444273697

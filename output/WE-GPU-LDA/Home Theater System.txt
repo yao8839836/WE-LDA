@@ -1,0 +1,16 @@
+manufacturer	purchase	advice	defective	warranty	luck	consumer	sale	fault	claim	
+purchase	expensive	choice	cheaper	research	chance	opinion	dollar	glad	past	
+directv	receiver	vcr	television	stereo	tv	satellite	dvd	xbox	dvr	
+stereo	receiver	output	yamaha	soundbar	directv	decoding	television	ch	dt	
+stereo	receiver	yamaha	soundbar	directv	output	decoding	television	satellite	ch	
+stereo	receiver	soundbar	yamaha	decoding	output	reciever	television	directv	speaker	
+stereo	receiver	yamaha	soundbar	reciever	speaker	directv	output	decoding	television	
+stereo	receiver	yamaha	soundbar	output	decoding	reciever	television	speaker	ch	
+stereo	receiver	soundbar	yamaha	output	television	directv	vcr	reciever	decoding	
+stereo	receiver	soundbar	reciever	yamaha	speaker	output	television	avr	satellite	
+stereo	soundbar	receiver	yamaha	speaker	reciever	output	decoding	avr	television	
+stereo	receiver	soundbar	yamaha	output	reciever	television	satellite	decoding	directv	
+stereo	soundbar	receiver	yamaha	speaker	reciever	output	decoding	television	avr	
+stereo	soundbar	speaker	reciever	yamaha	receiver	output	avr	boomy	decoding	
+boomy	speaker	woofer	boom	shelf	rear	soundbar	subwoofer	reciever	loud	
+average coherence	-1396.073816592672

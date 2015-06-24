@@ -1,0 +1,16 @@
+edge	sharp	blade	cheap	thick	rubber	open	material	side	sturdy	
+homemade	heat	hookah	extract	warm	decoration	temperature	cold	coal	plain	
+place	high	line	kind	top	part	type	case	job	speed	
+ph	probe	aquarium	meter	lens	beaker	calibration	camera	sunglass	tester	
+expensive	money	extra	online	cost	total	buck	similar	dollar	gift	
+customer	email	call	response	intact	service	order	seller	stone	detail	
+smaller	small	area	regular	length	medium	size	adult	storage	trash	
+star	rating	comment	review	main	negative	due	chance	purchase	reason	
+company	whip	bait	refund	manufacturer	package	mail	replacement	box	shelf	
+price	expectation	local	fair	expensive	dollar	cheaper	buy	purchase	model	
+filter	plastic	water	assembly	simple	glass	piece	clear	manual	paper	
+dark	bright	lighting	white	green	glass	focus	blue	red	protective	
+easy	refund	seller	delivery	hand	cost	shipping	buy	buck	mail	
+cap	hose	valve	tube	seal	driver	bolt	hole	thread	screw	
+reading	seconds	measurement	precise	quick	minute	instruction	clean	feature	accurate	
+average coherence	-121.38508415308762

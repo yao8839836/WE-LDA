@@ -1,0 +1,16 @@
+battery	lithium	spare	aaa	rechargeable	cell	bulb	power	dim	outage	
+screen	reader	touch	generation	main	keyboard	ability	mode	readable	important	
+light	page	eyeglass	tiny	reading	driver	easy	connection	entire	eye	
+money	expensive	hour	fact	extra	cheaper	older	buck	cost	kind	
+lightweight	compact	pro	solid	adjustable	sturdy	attractive	simple	tough	purse	
+bottom	frame	corner	top	side	line	portion	flat	place	front	
+review	christmas	mom	negative	present	star	positive	gift	glad	chance	
+light	book	color	orange	white	kandle	choice	red	burgundy	black	
+clip	secure	zipper	pocket	elastic	backpack	pouch	velvet	tab	bent	
+cover	prompt	email	customer	company	response	seller	date	case	update	
+bright	dark	lamp	flex	glare	dim	acceptable	nook	lighting	readable	
+kandle	hotspot	nook	ebook	booklight	mighty	flex	glare	illumination	lamp	
+bed	small	sleep	larger	smaller	bigger	regular	space	plenty	size	
+cover	plastic	inside	dx	metal	solid	case	bent	flimsy	careful	
+burgundy	leather	dx	protective	protection	australia	functional	classy	stylish	secure	
+average coherence	-135.68704205222292

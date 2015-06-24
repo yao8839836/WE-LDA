@@ -1,0 +1,16 @@
+card	laptop	pc	desktop	slot	dell	internet	intel	internal	case	
+usb	cable	port	hub	ethernet	connection	plug	dongle	comcast	cord	
+price	review	money	star	extra	cost	reason	worth	fact	cheap	
+tivo	dvr	series	schedule	box	hd	tv	older	adaptor	future	
+signal	antenna	strength	bar	reception	weak	building	full	panel	low	
+speed	fast	connection	mbp	download	file	transfer	internet	datum	high	
+windows	xp	linux	vista	driver	version	mac	window	machine	software	
+home	system	computer	video	movie	theater	streaming	netflix	online	stream	
+easy	installation	setup	simple	quick	wizard	breeze	configuration	computer	instruction	
+device	wireless	router	computer	security	wep	wpa	connection	ssid	powerline	
+support	minute	hour	phone	line	service	tech	ready	call	top	
+wireless	router	linksys	connection	belkin	ssid	netgear	airport	powerline	linksy	
+wifus	alfa	connection	range	wifi	access	internet	point	laptop	performance	
+wireless	house	room	router	foot	floor	wall	power	bedroom	outlet	
+driver	software	vista	windows	cd	xp	window	disk	computer	linux	
+average coherence	-1433.201435972441

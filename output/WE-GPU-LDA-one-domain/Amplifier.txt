@@ -1,0 +1,16 @@
+difference	house	tv	antenna	modem	ft	system	station	strong	box	
+price	volume	pair	mode	headphone	high	audio	inch	audiophile	level	
+volume	price	pair	mode	audio	headphone	high	level	audiophile	system	
+tv	modem	house	strong	return	reception	antenna	digital	splitter	picture	
+pair	price	high	audio	volume	headphone	mode	inch	audiophile	power	
+price	volume	mode	headphone	pair	high	audiophile	system	audio	inch	
+price	volume	pair	mode	headphone	high	audio	audiophile	inch	bass	
+price	pair	volume	audio	headphone	mode	high	audiophile	inch	bass	
+price	pair	high	volume	mode	headphone	audio	audiophile	system	inch	
+tv	modem	house	return	strong	reception	splitter	digital	booster	loss	
+house	tv	modem	strong	antenna	reception	digital	station	return	connection	
+pair	price	volume	headphone	high	audio	mode	audiophile	inch	bass	
+volume	mode	price	headphone	pair	audio	high	level	system	audiophile	
+volume	price	mode	pair	headphone	audio	high	inch	audiophile	level	
+price	pair	volume	audio	mode	high	audiophile	headphone	system	inch	
+average coherence	-1495.9026555598323

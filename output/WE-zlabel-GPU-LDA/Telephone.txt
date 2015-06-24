@@ -1,0 +1,16 @@
+itunes	library	podcast	album	genre	playing	audiobook	song	music	player	
+station	con	radio	transmitter	clock	antenna	reception	show	decent	deep	
+extension	cord	mm	ability	plug	attachment	flimsy	connector	rca	thin	
+rep	service	question	defective	warranty	manufacturer	period	customer	replacement	technical	
+high	frequency	lower	mid	clear	range	clarity	distortion	level	midrange	
+rechargeable	life	charge	hour	compact	small	pack	tiny	larger	belt	
+theater	star	system	stereo	front	computer	position	side	simple	usb	
+accessory	iphone	generation	price	ipad	classic	ipod	skeptical	buy	sale	
+expensive	older	panasonic	newer	cordless	model	version	comparison	policy	comparable	
+generation	cushion	stylus	padding	ipad	touch	foam	earpiece	junk	pen	
+muddy	subwoofer	bass	vocal	rich	tinny	distortion	midrange	speaker	listening	
+iem	sennheiser	sound	fitting	distortion	shure	isolation	canal	ear	loud	
+comfortable	fitting	hat	fit	headband	charger	ac	foam	head	uncomfortable	
+light	cable	red	blue	pioneer	converter	indicator	heavy	bright	jvc	
+base	intercom	number	phonebook	handset	call	cid	ringer	email	line	
+average coherence	-1209.5568648779147

@@ -1,0 +1,16 @@
+rubberized	traditional	stroke	pencil	rough	opening	instrument	body	leg	diameter	
+pencil	rubberized	stroke	stylus	grip	thick	body	magnetic	eraser	thin	
+stylus	pencil	grip	rubberized	stroke	drawing	awkward	bulky	eraser	intuos	
+stylus	drawing	finger	awkward	pencil	touchscreen	precise	fingerprint	capacitive	pen	
+stylus	drawing	touchscreen	awkward	fire	ipad	capacitive	finger	pen	bulky	
+stylus	touchscreen	ipad	drawing	fire	handwriting	capacitive	awkward	touch	responsive	
+stylus	ipad	touchscreen	fire	market	cruz	apple	handwriting	alternative	drawing	
+market	cruz	alternative	android	apple	opinion	marketplace	app	archos	choice	
+market	cruz	alternative	marketplace	android	opinion	archos	apple	app	choice	
+cruz	market	marketplace	android	archos	app	comic	community	apple	kobo	
+cruz	marketplace	community	archos	market	android	app	comic	google	application	
+cruz	marketplace	community	archos	appslib	market	tutorial	dolphin	app	apk	
+community	marketplace	cruz	manager	tutorial	dolphin	download	appslib	application	client	
+community	manager	marketplace	download	dolphin	cruz	root	tutorial	appslib	client	
+root	manager	device	community	artwork	sync	tutorial	client	dolphin	explorer	
+average coherence	-1242.1047728350052

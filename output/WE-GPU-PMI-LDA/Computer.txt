@@ -1,0 +1,16 @@
+monitor	price	money	cost	extra	widescreen	expensive	worth	performance	high	
+monitor	side	light	top	line	bottom	back	desk	big	weight	
+version	model	web	update	internet	site	website	firmware	point	browser	
+easy	button	power	setting	user	menu	mode	control	simple	option	
+color	display	bright	screen	black	brightness	contrast	vivid	angle	beautiful	
+system	pc	windows	home	software	machine	window	mac	xp	notebook	
+screen	display	keyboard	size	touch	touchscreen	color	mouse	bright	bigger	
+picture	resolution	sharp	clear	text	crisp	image	screen	native	beautiful	
+monitor	lcd	sony	samsung	widescreen	flat	crt	inch	viewsonic	wide	
+hdmus	cable	monitor	dvi	speaker	pixel	sound	vga	tv	dead	
+review	support	apple	warranty	service	hp	research	experience	replacement	purchase	
+tablet	xoom	ipad	thrive	android	star	reason	toshiba	case	app	
+video	card	movie	game	sd	slot	memory	file	format	gaming	
+tablet	android	app	xoom	market	thrive	ipad	kindle	google	archos	
+device	usb	port	battery	hard	hour	drive	hub	life	camera	
+average coherence	-1547.4409209626344

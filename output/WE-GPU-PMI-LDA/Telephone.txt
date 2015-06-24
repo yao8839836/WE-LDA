@@ -1,0 +1,16 @@
+volume	sound	easy	player	control	level	speaker	distortion	high	low	
+battery	hour	charge	comfortable	light	minute	life	comfort	long	led	
+handset	base	feature	call	line	number	intercom	message	machine	caller	
+pair	earbud	ear	earphone	sony	headset	bose	sennheiser	shure	koss	
+ipod	cable	device	car	iphone	charger	usb	power	generation	jack	
+ear	earbud	head	bud	earphone	comfortable	pair	fit	headset	uncomfortable	
+cord	cheap	plastic	short	side	wire	plug	long	extension	clip	
+case	iphone	ipad	design	dock	star	cover	reason	place	apple	
+system	home	model	service	panasonic	customer	previous	wireless	company	cordless	
+sound	high	bass	end	range	low	speaker	higher	microphone	mid	
+noise	loud	radio	background	station	conversation	reception	room	fm	static	
+music	sound	audio	tv	speaker	bass	computer	video	movie	microphone	
+ear	small	size	large	big	earbud	head	smaller	bud	pair	
+price	money	expensive	review	cost	buck	worth	extra	star	dollar	
+sound	bass	clear	speaker	microphone	mid	treble	crisp	picture	midrange	
+average coherence	-1468.0605549748527

@@ -1,0 +1,16 @@
+insight	technique	animal	york	structure	creative	harold	fascinating	city	illustration	
+knowledge	subject	informative	topic	designer	depth	culture	compelling	literary	interested	
+previous	positive	reason	negative	world	home	money	user	order	rating	
+career	teacher	journey	relationship	treasure	influence	century	student	famous	adventure	
+red	blue	color	green	white	dark	beautiful	choice	bright	sheet	
+story	life	sugar	delicious	fruit	flavor	fabulous	character	cat	healthy	
+information	familiar	deluxe	form	animation	disney	production	classic	bonus	interesting	
+record	title	recording	live	studio	effect	era	system	advanced	commentary	
+demonstration	painting	drawing	pastel	narnia	witch	reproduction	portrait	neel	chronicle	
+jesus	god	christian	perspective	imagination	glory	politics	faith	church	evidence	
+young	age	boy	brother	christmas	gift	mother	dad	mom	sister	
+simple	instruction	clear	quick	accurate	easier	basic	process	easy	direction	
+print	photo	text	page	section	detail	word	image	artwork	guide	
+artist	editor	author	political	art	history	insightful	knowledge	death	creation	
+small	back	plenty	door	living	high	wide	front	larger	head	
+average coherence	-130.97051160930647

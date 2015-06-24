@@ -1,0 +1,16 @@
+landline	trouble	solution	order	online	information	useless	info	telephone	device	
+ability	real	addition	choice	favorite	separate	voice	fact	option	matter	
+choice	decent	real	sound	speaker	headset	iem	stereo	ihome	fact	
+iem	headset	decent	loud	speaker	balanced	mic	style	earbud	ihome	
+iem	balanced	headset	earbud	audiophile	decent	bose	isolation	earphone	speaker	
+iem	earpiece	earbud	earphone	headset	isolation	comfort	balanced	shure	style	
+iem	balanced	comfort	earpiece	earbud	isolation	style	earphone	portapro	shure	
+iem	earpiece	balanced	style	comfort	isolation	earbud	earphone	tight	gym	
+iem	earpiece	balanced	isolation	comfort	earbud	earphone	shure	skull	portapro	
+iem	earpiece	balanced	isolation	comfort	style	earbud	hat	tight	earphone	
+iem	earpiece	comfort	balanced	style	isolation	earbud	skull	tight	hat	
+iem	earpiece	balanced	isolation	comfort	skull	tight	earbud	earphone	hip	
+iem	earpiece	balanced	isolation	comfort	hip	skull	portapro	shure	rap	
+earpiece	iem	fitting	hat	comfort	balanced	skull	cushion	tight	uncomfortable	
+earpiece	hat	cushion	fitting	headband	tight	padding	foam	lanyard	uncomfortable	
+average coherence	-1195.0371098011854

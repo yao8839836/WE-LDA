@@ -1,0 +1,16 @@
+mile	road	trip	cop	officer	highway	patrol	dallas	police	gun	
+speed	iphone	trap	device	phone	limit	app	area	iradar	camera	
+bel	escort	beltronics	redline	performance	vector	valentine	passport	test	driver	
+cord	power	easy	wire	battery	plug	fuse	hard	type	box	
+laser	cop	officer	police	patrol	gun	dallas	hill	place	revenue	
+warning	vehicle	case	pop	device	plenty	distance	instant	quick	sensitive	
+car	windshield	cup	suction	bracket	front	small	dash	rear	side	
+cop	officer	police	patrol	dallas	gun	hill	star	part	revenue	
+band	ka	maine	cop	officer	police	patrol	gun	dallas	hill	
+false	alarm	signal	mode	city	band	door	highway	area	sensitivity	
+model	cobra	review	whistler	beltronics	service	warranty	experience	customer	research	
+display	alert	feature	volume	light	voice	setting	button	mute	loud	
+cop	officer	police	patrol	gun	dallas	laser	hill	job	revenue	
+ticket	money	speeding	traffic	worth	expensive	extra	couple	past	reason	
+price	range	detection	feature	long	line	purchase	big	top	deal	
+average coherence	-1498.4886559086217

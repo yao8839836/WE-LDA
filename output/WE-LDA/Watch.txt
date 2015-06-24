@@ -1,0 +1,16 @@
+color	price	bright	white	sharp	beautiful	readable	brown	finish	protector	
+band	resin	canvas	metal	thick	casing	rubber	material	plastic	clasp	
+minute	life	solar	charge	half	hour	battery	short	daily	long	
+diver	swiss	invicta	boyfriend	birthday	christmas	present	father	nephew	gift	
+hand	small	big	dial	lightweight	face	number	cute	tiny	easy	
+larger	smaller	large	bigger	small	size	bulky	inch	diameter	wide	
+defective	shipping	price	service	return	customer	repair	seller	replacement	cost	
+rating	minor	star	main	positive	due	complaint	online	experience	reviewer	
+steel	bracelet	stainless	side	back	impossible	omega	place	case	rolex	
+alarm	timer	button	function	countdown	specific	automatic	auto	control	altimeter	
+wrist	strap	comfortable	buckle	canvas	shiny	scratch	thinner	comfort	face	
+dark	light	glow	bright	luminescent	backlight	indicator	illumination	yellow	orange	
+simple	intuitive	instruction	setup	booklet	casio	quick	correct	model	accurate	
+sleek	durable	con	sturdy	stylish	attractive	lightweight	construction	elegant	style	
+analog	feature	date	water	cell	digital	easy	line	casio	call	
+average coherence	-132.46266408394226

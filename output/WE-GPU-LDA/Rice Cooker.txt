@@ -1,0 +1,16 @@
+purchase	chance	research	glad	today	past	plunge	disappointed	comment	cheaper	
+ingredient	oatmeal	broccoli	tasty	bowl	vessel	delicious	starchy	fluffy	breakfast	
+ingredient	broccoli	bowl	vessel	oatmeal	starchy	tasty	delicious	spice	lentil	
+ingredient	oatmeal	broccoli	delicious	bowl	tasty	breakfast	meal	vessel	starchy	
+ingredient	broccoli	oatmeal	bowl	delicious	vessel	tasty	starchy	spice	meal	
+ingredient	broccoli	delicious	oatmeal	bowl	tasty	vessel	breakfast	meal	starchy	
+ingredient	broccoli	oatmeal	delicious	bowl	tasty	vessel	meal	breakfast	starchy	
+ingredient	broccoli	bowl	delicious	vessel	oatmeal	tasty	starchy	pot	spice	
+ingredient	broccoli	bowl	oatmeal	delicious	vessel	tasty	starchy	spice	breakfast	
+ingredient	broccoli	oatmeal	delicious	bowl	tasty	vessel	meal	breakfast	spice	
+ingredient	broccoli	bowl	oatmeal	delicious	vessel	starchy	tasty	spice	meal	
+ingredient	broccoli	bowl	oatmeal	vessel	delicious	tasty	starchy	pot	spice	
+ingredient	broccoli	bowl	oatmeal	vessel	tasty	delicious	starchy	oats	fluffy	
+ingredient	bowl	broccoli	oatmeal	vessel	delicious	tasty	starchy	spice	fluffy	
+ingredient	broccoli	oatmeal	bowl	tasty	vessel	delicious	starchy	spice	breakfast	
+average coherence	-1273.0885324996257

@@ -1,0 +1,16 @@
+hose	attachment	cap	hole	cord	tube	thread	portion	bolt	gas	
+space	larger	fit	small	large	snug	length	room	bigger	lb	
+expensive	cost	money	prime	cheaper	buck	shipping	purchase	fast	extra	
+compressor	hose	gas	pump	chuck	guage	inflator	air	inflater	valve	
+bike	mph	ride	road	commute	mile	dunlops	trek	rider	sensor	
+green	bright	dark	color	red	light	led	tent	orange	black	
+lever	slick	kevlar	bead	patch	specialized	sidewall	removal	debris	rim	
+price	customer	order	service	positive	negative	previous	gift	online	website	
+pressure	psus	trigger	adjustment	gauge	stem	chuck	valve	low	leveler	
+metal	heavy	rubber	thick	cheap	piece	case	construction	feel	material	
+plug	outlet	socket	connector	slime	power	connection	amp	adapter	switch	
+easy	dry	warm	traction	high	rain	winter	gauge	ground	air	
+flat	wheel	rear	door	side	stable	back	front	cover	top	
+direction	easier	minute	simple	tool	reading	installation	job	longer	super	
+trailer	valve	trigger	suv	trek	stem	stable	gravel	bmw	inflation	
+average coherence	-131.76777910960215

@@ -1,0 +1,16 @@
+tax	pivoting	cheaper	white	price	buy	cost	skeptical	sale	expensive	
+cat	hair	mud	furniture	dog	grass	superior	rug	fur	upholstery	
+upright	cleaner	small	compact	lightweight	lb	vaccum	weight	carpeted	place	
+paw	model	older	newer	power	similar	socket	switch	version	cheaper	
+reusable	bosch	inside	meile	bag	canister	lid	bagless	vaccum	huge	
+twist	miele	canister	debris	maneuverable	flex	dyson	dark	kirby	cannister	
+hardwood	vinyl	floor	bare	linoleum	rug	carpet	flooring	laminate	carpeting	
+extension	hose	attachment	retractable	outlet	plug	cord	baseboard	socket	cigarette	
+rating	star	due	minor	machine	hard	lack	hot	complaint	belt	
+consumer	review	positive	research	comment	report	decision	high	glad	chair	
+flimsy	plastic	thin	housing	metal	cover	extra	smell	lever	complete	
+minute	super	easy	wash	quick	kit	edge	seconds	seat	vehicle	
+ceiling	room	piece	pedal	sq	foot	replacement	repair	kitchen	dealer	
+flex	vac	buster	nozzel	canister	hoover	bissell	maneuverable	helix	cleanview	
+sofa	hair	debris	caddy	mud	cat	clump	attachment	nozzel	brush	
+average coherence	-1295.845039841936

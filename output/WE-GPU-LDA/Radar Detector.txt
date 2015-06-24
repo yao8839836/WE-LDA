@@ -1,0 +1,16 @@
+choice	detectors	purchase	idea	alternative	fault	future	esd	cheaper	cobra	
+encounter	redline	valentine	ku	stus	overpass	gun	threat	fals	cop	
+encounter	redline	cop	gun	police	stus	patrol	threat	overpass	presence	
+encounter	gun	threat	cop	grocery	fewer	fals	overpass	stus	police	
+gun	cop	patrol	police	grocery	threat	encounter	presence	officer	fals	
+gun	cop	patrol	police	threat	grocery	fals	encounter	hill	presence	
+gun	threat	cop	grocery	patrol	presence	encounter	police	fals	overpass	
+gun	cop	grocery	threat	fewer	encounter	presence	police	patrol	overpass	
+gun	cop	grocery	patrol	presence	police	officer	threat	stus	overpass	
+gun	threat	cop	grocery	fewer	alert	presence	patrol	fals	police	
+gun	threat	cop	grocery	encounter	presence	fewer	fals	overpass	police	
+gun	grocery	cop	presence	patrol	threat	officer	police	fewer	fals	
+gun	cop	patrol	grocery	police	officer	presence	threat	hill	alert	
+gun	cop	patrol	grocery	officer	police	presence	threat	hill	ka	
+grocery	gun	presence	patrol	danger	cruiser	officer	threat	alert	cop	
+average coherence	-1348.939005004422

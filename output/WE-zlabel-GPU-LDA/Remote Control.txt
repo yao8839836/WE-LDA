@@ -1,0 +1,16 @@
+volume	macro	level	programmable	push	customizable	finger	keypad	mode	auto	
+ipad	ipod	classic	rating	star	due	minor	generation	iphone	decoder	
+tv	replay	dvr	vcr	satellite	discrete	receiver	dish	channel	show	
+directv	yamaha	av	vcr	pioneer	denon	onkyo	dvd	xbox	satellite	
+lg	lcd	player	hdtv	samsung	sharp	extension	cord	wire	plug	
+rechargeable	aaa	aa	charge	ufo	life	charger	pack	battery	headset	
+intuitive	quick	easy	wizard	interface	exposure	super	shake	programming	simple	
+ability	device	sequence	command	system	computer	watch	timing	entertainment	specific	
+button	push	select	menu	pause	arrow	command	layout	mute	function	
+logitech	website	harmony	site	universal	forum	firmware	online	command	update	
+room	bedroom	theater	basement	review	windows	positive	house	left	front	
+expensive	dollar	small	pocket	dark	compact	sale	price	series	hand	
+shake	shot	shutter	tripod	lapse	photo	slide	lens	nikon	camera	
+cable	hdmus	comcast	hdmi	rep	sat	discrete	av	component	support	
+transmitter	stereo	distance	floor	area	foot	reception	couch	bass	weak	
+average coherence	-1259.7498976841814

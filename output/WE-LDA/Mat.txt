@@ -1,0 +1,16 @@
+smell	toxic	odor	paper	parchment	dry	sensitive	price	wet	strong	
+germination	sprout	seed	degree	pepper	temp	tomato	seedling	coop	cold	
+strap	thick	material	flimsy	cheap	thin	plastic	surface	smooth	cushion	
+dough	pie	biscuit	toffee	pizza	sticky	flour	croissant	gooey	roast	
+corner	hardwood	tile	side	ground	front	bottom	flat	floor	line	
+bread	biscuit	crust	batch	crispy	baked	fries	pie	croissant	potato	
+pilate	sweat	exercise	yoga	move	routine	plyometric	slippery	padding	resistance	
+nonstick	silicone	bake	baking	pastry	demarle	silpats	silpat	foil	silicon	
+cookie	sheet	pan	silpat	grease	cleanup	carpet	hardwood	cleaning	damp	
+heat	tray	night	wonderful	home	friend	addition	water	run	minute	
+oven	cookie	bake	batch	nacho	biscuit	silpat	nordic	croissant	crispy	
+clean	breeze	super	easy	soapy	ease	instruction	setup	sturdy	quick	
+rating	money	dollar	positive	star	review	christmas	mom	local	sister	
+larger	large	smaller	small	size	space	bigger	bed	fit	regular	
+flavor	chicken	butter	savory	sugar	cheese	candy	taste	recipe	sponge	
+average coherence	-129.0558031129018

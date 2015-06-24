@@ -1,0 +1,16 @@
+sata	power	card	disk	speed	usb	software	connection	machine	mac	
+sata	card	power	disk	speed	usb	software	case	firewire	connection	
+sata	power	card	speed	disk	usb	case	external	connection	connector	
+card	sata	power	disk	speed	usb	software	connection	case	sound	
+card	disk	sata	power	speed	software	usb	external	connection	case	
+card	disk	sata	power	speed	software	mac	usb	machine	connection	
+card	sata	disk	power	speed	software	usb	connection	sound	machine	
+card	sata	disk	power	speed	usb	software	connection	mac	machine	
+sata	power	card	disk	speed	usb	software	connection	case	sound	
+sata	power	card	speed	disk	usb	case	connection	external	firewire	
+sata	card	power	speed	disk	usb	software	connection	case	sound	
+sata	power	card	speed	disk	usb	software	connection	case	sound	
+sata	card	power	speed	disk	case	usb	external	gb	connector	
+card	sata	power	disk	speed	software	usb	mac	machine	sound	
+card	sata	disk	power	speed	software	usb	mac	connection	life	
+average coherence	-1617.4937967252922

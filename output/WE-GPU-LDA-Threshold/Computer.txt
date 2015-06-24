@@ -1,0 +1,16 @@
+screen	size	keyboard	full	case	touch	pro	con	mouse	larger	
+button	pixel	power	side	dead	top	control	small	light	bottom	
+dvi	vga	cable	speaker	sound	tv	connection	hdmus	hdmi	input	
+resolution	picture	display	text	image	clear	sharp	graphic	high	monitor	
+monitor	lcd	samsung	sony	crt	panel	trinitron	dell	viewsonic	flat	
+card	usb	port	device	hard	drive	file	memory	sd	camera	
+tablet	battery	thrive	hour	toshiba	life	wifus	wifi	weight	long	
+monitor	inch	big	money	desk	worth	space	stand	desktop	cheap	
+color	screen	black	brightness	contrast	angle	bright	light	picture	white	
+easy	setting	display	box	user	software	setup	website	apple	driver	
+tablet	app	android	ipad	xoom	market	device	phone	archos	os	
+monitor	price	hp	model	performance	feature	due	range	low	buy	
+system	windows	pc	home	mac	machine	application	netbook	office	intel	
+video	game	movie	web	gaming	music	dvd	internet	fast	photo	
+review	support	warranty	star	service	apple	reason	purchase	tech	technical	
+average coherence	-1557.190034764216

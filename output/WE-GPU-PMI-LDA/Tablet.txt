@@ -1,0 +1,16 @@
+pen	stylus	wacom	pad	capacitive	finger	tip	precise	fingerprint	boxwave	
+ipad	case	iphone	cover	fire	capacitive	trent	protective	accessory	plastic	
+video	game	player	movie	music	email	web	internet	browser	youtube	
+price	money	expensive	extra	worth	gift	christmas	buck	deal	dollar	
+app	android	market	kindle	cruz	google	nook	archos	xoom	marketplace	
+screen	touch	touchscreen	display	responsive	pro	con	sensitive	angle	smooth	
+usb	sound	speaker	cable	port	power	radio	plug	cord	charger	
+easy	phone	device	simple	wireless	wifus	photo	router	fast	bluetooth	
+battery	laptop	computer	hour	pc	charge	life	minute	device	home	
+android	device	app	xoom	market	cruz	archos	galaxy	kindle	tab	
+software	update	version	firmware	experience	program	model	driver	latest	website	
+size	small	large	smaller	light	larger	bigger	space	big	tiny	
+card	sd	reader	book	slot	camera	file	memory	picture	micro	
+review	thrive	star	support	toshiba	reason	replacement	customer	service	part	
+keyboard	mouse	button	side	key	top	touchpad	easier	bottom	mode	
+average coherence	-1500.7042021284287

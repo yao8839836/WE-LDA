@@ -1,0 +1,16 @@
+image	editing	icon	capture	text	print	art	letter	vector	picture	
+review	rating	positive	comment	star	experience	main	update	fact	website	
+game	age	adult	older	tool	choice	larger	number	japanese	easy	
+cost	money	purchase	buck	dollar	total	seller	cheaper	sale	local	
+studio	format	cd	dvd	video	mep	editing	music	audio	vhs	
+minute	home	hour	door	large	gb	life	window	part	partition	
+download	default	transaction	corel	express	account	suite	quicken	adobe	quickbooks	
+computer	vista	support	control	interface	windows	microsoft	upgrade	free	drive	
+user	file	feature	ability	entourage	keyboard	menu	command	option	paperport	
+version	latest	partitionmagic	previous	antivirus	deluxe	slower	virusscan	quicken	quickbooks	
+aol	mcafee	firewall	spyware	norton	utilities	virus	conflict	gateway	symantec	
+simple	process	quick	system	instruction	straightforward	direction	installation	setup	intuitive	
+nt	xp	pc	registry	gateway	compatible	os	computer	shutdown	win	
+customer	representative	assistance	service	call	response	intuit	online	quickbooks	invoice	
+pronunciation	word	english	grammar	language	excel	spanish	letter	concept	teacher	
+average coherence	-141.54218365907866

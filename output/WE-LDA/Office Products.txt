@@ -1,0 +1,16 @@
+box	place	tape	inch	cardboard	wall	door	packing	hole	cap	
+color	dark	pink	bright	green	orange	yellow	red	white	choice	
+inkjet	printer	paper	sheet	postage	mailing	epson	label	hp	template	
+pencil	sharpener	sturdy	dull	edge	sharp	construction	knife	thin	heavy	
+waterman	ink	lamy	montblanc	ribbon	handwriting	pen	pilot	ballpoint	quill	
+ooma	voip	vonage	email	phone	voicemail	customer	landline	account	monthly	
+pen	side	rest	plastic	kind	back	hard	front	period	due	
+note	clear	feature	option	system	user	page	sort	classic	original	
+tape	line	floor	smooth	surface	rubber	flat	sticky	inside	finger	
+book	text	glossy	print	word	information	screen	student	teacher	letter	
+credit	drive	disc	cd	card	home	battery	file	port	desk	
+installation	setup	quick	instruction	easy	laminating	easier	laminator	clean	simple	
+small	wide	smaller	larger	large	space	size	width	bigger	regular	
+label	price	hour	cartridge	minute	result	money	manual	difficult	avery	
+shipping	mail	star	rating	warranty	cost	sale	replacement	vendor	buck	
+average coherence	-133.5023650106071

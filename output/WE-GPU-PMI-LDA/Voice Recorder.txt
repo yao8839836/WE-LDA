@@ -1,0 +1,16 @@
+hour	recording	mode	voice	setting	minute	record	playback	dictation	half	
+usb	computer	laptop	port	device	hub	cable	pc	drive	connection	
+price	feature	function	expensive	option	money	cost	buck	ability	extra	
+file	software	pc	computer	mac	format	driver	wav	windows	laptop	
+file	format	player	folder	wav	music	wma	audio	media	order	
+easy	manual	instruction	simple	user	breeze	quick	step	interface	intuitive	
+review	recording	voice	star	purchase	research	reason	record	dictation	point	
+small	easy	pocket	light	size	smaller	screen	tiny	case	simple	
+recording	voice	clear	sound	record	playback	dictation	microphone	lecture	professor	
+sound	recording	noise	low	voice	volume	level	microphone	speaker	loud	
+sound	speaker	microphone	mic	stereo	headphone	recording	voice	jack	room	
+button	menu	press	control	easy	select	side	simple	option	tape	
+olympus	digital	sony	model	voice	recording	older	previous	panasonic	analog	
+battery	life	aa	charge	rechargeable	aaa	memory	long	card	slot	
+device	class	note	phone	meeting	interview	student	conversation	person	college	
+average coherence	-1488.5166609087682

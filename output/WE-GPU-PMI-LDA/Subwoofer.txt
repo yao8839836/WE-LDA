@@ -1,0 +1,16 @@
+front	audio	output	rear	center	receiver	back	side	input	channel	
+speaker	sound	bass	klipsch	stereo	bose	big	player	jbl	woofer	
+volume	control	level	distortion	remote	light	knob	low	blue	headphone	
+music	movie	sound	speaker	bass	game	video	heavy	rock	boom	
+speaker	sound	bass	stereo	tv	klipsch	bose	bar	loud	mid	
+amp	watt	power	box	amplifier	ohm	kicker	rms	outlet	infinity	
+cable	hdmus	coaxial	audio	monster	rca	output	mediabridge	input	connection	
+room	small	space	large	living	bedroom	size	house	floor	apartment	
+sound	speaker	bass	clean	clear	crisp	tight	deep	stereo	mid	
+low	high	range	end	level	higher	volume	top	bottom	line	
+price	review	buck	expensive	money	reviewer	research	sound	speaker	purchase	
+system	home	theater	onkyo	setup	speaker	sound	polk	entertainment	rest	
+speaker	sound	bass	computer	klipsch	stereo	bose	pc	job	laptop	
+easy	speaker	sound	wire	simple	black	cheap	bass	hook	design	
+price	shipping	buck	car	expensive	hard	star	service	reason	company	
+average coherence	-1500.4753735885317

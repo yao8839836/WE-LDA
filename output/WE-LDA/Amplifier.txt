@@ -1,0 +1,16 @@
+dont	dollar	buck	extra	price	glad	money	purchase	cheaper	cost	
+life	hour	charge	rechargeable	return	question	half	defective	headset	phone	
+line	flimsy	plastic	metal	sound	cheap	front	sturdy	construction	back	
+positive	negative	comment	review	rating	due	chance	main	star	decision	
+ohm	watts	rm	kenwood	lod	kicker	xplod	fiio	apogee	boostaroo	
+speaker	klipsch	polk	system	theater	stereo	woofer	bedroom	room	house	
+small	earbud	sennheiser	portable	bigger	lightweight	weight	earphone	pocket	fit	
+signal	vhf	booster	antenna	weak	stronger	station	broadcast	reception	channel	
+composite	coaxial	output	channel	analog	satellite	broadcast	input	rca	receiver	
+ga	ground	insulation	chassis	gauge	preamp	fuse	attic	terminal	splitter	
+midrange	guitar	bass	rich	distortion	deep	mid	high	frequency	level	
+jack	mm	female	wire	headphone	usb	wiring	plug	kit	adapter	
+power	light	green	bright	red	blue	audio	watt	indicator	warm	
+control	volume	sound	adjustment	menu	dial	button	sleep	device	function	
+cable	simple	tv	box	setup	installation	digital	super	instruction	signal	
+average coherence	-124.32637301335942

@@ -1,0 +1,16 @@
+phone	tape	cell	dv	comment	number	positive	hold	deck	offer	
+broadcast	showstopper	comcast	cable	tvgo	tv	replay	satellite	channel	pvr	
+scheduling	favorite	keyword	program	dhg	actor	record	wishlist	ability	scheduler	
+card	wireless	slot	ethernet	linksys	network	internal	networking	storage	modem	
+tripod	shot	core	purchase	speed	download	fast	money	camera	rewind	
+showbiz	windows	arcsoft	software	totalmedia	driver	wintv	mce	xp	win	
+avus	format	wmv	wtv	mpg	conversion	repair	theater	bedroom	office	
+output	analog	dolby	dt	hdmus	audio	input	vga	recording	component	
+hauppauge	pc	elgato	computer	burner	desktop	wtv	media	bluray	disc	
+intuitive	button	guide	universal	control	simple	straight	command	quick	rf	
+rep	representative	service	customer	sonicblue	question	technical	pricing	bottom	company	
+hard	flash	contents	brainer	external	disk	internal	rating	star	stream	
+picture	display	game	netflix	lcd	bright	nfl	clarity	beautiful	youtube	
+older	newer	firmware	latest	previous	website	future	update	version	series	
+wishlist	survivor	drama	rerun	friends	favorite	season	show	weekly	schedule	
+average coherence	-1298.8786813299662

@@ -1,0 +1,16 @@
+drive	hard	usb	external	computer	pc	flash	disk	portable	card	
+screen	picture	big	size	display	sound	clear	image	case	large	
+support	review	price	sound	point	customer	headphone	purchase	research	cowon	
+netflix	content	streaming	youtube	app	hulu	stream	roku	pandora	market	
+device	firmware	version	update	latest	software	future	upgrade	model	star	
+network	wireless	wifus	cable	router	internet	connection	hdmus	wifi	adapter	
+player	media	digital	server	windows	computer	hd	share	western	pc	
+zune	ipod	itunes	marketplace	software	zen	generation	microsoft	apple	creative	
+file	format	video	type	wav	movie	dvd	mkv	avi	avus	
+video	movie	format	playback	file	show	kid	episode	audio	tv	
+easy	interface	user	intuitive	simple	setup	quick	friendly	menu	con	
+remote	device	control	button	menu	power	universal	keyboard	harmony	ir	
+feature	hour	battery	radio	option	minute	fm	life	function	long	
+music	song	album	artist	playlist	track	zune	library	folder	art	
+box	tv	boxee	wd	roku	dvr	live	wdtv	stream	content	
+average coherence	-1595.172997537185

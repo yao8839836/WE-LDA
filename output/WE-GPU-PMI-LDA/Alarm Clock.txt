@@ -1,0 +1,16 @@
+sound	speaker	audio	white	machine	noise	soother	loud	image	short	
+minute	hour	seconds	hand	half	feature	process	setting	accurate	couple	
+button	snooze	control	press	nature	nap	menu	dial	push	top	
+battery	power	aa	aaa	solar	atomic	backup	instruction	model	manual	
+room	light	dark	bedroom	night	bright	house	bed	dim	kitchen	
+radio	digital	station	fm	tuner	analog	cd	photo	reception	signal	
+light	dark	bright	night	display	red	dim	blue	green	led	
+cheap	plastic	piece	junk	flimsy	job	company	cute	durable	price	
+light	bright	display	dark	switch	back	dim	green	led	blue	
+small	large	number	size	big	compact	tiny	smaller	correct	bigger	
+light	night	dark	bright	display	face	green	color	red	dim	
+easy	simple	travel	intuitive	small	elgin	size	compact	reliable	bedside	
+review	feature	price	money	purchase	reviewer	design	extra	previous	positive	
+star	fact	reason	morning	complaint	main	christmas	function	due	gift	
+loud	volume	setting	noise	level	sleeper	quiet	fan	background	low	
+average coherence	-1392.7183163910377

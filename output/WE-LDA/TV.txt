@@ -1,0 +1,16 @@
+screen	crt	westinghouse	sharp	lcd	bright	vivid	dlp	led	dark	
+vhf	antenna	dtv	atsc	broadcast	channel	signal	winegard	stronger	directional	
+ethernet	pc	mce	hauppauge	wireless	network	wifus	share	connection	windows	
+memory	card	internal	reader	hard	slot	storage	video	sdhc	external	
+intuitive	control	menu	device	breeze	navigation	guide	simple	button	option	
+pandora	stream	youtube	wmv	hulu	avi	flv	streaming	avus	roku	
+expensive	buck	price	cheaper	buy	dont	tax	glad	extra	sale	
+rep	representative	india	question	support	service	department	customer	replacement	refund	
+model	positive	rating	previous	version	review	negative	online	latest	future	
+picture	clear	clarity	level	superb	rich	color	definition	loud	audio	
+wall	located	hole	stud	socket	line	left	flush	screw	arm	
+hdmus	vga	component	av	hdmi	coaxial	output	analog	hd	wega	
+room	bedroom	dorm	theater	system	house	guest	cable	entertainment	box	
+speaker	sound	atsc	fm	station	stereo	bose	tuner	clock	radio	
+player	small	bigger	compact	dvd	remote	aa	smaller	half	hour	
+average coherence	-126.99766540038387

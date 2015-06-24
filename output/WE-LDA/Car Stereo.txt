@@ -1,0 +1,16 @@
+socket	cigarette	plug	extension	cord	charger	visor	adapter	radioshack	dash	
+rating	review	positive	older	star	chance	negative	previous	experience	online	
+system	streaming	stream	pc	artist	pandora	device	album	youtube	computer	
+control	menu	command	screen	button	instruction	panel	lcd	user	interface	
+question	service	customer	return	shipping	defective	technical	prompt	label	shipment	
+cable	usb	dongle	connection	broadband	slot	memory	card	port	computer	
+jack	input	audio	output	mm	speaker	aux	connector	auxiliary	receiver	
+clear	distortion	static	bass	loud	voice	high	audible	max	hissing	
+cheaper	price	dont	dollar	buck	glad	buy	satisfied	expensive	sale	
+transmitter	dlo	station	satechi	devices	soundfly	modulator	interference	signal	antenna	
+sound	music	iphone	radio	fm	device	volume	ipod	player	easy	
+phone	cell	person	tethering	telephone	smart	headset	asteroid	answer	call	
+case	small	flimsy	thick	cable	thin	portable	con	compact	construction	
+life	short	hour	light	minute	green	charge	half	power	wire	
+bluetooth	blackberry	generation	htc	ipod	bt	britelink	droid	tethering	paired	
+average coherence	-130.69517343277542

@@ -1,0 +1,16 @@
+lanyard	goggles	neck	backpack	uncomfortable	silicone	wear	belt	spring	shorter	
+style	inexpensive	crossfeed	earbud	opinion	decent	choice	headset	earphone	gym	
+opinion	choice	chance	expensive	alot	superior	purchase	cheaper	research	alternative	
+choice	opinion	labs	zen	idea	rhapsody	muvo	jukebox	chance	creative	
+song	music	podcast	bookmark	itunes	playlist	zen	itune	rhapsody	audiobook	
+itunes	bookmark	itune	playlist	song	podcast	music	library	wav	rhapsody	
+itunes	playlist	bookmark	song	itune	library	wav	music	rhapsody	wma	
+itunes	itune	playlist	song	bookmark	wav	music	library	wmp	ability	
+itunes	itune	playlist	bookmark	wmp	rhapsody	library	wav	song	organizer	
+itunes	wmp	itune	playlist	playcenter	rhapsody	organizer	bookmark	library	winamp	
+itunes	wmp	itune	playlist	organizer	bookmark	playcenter	sync	wav	rhapsody	
+itunes	wmp	itune	playlist	organizer	winamp	rhapsody	wav	library	bookmark	
+itunes	wmp	itune	playlist	rhapsody	playcenter	organizer	bookmark	syncing	winamp	
+wmp	itunes	itune	rhapsody	playlist	winamp	organizer	syncing	playcenter	library	
+wmp	itunes	winamp	itune	rhapsody	playcenter	syncing	sync	mtp	organizer	
+average coherence	-1201.175571533498

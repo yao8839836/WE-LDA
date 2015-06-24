@@ -1,0 +1,16 @@
+cable	tv	hdmus	box	comcast	dvr	optical	television	directv	coaxial	
+input	output	audio	digital	component	dolby	rca	source	logic	optical	
+speaker	sound	front	wireless	channel	receiver	center	rear	stereo	bose	
+price	feature	money	buck	expensive	cost	extra	deal	worth	purchase	
+subwoofer	sound	speaker	power	watt	woofer	amp	bass	receiver	stereo	
+home	theater	onkyo	sony	theatre	entertainment	panasonic	pioneer	box	samsung	
+sony	panasonic	samsung	service	model	pioneer	customer	lg	vizio	warranty	
+sound	speaker	picture	bass	clear	stereo	bose	equalizer	crisp	bar	
+dvd	player	vcr	changer	progressive	disc	cd	disk	tray	vcd	
+remote	easy	setup	control	button	simple	universal	manual	menu	harmony	
+movie	tv	video	music	game	radio	show	mode	television	playback	
+room	small	bedroom	living	sound	apartment	large	space	speaker	smaller	
+volume	level	sound	high	low	loud	speaker	light	end	range	
+speaker	sound	wire	stereo	bose	wall	bass	wiring	front	rear	
+review	complaint	star	fact	main	screen	reviewer	reason	hour	minute	
+average coherence	-1559.7127987296683

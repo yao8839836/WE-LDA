@@ -1,0 +1,16 @@
+limit	lb	pound	heavier	portable	compact	handy	seconds	weight	lighter	
+bumpy	ride	bike	wheel	road	motorcycle	knee	rough	bicycle	bump	
+speed	volume	high	low	higher	speaker	control	amp	york	city	
+dry	rain	office	battery	plenty	hour	friend	winter	snow	wind	
+razor	smooth	wooden	wood	edge	material	rough	construction	feel	wheel	
+pink	green	color	dark	purple	red	bright	choice	blue	black	
+brake	folding	wider	handlebar	handlebars	taller	adjustable	deck	shorter	rear	
+easy	wheel	razor	big	adult	kid	bar	sturdy	fast	height	
+cost	buck	money	online	expensive	purchase	cheaper	extra	company	seller	
+price	negative	reason	customer	review	rating	experience	future	today	due	
+age	fun	kid	older	toy	young	skateboard	parent	stuff	boy	
+birthday	christmas	present	dad	nephew	mom	grandson	favorite	santa	gift	
+larger	small	bigger	smaller	regular	model	space	large	normal	size	
+toe	foot	heel	shoe	narrow	front	top	side	flat	rest	
+ready	minute	instruction	box	part	life	plastic	hard	piece	metal	
+average coherence	-127.43765895351068

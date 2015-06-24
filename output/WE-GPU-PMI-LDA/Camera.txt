@@ -1,0 +1,16 @@
+review	model	kodak	star	research	reason	purchase	reviewer	customer	service	
+lens	flash	body	tripod	hard	case	pro	con	side	cheap	
+video	movie	format	playback	software	hd	recording	file	flip	computer	
+light	low	dark	high	range	led	green	blue	level	night	
+easy	feature	simple	quick	option	intuitive	user	ability	function	menu	
+zoom	screen	focus	sound	lcd	button	viewfinder	field	display	optical	
+mode	setting	manual	auto	feature	instruction	control	shot	change	shooting	
+price	money	extra	trip	expensive	cost	worth	christmas	update	water	
+battery	card	charge	aa	memory	sd	life	slot	minute	usb	
+camcorder	sony	panasonic	digital	tape	footage	minidv	line	price	top	
+canon	nikon	dslr	slr	photography	rebel	point	shoot	photographer	digital	
+small	size	smaller	large	compact	larger	big	hand	bigger	pocket	
+shot	shutter	noise	film	shooting	exposure	iso	speed	long	frame	
+picture	image	clear	sharp	crisp	detail	text	stabilization	piece	event	
+photo	picture	pic	image	color	editing	black	white	bright	sharp	
+average coherence	-1537.7280254216553

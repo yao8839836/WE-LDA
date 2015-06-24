@@ -1,0 +1,16 @@
+stabilization	recording	small	night	film	opinion	crisp	mode	price	clear	
+stabilization	recording	night	small	film	crisp	opinion	mode	clear	price	
+stabilization	recording	night	small	color	price	crisp	film	opinion	sharp	
+night	recording	stabilization	small	crisp	opinion	mode	film	clear	front	
+night	recording	stabilization	angle	review	lens	small	opinion	crisp	noise	
+dv	drive	firewire	port	link	tape	interface	video	vhs	night	
+night	recording	stabilization	small	opinion	mode	crisp	film	clear	front	
+night	feature	lens	steadyshot	review	recording	stabilization	angle	sound	small	
+night	angle	recording	stabilization	lens	opinion	crisp	small	film	review	
+battery	hour	life	minute	charger	stabilization	recording	small	night	price	
+recording	stabilization	small	night	crisp	film	opinion	mode	clear	price	
+night	stabilization	recording	small	opinion	crisp	film	mode	clear	lens	
+night	stabilization	recording	small	crisp	film	mode	opinion	review	lens	
+night	stabilization	recording	small	crisp	film	opinion	mode	clear	kid	
+night	recording	stabilization	small	opinion	film	mode	crisp	clear	review	
+average coherence	-1589.9781027873116

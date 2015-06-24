@@ -1,0 +1,16 @@
+review	dbm	positive	antenna	signal	station	online	previous	transmitter	radio	
+telephone	background	galaxy	loud	cancellation	noise	environment	information	number	conversation	
+secure	metal	plastic	flimsy	shiny	clip	holder	rubber	multiple	thin	
+screen	button	protector	menu	command	zagg	push	fingerprint	lightweight	blue	
+ipad	xoom	carrier	evo	droid	iphone	blackberry	cell	htc	sprint	
+keyboard	android	rating	google	star	market	typing	impossible	junk	equipment	
+simple	quick	buck	account	texting	price	interface	email	setup	easy	
+charger	bud	fit	head	ear	audiobook	song	level	uncomfortable	earpiece	
+speaker	smaller	space	crisp	audiophile	playback	clarity	bass	sound	movie	
+innocase	droid	moto	option	pen	ability	feature	holster	defective	replacement	
+side	front	corner	voice	bottom	mailbox	slider	edge	road	back	
+life	hour	charge	battery	longer	color	minute	overnight	half	error	
+card	storage	microsd	slot	jack	internal	gb	microphone	pair	micro	
+usb	wifi	mini	device	computer	pc	cord	os	port	wifus	
+case	protective	conversation	leather	headset	conference	answer	clip	call	tech	
+average coherence	-1215.4580942118193

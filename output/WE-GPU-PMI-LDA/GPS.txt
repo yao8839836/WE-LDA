@@ -1,0 +1,16 @@
+battery	card	power	charge	sd	cable	life	slot	usb	memory	
+watch	pace	datum	speed	run	rate	heart	workout	distance	calorie	
+map	traffic	route	area	city	highway	road	driving	place	trip	
+address	location	point	support	customer	service	gas	restaurant	pous	hotel	
+trip	road	car	mile	charger	distance	town	business	friend	lighter	
+easy	simple	feature	intuitive	information	accurate	user	quick	interface	navigation	
+model	price	review	money	device	older	cost	previous	research	newer	
+direction	street	turn	lane	instruction	exit	freeway	manual	nuvi	wrong	
+software	device	windshield	driver	pc	computer	dash	window	dashboard	laptop	
+feature	voice	option	ability	clear	menu	favorite	button	function	vehicle	
+screen	display	small	large	size	big	touchscreen	smaller	larger	touch	
+phone	case	side	destination	part	call	tom	camera	number	left	
+gps	tomtom	magellan	roadmate	navigator	home	system	nuvi	date	nuvus	
+map	traffic	route	update	version	free	lifetime	latest	firmware	advance	
+satellite	minute	hour	signal	star	seconds	antenna	reason	ready	receiver	
+average coherence	-1489.03331735454

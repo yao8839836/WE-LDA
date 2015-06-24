@@ -1,0 +1,16 @@
+distance	run	pace	mile	workout	datum	accurate	speed	elevation	foot	
+price	model	review	money	expensive	research	extra	older	previous	viewsonic	
+rate	heart	pace	calorie	watch	polar	run	workout	datum	strap	
+tv	speaker	device	home	power	sound	system	computer	dvd	television	
+feature	ability	windows	design	web	favorite	camera	xp	computer	software	
+screen	display	color	side	line	bright	top	black	angle	light	
+resolution	high	game	low	higher	graphic	gaming	screen	native	display	
+lcd	crt	flat	pixel	inch	dead	panel	area	plasma	samsung	
+size	big	large	small	screen	larger	space	bigger	smaller	display	
+picture	sharp	color	text	clear	image	crisp	display	brightness	bright	
+video	computer	dvi	cable	hdmus	card	vga	input	pc	hdmi	
+watch	battery	minute	hour	satellite	long	forerunner	garmin	life	gp	
+replacement	service	support	warranty	free	customer	shipping	star	part	sony	
+easy	setting	button	simple	intuitive	mode	menu	user	adjustment	quick	
+garmin	training	forerunner	runner	software	gp	marathon	gps	driver	center	
+average coherence	-1513.248448667993

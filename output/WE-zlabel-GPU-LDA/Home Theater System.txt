@@ -1,0 +1,16 @@
+player	format	video	ups	label	policy	playback	return	delivery	fedex	
+control	universal	mute	button	command	harmony	menu	intuitive	code	press	
+sound	crisp	distortion	rich	clarity	superb	audible	loud	stereo	equalizer	
+nerve	authorized	rep	customer	repair	service	replacement	defective	manufacturer	warranty	
+game	stream	movie	xbox	kid	picture	youtube	pandora	streaming	sharp	
+decoding	dts	decoder	dolby	logic	analog	wireless	ethernet	tuner	dt	
+room	bedroom	apartment	den	ceiling	condo	space	plenty	bed	house	
+directv	vcr	tv	changer	pioneer	dvd	progressive	disc	denon	dvr	
+theater	entertainment	theatre	home	thx	light	onkyo	red	denon	nerve	
+front	outlet	splice	wire	elbow	back	cabinet	rear	switch	wall	
+subwoofer	speaker	tinny	boomy	woofer	mediocre	polk	microphone	crossover	midrange	
+coaxial	hdmus	optic	toslink	hdmi	arc	analog	output	input	component	
+jack	cheaper	price	instruction	penny	buy	buck	bose	cinemate	purchase	
+mid	high	distortion	level	lcd	samsung	change	lowest	lg	frequency	
+guide	setup	quick	rating	straightforward	simple	breeze	review	chance	negative	
+average coherence	-1299.7881848854643

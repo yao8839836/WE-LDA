@@ -1,0 +1,16 @@
+feature	street	road	car	system	device	gps	address	turn	computer	
+feature	street	road	system	device	car	gps	turn	address	computer	
+feature	street	car	road	system	device	turn	gps	computer	address	
+car	road	feature	computer	street	system	device	address	gps	turn	
+car	computer	street	feature	road	system	gps	device	address	turn	
+car	street	feature	road	computer	gps	device	system	address	turn	
+feature	street	road	car	system	device	gps	turn	address	computer	
+feature	street	car	system	device	road	gps	address	turn	computer	
+car	feature	computer	street	system	device	road	address	gps	turn	
+street	feature	road	system	device	car	gps	turn	address	computer	
+feature	street	car	device	system	road	gps	computer	address	turn	
+car	feature	street	computer	system	device	road	gps	address	turn	
+car	feature	street	system	computer	road	device	gps	address	turn	
+car	feature	street	road	system	device	computer	address	gps	turn	
+feature	street	system	device	gps	road	car	address	turn	computer	
+average coherence	-1680.4014549877752

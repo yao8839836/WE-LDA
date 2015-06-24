@@ -1,0 +1,16 @@
+network	access	server	guest	point	password	security	print	file	ssid	
+review	price	money	star	line	experience	netgear	case	company	worth	
+firmware	netgear	linksys	linksy	version	buffalo	upgrade	latest	update	hardware	
+laptop	pc	mac	desktop	windows	card	xp	vista	printer	system	
+usb	port	drive	feature	gigabit	printer	lan	hard	network	storage	
+easy	setup	installation	simple	software	instruction	user	manual	cd	minute	
+support	tech	technical	hour	service	customer	phone	person	call	minute	
+device	band	ghz	wifus	wifi	dual	reboot	dlink	fact	channel	
+setting	ip	address	web	interface	configuration	option	feature	page	part	
+connection	internet	modem	cable	disconnection	isp	ethernet	charter	dsl	fast	
+computer	home	video	online	streaming	bridge	movie	netflix	adapter	stream	
+signal	house	strength	room	foot	home	wall	antenna	floor	coverage	
+box	power	minute	model	light	cisco	number	warranty	small	button	
+speed	range	performance	high	mbp	solid	connectivity	connection	transfer	download	
+netgear	linksys	linksy	belkin	older	past	easier	repeater	fix	experience	
+average coherence	-1554.6505628933903

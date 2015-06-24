@@ -1,0 +1,16 @@
+car	sound	adapter	cassette	audio	battery	music	feature	tape	hour	
+button	song	remote	track	disc	display	small	control	easy	function	
+car	sound	cassette	adapter	battery	music	audio	feature	tape	hour	
+car	sound	adapter	cassette	audio	feature	tape	battery	music	kit	
+price	money	portable	model	star	worth	size	high	piece	low	
+car	sound	cassette	adapter	battery	audio	music	hour	feature	kit	
+car	sound	cassette	adapter	battery	audio	music	feature	tape	hour	
+car	sound	cassette	adapter	audio	battery	music	feature	kit	tape	
+car	sound	adapter	cassette	battery	audio	music	hour	feature	tape	
+radio	station	volume	headphone	clock	bass	reception	alarm	hard	fm	
+car	sound	cassette	adapter	battery	music	audio	feature	kit	tape	
+car	sound	cassette	adapter	battery	audio	music	hour	kit	feature	
+car	sound	cassette	adapter	battery	review	music	audio	feature	tape	
+car	sound	cassette	adapter	battery	audio	music	feature	tape	kit	
+car	sound	cassette	adapter	battery	music	hour	audio	kit	feature	
+average coherence	-1619.4009774670312

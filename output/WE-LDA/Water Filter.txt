@@ -1,0 +1,16 @@
+taste	chlorine	kind	type	hard	smell	large	bag	difference	city	
+simple	instruction	clean	direction	installation	quick	clear	minute	process	super	
+flimsy	metal	cheap	thin	tape	plastic	rubber	steel	piece	material	
+shower	skin	hair	satisfied	aquasana	high	difference	disappointed	purchase	dry	
+coffee	brewing	brew	carafe	tea	tasting	coffeemaker	flavor	taste	drink	
+part	top	place	piece	sink	easy	friend	due	difficult	kind	
+customer	service	company	shipping	cost	seller	website	prime	order	email	
+faucet	valve	knob	pressure	hose	pipe	position	attachment	gasket	tubing	
+system	berkey	important	feature	black	bottle	filtration	world	cooler	td	
+coffee	replacement	maker	warranty	cuisinart	cost	packaging	local	company	cup	
+emergency	run	camping	car	con	hour	short	amount	carbon	seconds	
+head	line	open	home	small	smaller	bottom	larger	space	shower	
+money	expensive	price	extra	cheaper	easy	local	buck	retail	huge	
+pitcher	tap	pur	bottled	gallon	drinking	filtered	charcoal	particle	deposit	
+positive	negative	previous	review	online	reason	future	website	reviewer	poor	
+average coherence	-142.13716209696634

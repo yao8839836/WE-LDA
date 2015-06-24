@@ -1,0 +1,16 @@
+colorful	picture	text	sharp	vivid	beautiful	blurry	image	color	clear	
+feature	favorite	ability	high	function	lcd	tv	definition	option	multiple	
+dark	dim	bright	glow	sunlight	light	led	screen	sun	blue	
+menu	press	control	line	button	intuitive	finger	left	corner	function	
+sony	outdoor	studio	jvc	file	dvd	panasonic	grainy	jpg	worse	
+cap	angle	body	wider	hood	cover	telephoto	filter	uv	lens	
+rechargeable	aa	charge	pack	life	charger	battery	hour	saturation	sharpness	
+eyepiece	rating	astronomy	speed	photograph	star	evf	slide	complaint	viewfinder	
+nex	slr	nikon	minolta	cameras	olympus	cybershot	beginner	shoot	dslr	
+review	comment	canon	expensive	previous	positive	research	nikon	newer	consumer	
+sdhc	storage	slot	card	reader	video	format	internal	playback	memory	
+photo	low	thousand	editing	jpeg	service	iso	jpg	capture	road	
+compact	simple	small	intuitive	tiny	instruction	bulky	convenient	lightweight	large	
+minidv	landscape	subject	zoom	steady	shot	exposure	aperture	succession	portrait	
+mode	default	change	driver	life	price	windows	adjustment	balance	preset	
+average coherence	-1319.1887578341498

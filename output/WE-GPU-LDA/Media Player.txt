@@ -1,0 +1,16 @@
+style	inexpensive	kind	opinion	close	alot	chance	job	comfort	bulky	
+social	itunes	itune	wmp	library	wav	majority	syncing	pictures	drm	
+wmp	majority	itunes	wav	social	host	structure	library	itune	artwork	
+wmp	majority	artwork	structure	itunes	sharing	syncing	wav	social	host	
+wmp	majority	artwork	structure	wav	host	sharing	metada	itunes	library	
+wmp	host	majority	metada	structure	sharing	artwork	smb	shared	networked	
+wmp	structure	majority	host	artwork	sharing	shared	metada	smb	airplay	
+wmp	majority	structure	metada	artwork	sharing	wav	shared	host	smb	
+wmp	sharing	majority	networked	structure	artwork	metada	shared	host	smb	
+wmp	majority	sharing	metada	networked	artwork	airplay	smb	host	structure	
+wmp	majority	structure	artwork	metada	shared	host	sharing	smb	wav	
+wmp	sharing	networked	airplay	majority	smb	metada	shared	artwork	host	
+wmp	structure	majority	artwork	metada	shared	sharing	smb	airplay	networked	
+wmp	metada	artwork	structure	majority	smb	airplay	networked	shared	sharing	
+wmp	majority	sharing	metada	shared	smb	airplay	networked	artwork	structure	
+average coherence	-1050.4505508778534

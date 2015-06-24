@@ -1,0 +1,16 @@
+review	star	rebate	free	sapphire	warranty	reason	replacement	support	customer	
+gtx	evga	geforce	nvidia	ftw	radeon	ati	benchmark	score	edition	
+price	performance	money	buck	extra	cost	expensive	top	worth	difference	
+video	hd	game	resolution	movie	playback	format	frame	hdtv	display	
+driver	software	vista	latest	website	cd	nvidia	amd	update	version	
+screen	easy	installation	setup	display	system	computer	simple	minute	hour	
+video	windows	pc	xp	window	computer	vista	dell	playback	movie	
+setting	fp	ultra	battlefield	skyrim	crysis	max	game	highest	mode	
+power	case	supply	big	large	huge	size	connector	small	consumption	
+computer	slot	older	agp	pcus	pci	upgrade	pc	model	graphic	
+ram	intel	core	cpu	amd	ghz	asus	dual	motherboard	processor	
+gpu	overclock	bio	clock	shader	oc	memory	overclocking	stock	speed	
+monitor	dvi	vga	hdmus	hdmi	cable	port	adapter	widescreen	box	
+fan	quiet	loud	temp	temperature	cool	load	heat	air	noise	
+game	graphic	high	gaming	low	movie	higher	end	lower	performance	
+average coherence	-1471.3452036654744

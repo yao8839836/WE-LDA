@@ -1,0 +1,16 @@
+feature	service	call	cell	voice	verizon	signal	customer	reception	home	
+case	screen	easy	part	iphone	usb	charger	money	minute	glass	
+case	screen	iphone	easy	part	motorola	droid	usb	charger	review	
+ear	case	piece	screen	easy	part	small	plastic	iphone	design	
+case	screen	easy	part	iphone	protector	usb	charger	scratch	sturdy	
+headset	sound	call	headphone	volume	clear	speaker	comfortable	noise	music	
+iphone	usb	charger	case	screen	easy	part	cable	adapter	port	
+case	iphone	screen	easy	part	usb	charger	ipod	color	fit	
+battery	life	hour	charge	evo	full	htc	datum	sprint	long	
+button	device	car	side	power	small	fm	cord	end	couple	
+case	screen	easy	part	iphone	charger	usb	replacement	white	feel	
+app	software	blackberry	free	nokia	device	hand	computer	samsung	android	
+price	pocket	cheap	star	review	hard	shipping	expensive	seller	stylus	
+camera	card	video	music	picture	feature	memory	size	flash	micro	
+keyboard	text	number	email	contact	message	internet	type	sim	touch	
+average coherence	-1512.7782779179827

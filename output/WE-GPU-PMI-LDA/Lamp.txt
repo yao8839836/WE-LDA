@@ -1,0 +1,16 @@
+reading	base	side	top	small	switch	weight	heavy	size	front	
+headlamp	petzl	tikka	tikkina	tactikka	model	cheaper	older	screen	energizer	
+plastic	box	cheap	part	cover	metal	durable	order	case	simple	
+red	led	night	white	yellow	bright	feature	black	filter	blue	
+bulb	tv	replacement	housing	sony	original	warranty	toshiba	today	dlp	
+head	comfortable	headband	uncomfortable	strap	angle	adjustable	easy	lightweight	place	
+camping	hand	shipping	flashlight	power	free	headlight	car	seller	trip	
+clamp	kreg	pipe	piece	jig	screw	hole	pocket	project	tool	
+battery	life	aa	hour	minute	long	couple	aaa	half	compartment	
+setting	bright	high	low	mode	beam	brightness	button	end	dark	
+easy	small	switch	color	job	breeze	quick	bulb	design	house	
+bright	night	dark	headlamp	eye	brightness	dog	petzl	plenty	morning	
+review	christmas	star	gift	book	reviewer	reason	due	mcnab	customer	
+price	money	expensive	extra	purchase	model	cost	worth	buck	dollar	
+room	bedroom	living	floor	lighting	cord	desk	house	place	apartment	
+average coherence	-1369.6564227853858

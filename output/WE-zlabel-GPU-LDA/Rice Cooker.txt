@@ -1,0 +1,16 @@
+pot	vessel	tofu	dishwasher	crust	pea	bottom	fridge	crunchy	spoon	
+minute	apartment	dorm	battery	person	plenty	ideal	college	single	mode	
+measure	spatula	uncooked	measuring	overflow	vessel	american	cup	spoon	barley	
+larger	large	footprint	kitchen	smaller	bigger	tiny	small	counter	amount	
+glad	positive	comment	research	purchase	online	negative	christmas	review	chance	
+uncooked	dry	wet	oz	lunch	tablespoon	indicator	proportion	measure	light	
+basmatus	jasmine	quinoa	sushi	mixed	brown	porridge	wild	grits	tasty	
+starchy	catcher	lid	condensation	dishwasher	pan	fridge	mess	spoon	splatter	
+guide	instruction	quick	super	breeze	easy	clean	english	simple	convenient	
+plunge	expensive	fuzzy	replacement	model	customer	cheaper	similar	warranty	cost	
+basket	meat	vegetable	small	steamer	veggy	tofu	steam	catcher	compact	
+cord	plug	pro	potato	chicken	durable	twinkle	star	back	satisfied	
+tablespoon	breakfast	timer	fill	spice	cereal	broth	boil	water	moisture	
+star	rating	job	due	option	couple	matter	holder	flaw	front	
+red	color	minor	slow	machine	awful	basmatus	black	poor	bread	
+average coherence	-1240.837217233958

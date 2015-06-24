@@ -1,0 +1,16 @@
+amount	function	feature	temperature	setting	button	heat	burst	hard	water	
+amount	function	feature	temperature	setting	button	hard	heat	burst	hole	
+amount	function	feature	setting	temperature	button	burst	heat	hard	hole	
+amount	function	feature	setting	temperature	button	burst	heat	hard	hole	
+press	tortilla	thin	dough	flour	wax	heavy	plate	paper	weight	
+amount	function	feature	temperature	setting	button	heat	burst	hard	leak	
+amount	function	feature	setting	temperature	button	burst	hard	heat	hole	
+cord	amount	function	setting	temperature	feature	button	hard	burst	heat	
+amount	temperature	setting	feature	function	button	hard	burst	heat	leak	
+amount	function	feature	temperature	setting	button	burst	heat	hard	hole	
+amount	setting	function	temperature	feature	button	heat	burst	hard	hole	
+amount	setting	temperature	function	feature	button	burst	heat	water	hard	
+amount	function	feature	temperature	setting	button	burst	hard	heat	leak	
+amount	function	temperature	feature	setting	button	heat	hard	burst	leak	
+amount	setting	temperature	function	feature	button	burst	heat	hard	water	
+average coherence	-1508.3159704074208

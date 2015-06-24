@@ -1,0 +1,16 @@
+signal	weak	stronger	antenna	ipad	strength	blackberry	music	box	neighbor	
+question	rep	staff	request	india	support	technical	representative	answer	tech	
+house	floor	sq	bedroom	garage	basement	wall	living	office	kitchen	
+range	setting	ability	decent	line	option	level	auto	default	change	
+led	light	green	bright	search	site	browser	broadcast	indicator	channel	
+quick	wizard	straightforward	instruction	setup	simple	breeze	process	intuitive	guide	
+review	positive	rating	software	decision	due	comment	enclosed	star	research	
+netgear	connected	gigabit	linksy	broadband	dsl	fio	internet	lan	wifi	
+password	ssid	security	share	network	ftp	server	wpa	wep	ip	
+shared	computer	hard	nas	external	flash	disk	winxp	pc	storage	
+connection	cable	direct	stream	ethernet	xbox	wifi	extender	modem	youtube	
+win	xp	os	linux	mac	cell	imac	windows	phone	smart	
+usb	hub	speed	mbp	datum	ethernet	transfer	upload	expensive	faster	
+desktop	dell	netbook	imac	laptop	pc	ghz	notebook	band	processor	
+firmware	na	bug	fix	site	website	latest	buggy	switch	version	
+average coherence	-1347.2359945440103

@@ -1,0 +1,16 @@
+core	ram	intel	amd	corsair	processor	ssd	motherboard	crucial	cpu	
+review	rating	negative	question	consumer	research	online	positive	replacement	decision	
+left	located	front	macbook	corner	dell	flat	widescreen	machine	side	
+vista	os	xp	linux	windows	ubuntu	program	compatible	hp	bootcamp	
+thick	metal	flimsy	plastic	aluminum	padding	construction	thin	material	stand	
+cable	connection	ethernet	wireless	hdmus	burner	game	speed	converter	disc	
+led	screen	light	simple	bright	picture	setup	super	indicator	clear	
+fan	noisy	loud	noise	silent	cooling	air	high	blow	level	
+cheaper	cost	model	dollar	expensive	price	buy	older	newer	buck	
+bottom	line	warm	corner	heat	hot	cold	seconds	minute	cooler	
+small	smaller	bigger	compact	hand	larger	inch	bag	large	pocket	
+usb	firewire	hub	stick	slot	ethernet	memory	card	mini	gb	
+strap	touchpad	con	keyboard	briefcase	typing	lightweight	padded	trackpad	velcro	
+battery	case	ipad	speaker	clip	headset	cell	power	jack	sound	
+dell	hour	brick	adapter	plug	cord	anker	charger	life	longer	
+average coherence	-124.95181205665058

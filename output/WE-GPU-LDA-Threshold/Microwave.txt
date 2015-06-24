@@ -1,0 +1,16 @@
+frozen	chicken	potato	beverage	meat	soup	leftovers	vegetable	job	pizza	
+popcorn	function	loud	bag	beep	noise	couple	quiet	heating	fan	
+large	size	plate	turntable	glass	dinner	larger	dish	inside	interior	
+service	warranty	appliance	part	repair	purchase	customer	samsung	error	cost	
+review	ge	oven	star	model	long	machine	consumer	choice	paint	
+panasonic	model	sharp	previous	powerful	review	watt	user	similar	site	
+easy	control	dial	display	knob	panel	clean	keypad	blue	number	
+oven	inverter	panasonic	convection	technology	money	due	extra	watt	update	
+stainless	steel	plastic	top	cabinet	replacement	side	black	kit	trim	
+small	space	kitchen	size	counter	room	compact	big	red	fit	
+button	minute	seconds	start	quick	dial	reason	push	timer	press	
+door	light	hard	open	front	complaint	sticker	interior	cheap	solid	
+power	cooking	cook	level	setting	full	lower	high	simple	low	
+food	cooking	cook	feature	sensor	heat	reheat	hot	option	mode	
+price	feature	big	box	shipping	home	instruction	free	place	return	
+average coherence	-1457.4255827240486

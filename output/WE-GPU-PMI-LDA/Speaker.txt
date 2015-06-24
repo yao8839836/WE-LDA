@@ -1,0 +1,16 @@
+radio	sound	station	star	clock	reason	fm	docking	bass	rating	
+review	logitech	research	cheap	purchase	positive	reviewer	power	plastic	design	
+price	money	expensive	cost	dollar	worth	shipping	buck	extra	replacement	
+bose	pair	klipsch	subwoofer	stereo	receiver	watt	woofer	amp	audio	
+volume	loud	control	level	distortion	remote	noise	low	high	knob	
+small	room	size	sound	large	smaller	space	bedroom	compact	tiny	
+sound	battery	bass	equalizer	charge	hour	life	mid	treble	midrange	
+easy	monitor	light	simple	setup	screen	color	black	quick	blue	
+sound	high	low	bass	clear	range	higher	crisp	picture	end	
+system	home	theater	sono	onkyo	sonos	wireless	router	wifus	network	
+cable	usb	audio	jack	power	plug	output	headphone	input	cord	
+wire	front	wall	side	center	back	stand	channel	rear	satellite	
+phone	call	line	button	bottom	top	feature	cell	cool	number	
+ipod	iphone	player	device	dock	generation	portable	bluetooth	case	ipad	
+music	sound	computer	bass	movie	laptop	pc	game	rock	equalizer	
+average coherence	-1457.81455723334

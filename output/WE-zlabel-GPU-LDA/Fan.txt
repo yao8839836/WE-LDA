@@ -1,0 +1,16 @@
+metal	grill	flimsy	plastic	light	cage	material	bright	dark	blade	
+oscillating	pedestal	cyclone	taller	vornado	lasko	slot	noisier	internal	angle	
+high	low	max	level	cfm	lower	edge	bottom	lowest	line	
+air	furniture	stove	heat	hot	wood	warm	cold	footprint	desk	
+cheaper	price	buy	breeze	oil	replacement	burning	today	junk	cost	
+rating	due	laptop	star	lightweight	pc	computer	sleek	attractive	ready	
+quiet	powerful	cpu	core	mobo	corsair	quick	simple	intel	setup	
+rechargeable	small	compact	hour	charge	pack	life	white	charger	convenient	
+loud	background	audible	noise	model	comment	older	negative	review	previous	
+control	lowest	master	mode	setting	haf	button	adjustment	radiator	level	
+front	back	side	adapter	rear	position	open	cord	panel	plug	
+stuffy	circulator	summer	conditioner	winter	vent	tent	loft	conditioning	airflow	
+cage	cfm	noctua	flow	radiator	adjustable	silent	vibration	holmes	blade	
+room	bedroom	apartment	dorm	speed	house	kitchen	kid	ceiling	basement	
+socket	customer	box	power	warranty	switch	electrical	service	weak	period	
+average coherence	-1229.7319121000714
