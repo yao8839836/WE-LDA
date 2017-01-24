@@ -29,11 +29,13 @@ The code snippet below is to run WE-LDA, generate topics and compute topic coher
 #Dataset
 
 /data/Electronics/
+
 /data/Non-Electronics/
 
 #Word Vector Files
 
 /file/amazon_word.vec
+
 /file/amazon_word_non_elect.vec
 
 Both are learned from the 50 domains text in each dataset.
