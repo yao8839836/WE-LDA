@@ -41,9 +41,9 @@ If you need the original full text reviews, please visit https://github.com/czyu
 
 #Word Vector Files
 
-/file/amazon_word.vec
+/file/amazon_word.vec for Electronics dataset.
 
-/file/amazon_word_non_elect.vec
+/file/amazon_word_non_elect.vec for Non-Electronics dataset.
 
 Both are learned from the 50 domains text in each dataset.
 
