@@ -32,6 +32,13 @@ The code snippet below is to run WE-LDA, generate topics and compute topic coher
 
 /data/Non-Electronics/
 
+We used the pre-processed version from:
+
+Chen, Z., & Liu, B. (2014a). Mining topics in documents: standing on the shoulders of big data. In KDD (pp. 1116–
+1125). ACM.
+
+If you need the original full text reviews, please visit https://github.com/czyuan/AMC and contact the author of the above paper.
+
 #Word Vector Files
 
 /file/amazon_word.vec
