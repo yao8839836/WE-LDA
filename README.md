@@ -49,9 +49,9 @@ Both are learned from the 50 domains text in each dataset.
 
 Input files for Skip-Gram:
 
-/file/amazon_docs.txt
+/file/amazon_docs.txt for Electronics dataset.
 
-/file/amazon_non_elect_docs.txt
+/file/amazon_non_elect_docs.txt for Non-Electronics dataset.
 
 #Generated Knowledge
 
