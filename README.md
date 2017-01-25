@@ -47,6 +47,11 @@ If you need the original full text reviews, please visit https://github.com/czyu
 
 Both are learned from the 50 domains text in each dataset.
 
+Input files for Skip-Gram:
+
+/file/amazon_docs.txt
+
+/file/amazon_non_elect_docs.txt
 
 #Generated Knowledge
 
