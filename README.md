@@ -26,7 +26,7 @@ The code snippet below is to run WE-LDA, generate topics and compute topic coher
 
 		}
 
-#Dataset
+# Dataset
 
 /data/Electronics/
 
@@ -39,7 +39,7 @@ Chen, Z., & Liu, B. (2014a). Mining topics in documents: standing on the shoulde
 
 If you need the original full text reviews, please visit https://github.com/czyuan/AMC and contact the author of the above paper.
 
-#Word Vector Files
+# Word Vector Files
 
 /file/amazon_word.vec for Electronics dataset.
 
@@ -53,7 +53,7 @@ Input files for Skip-Gram:
 
 /file/amazon_non_elect_docs.txt for Non-Electronics dataset.
 
-#Generated Knowledge
+# Generated Knowledge
 
 In /file/knowledge/.
     
