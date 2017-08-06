@@ -1,5 +1,7 @@
 # WE-LDA
-Incorporating Word Embeddings into Topic Modeling
+The implementation of our paper:
+
+Liang Yao, Yin Zhang, Qinfei Chen, Hongze Qian, Baogang Wei, Zhifeng Hu. Mining Coherent Topics in Documents using Word Embeddings and Large-scale Text Data. Engineering Applications of Artificial Intelligence 64 (2017): 432-439.
 
 Require Java 7+ and Eclipse. I use Java 8 in the project.
 
